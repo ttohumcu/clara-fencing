@@ -37,6 +37,7 @@ UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/130.0 Safari/537.36")
 TODAY = dt.date.today()
 NOW = dt.datetime.now(dt.timezone.utc)
+BUILD_ID = NOW.strftime("%Y%m%dT%H%M%SZ")
 
 COOKIES = http.cookiejar.CookieJar()
 OPENER = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(COOKIES))
@@ -915,11 +916,13 @@ def render(profile, events_cache, up, circuit, nat, stale):
         "SERIES": json.dumps(series),
         "UPDATED": esc(updated),
         "STALE": stale_note,
+        "BUILD": BUILD_ID,
     }.items():
         page = page.replace("{{" + k + "}}", v)
     SITE.mkdir(exist_ok=True)
     (SITE / "index.html").write_text(variant(page, keep="PUBLIC", drop="STATS"))
     (SITE / ".nojekyll").write_text("")
+    (SITE / "build.txt").write_text(BUILD_ID + "\n")
     stats_dir = SITE / "stats"
     stats_dir.mkdir(exist_ok=True)
     (stats_dir / "index.html").write_text(locked_page(variant(page, keep="STATS", drop="PUBLIC")))

@@ -188,6 +188,7 @@ footer{padding:32px 0 48px;color:var(--muted);font-size:13px}
   <!--STATS--><a href="#results">Results</a><a href="#strength">Strength</a><a href="#stats">Season stats</a><!--/STATS--><a href="#soon">Next 3 months</a><a href="#upcoming">Local · Y14 ({{N_UP}})</a><a href="#circuit">Regional circuit</a><a href="#national">National</a>
 </div></nav>
 
+<!--STATS--><p id="newbuild" hidden class="wrap stale" style="margin-top:12px">Newer data is available. <a href="" onclick="location.reload();return false">Reload</a> and enter the password.</p><!--/STATS-->
 <main class="wrap layout">
   <div class="col-top">
   {{STALE}}
@@ -301,6 +302,19 @@ footer{padding:32px 0 48px;color:var(--muted);font-size:13px}
     t.classList.add('flash'); setTimeout(function(){t.classList.remove('flash')},1600);
   })});
   apply();
+
+  // Reload when a newer daily build is published (checked every 30 min and when the tab comes back).
+  var BUILD='{{BUILD}}', BUILD_URL=/*<!--PUBLIC-->*/'build.txt'/*<!--/PUBLIC-->*//*<!--STATS-->*/'../build.txt'/*<!--/STATS-->*/;
+  function checkBuild(){
+    fetch(BUILD_URL+'?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.ok?r.text():''}).then(function(b){
+      b=b.trim(); if(!b||b===BUILD)return;
+      /*<!--STATS-->*/var saved=null; try{saved=localStorage.getItem('statsKey')}catch(e){}
+      if(!saved){var n=document.getElementById('newbuild'); if(n)n.hidden=false; return;}/*<!--/STATS-->*/
+      location.reload();
+    }).catch(function(){});
+  }
+  setInterval(function(){if(!document.hidden)checkBuild()},30*60*1000);
+  document.addEventListener('visibilitychange',function(){if(!document.hidden)checkBuild()});
 
   /*<!--STATS-->*/
   var s={{SERIES}};
