@@ -1,0 +1,325 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--PUBLIC--><title>Y14 Women's Saber · Tournament Finder</title>
+<meta name="description" content="Upcoming Y14 women's saber tournaments: local, Region 6 circuit and national. Updated daily."><!--/PUBLIC-->
+<!--STATS--><title>{{NAME}} · Fencing</title>
+<meta name="robots" content="noindex, nofollow"><!--/STATS-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f6f7f9; --card:#ffffff; --ink:#14171f; --muted:#5f6675; --line:#e3e6ec;
+  --accent:#c8102e; --accent-ink:#ffffff; --navy:#0b2545; --soft:#eef1f6;
+  --win:#1f8a4c; --loss:#c8102e; --own:#fff6e0; --tag:#eef1f6; --tag-ink:#2b3445;
+  --fit:#e6f4ec; --fit-ink:#17643a; --hl:#dff4fb; --hl-ink:#0a6a8a;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0e1117; --card:#161b24; --ink:#e8ebf1; --muted:#9aa3b2; --line:#272e3b;
+    --accent:#ff4d5e; --accent-ink:#0e1117; --navy:#9cc3ff; --soft:#1c2330;
+    --win:#4ccf86; --loss:#ff6b78; --own:#2a2414; --tag:#222a37; --tag-ink:#cfd6e2;
+    --fit:#16301f; --fit-ink:#7fe0a6; --hl:#0f2c38; --hl-ink:#6fd3f5;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0e1117; --card:#161b24; --ink:#e8ebf1; --muted:#9aa3b2; --line:#272e3b;
+  --accent:#ff4d5e; --accent-ink:#0e1117; --navy:#9cc3ff; --soft:#1c2330;
+  --win:#4ccf86; --loss:#ff6b78; --own:#2a2414; --tag:#222a37; --tag-ink:#cfd6e2;
+  --fit:#16301f; --fit-ink:#7fe0a6; --hl:#0f2c38; --hl-ink:#6fd3f5;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;-webkit-font-smoothing:antialiased}
+a{color:var(--navy);text-decoration:none}
+a:hover{text-decoration:underline}
+.wrap{max-width:1240px;margin:0 auto;padding:0 16px}
+header.hero{background:linear-gradient(135deg,#0b2545 0%,#13315c 60%,#7a0b1d 100%);color:#fff;padding:36px 0 28px}
+.hero .eyebrow{text-transform:uppercase;letter-spacing:.14em;font-size:12px;opacity:.8;font-weight:600}
+.hero h1{margin:6px 0 4px;font-size:clamp(28px,6vw,44px);font-weight:800;letter-spacing:-.02em}
+.hero .meta{opacity:.9}
+.hero .meta a{color:#fff;text-decoration:underline;text-underline-offset:3px}
+nav.sections{position:sticky;top:0;z-index:5;background:var(--card);border-bottom:1px solid var(--line)}
+nav.sections .wrap{display:flex;gap:4px;overflow-x:auto;scrollbar-width:none}
+nav.sections a{padding:12px 12px;white-space:nowrap;color:var(--muted);font-weight:600;font-size:14px}
+nav.sections a:hover{color:var(--ink);text-decoration:none}
+section{padding:28px 0 8px}
+h2{font-size:22px;margin:0 0 4px;letter-spacing:-.01em}
+h2 + .lede{margin:0 0 16px;color:var(--muted)}
+h3{margin:0;font-size:16px}
+.muted{color:var(--muted)} .small{font-size:13px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px;margin-top:-40px}
+.tile{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 16px;box-shadow:0 1px 2px rgba(0,0,0,.04)}
+.tile-label{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;font-weight:600}
+.tile-value{font-size:24px;font-weight:800;margin:2px 0;font-variant-numeric:tabular-nums}
+.tile-sub{font-size:12px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.layout{display:grid;grid-template-columns:minmax(0,1fr);gap:0 28px}
+.side{padding-top:28px}
+.side h2{font-size:18px}
+.archive h4{margin:14px 0 4px;font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.archive h4:first-child{margin-top:4px}
+.archive ul{list-style:none;margin:0;padding:0;border-left:2px solid var(--line)}
+.archive li{margin:0}
+.mini{display:flex;gap:10px;align-items:baseline;padding:5px 0 5px 12px;margin-left:-2px;border-left:2px solid transparent;color:var(--ink);font-size:14px}
+.mini b{flex:0 0 52px;color:var(--accent);font-size:13px;font-variant-numeric:tabular-nums}
+.mini span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.mini:hover{text-decoration:none;border-left-color:var(--accent);background:var(--soft)}
+.mini.own b{color:#b7791f}
+.mini.own{background:var(--own)}
+.mini.hl{background:var(--hl)}
+.mini.hl b{color:var(--hl-ink)}
+tr.hl td{background:var(--hl)}
+.tcard.hl,.ncard.hl{border-color:var(--hl-ink);box-shadow:inset 4px 0 0 var(--hl-ink)}
+.pinned{margin:4px 0 14px;padding-bottom:8px;border-bottom:1px dashed var(--line)}
+.pinned h4{color:var(--hl-ink)!important}
+.mini small{color:var(--muted);font-size:11px}
+.kicker{display:inline-block;font-size:11px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;border-radius:6px;padding:2px 8px;margin-bottom:6px}
+.k-loc{background:var(--fit);color:var(--fit-ink)}
+.k-reg{background:var(--own);color:#b7791f}
+.k-nat{background:var(--navy);color:var(--card)}
+.hl-key{background:var(--hl);color:var(--hl-ink);border-radius:4px;padding:0 4px;font-weight:600}
+.own-key{background:var(--own);border-radius:4px;padding:0 4px}
+tr{scroll-margin-top:60px}
+tr.flash td{box-shadow:inset 0 0 0 9999px rgba(200,16,46,.12)}
+@media (min-width:960px){
+  .layout{grid-template-columns:minmax(0,1fr) 250px}
+  .col-top{grid-column:1;grid-row:1 / span 2}
+  .col-rest{grid-column:1;grid-row:3}
+  .side{grid-column:2}
+  #soon{grid-row:1}
+  .side-left{grid-row:2 / span 2}
+  .side-left .side-inner{position:sticky;top:56px;max-height:calc(100vh - 72px);overflow-y:auto;padding-right:4px}
+}
+@media (min-width:1280px){
+  .wrap{max-width:1480px}
+  .layout{grid-template-columns:240px minmax(0,1fr) 250px}
+  .col-top{grid-column:2;grid-row:1}
+  .col-rest{grid-column:2;grid-row:2}
+  .side{grid-row:1 / span 2}
+  #soon{grid-column:3;grid-row:1 / span 2}
+  .side-left{grid-column:1;grid-row:1 / span 2}
+  .side-inner{position:sticky;top:56px;max-height:calc(100vh - 72px);overflow-y:auto;padding-right:4px}
+}
+.tcard{scroll-margin-top:60px;transition:box-shadow .3s}
+.tcard.flash{box-shadow:0 0 0 3px var(--accent)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px}
+.chart-box{position:relative;height:260px}
+.result{background:var(--card);border:1px solid var(--line);border-radius:12px;margin-bottom:10px;overflow:hidden}
+.result summary{list-style:none;display:grid;grid-template-columns:110px 1fr 120px;gap:12px;align-items:center;padding:12px 16px;cursor:pointer}
+.result summary::-webkit-details-marker{display:none}
+.result[open] summary{border-bottom:1px solid var(--line)}
+.r-date{font-size:13px;color:var(--muted);font-weight:600}
+.r-title{font-weight:700}
+.r-place{text-align:right;font-variant-numeric:tabular-nums}
+.r-place b{font-size:20px}
+.bar{height:5px;background:var(--soft);border-radius:4px;margin-top:4px;overflow:hidden}
+.bar span{display:block;height:100%;background:var(--accent)}
+.r-body{padding:4px 16px 14px}
+.scroll{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{padding:8px 10px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+th{font-size:12px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);font-weight:600;white-space:nowrap}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.pill{display:inline-block;width:22px;height:22px;border-radius:6px;text-align:center;line-height:22px;font-weight:700;font-size:12px;color:#fff}
+.pill-win{background:var(--win)} .pill-loss{background:var(--loss)}
+.season-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:12px;margin-top:12px}
+.season-table{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px}
+.season-table h3{font-size:14px;margin:0 0 6px}
+.season-table td:first-child{font-weight:600;white-space:nowrap}
+.filters{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 14px}
+.chip{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:6px 14px;font:600 13px Inter,sans-serif;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--navy);border-color:var(--navy);color:var(--card)}
+.tlist{display:grid;gap:10px}
+.tcard{display:grid;grid-template-columns:72px 1fr;gap:14px;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px}
+.t-date{text-align:center;border-right:1px solid var(--line);padding-right:12px}
+.t-mon{font-size:12px;text-transform:uppercase;font-weight:700;color:var(--accent);letter-spacing:.08em}
+.t-day{font-size:28px;font-weight:800;line-height:1.1}
+.t-in{font-size:11px;color:var(--muted)}
+.t-body h3 a{color:var(--ink)}
+.tags{display:flex;gap:6px;flex-wrap:wrap;margin:8px 0 4px}
+.tag{display:inline-block;background:var(--tag);color:var(--tag-ink);border-radius:6px;padding:1px 8px;font-size:12px;font-weight:600;margin-right:4px}
+.tag-region{background:var(--own)}
+.tag-fit{background:var(--fit);color:var(--fit-ink)}
+.tag-none{opacity:.7}
+.evs{margin:6px 0 10px;padding-left:18px}
+.evs li{margin:2px 0}
+.ev-when{font-variant-numeric:tabular-nums;color:var(--muted);font-size:13px;margin-right:4px}
+.actions{display:flex;gap:8px;flex-wrap:wrap}
+.btn{display:inline-block;background:var(--accent);color:var(--accent-ink);border-radius:8px;padding:6px 12px;font-weight:700;font-size:13px}
+.btn:hover{text-decoration:none;filter:brightness(1.08)}
+.btn-ghost{background:transparent;color:var(--navy);border:1px solid var(--line)}
+.btn-off{background:var(--soft);color:var(--muted)}
+tr.own td{background:var(--own)}
+.ngrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
+.ncard{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px}
+.ncard h3{margin:4px 0 2px}
+.stale{background:var(--own);border-radius:10px;padding:10px 14px;font-size:14px}
+.legend{display:flex;gap:16px;font-size:13px;color:var(--muted);margin:6px 0 0}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:middle}
+footer{padding:32px 0 48px;color:var(--muted);font-size:13px}
+.hidden{display:none!important}
+@media (max-width:640px){
+  .result summary{grid-template-columns:1fr auto}
+  .r-date{grid-column:1 / -1}
+  .tcard{grid-template-columns:56px 1fr;gap:10px}
+  .t-day{font-size:22px}
+  .tiles{margin-top:-28px}
+}
+</style>
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <!--PUBLIC--><div class="eyebrow">Y14 Women's Saber · {{SEASON}} season</div>
+    <h1>Tournament finder</h1>
+    <div class="meta">Local, {{HL_LABEL}} circuit and national events · updated daily</div>
+    <div style="height:20px"></div><!--/PUBLIC-->
+    <!--STATS--><div class="eyebrow">Women's Saber · {{SEASON}} season · private</div>
+    <h1>{{NAME}}</h1>
+    <div class="meta">Born {{BIRTH}} · <a href="{{CLUB_URL}}">{{CLUB}}</a> · <a href="{{PROFILE_URL}}">fencingtracker profile</a> · <a href="#" onclick="try{localStorage.removeItem('statsKey')}catch(e){};location.reload();return false">Lock</a></div>
+    <div style="height:44px"></div><!--/STATS-->
+  </div>
+</header>
+<!--STATS--><div class="wrap"><div class="tiles">{{TILES}}</div>
+</div><!--/STATS-->
+<nav class="sections"><div class="wrap">
+  <!--STATS--><a href="#results">Results</a><a href="#strength">Strength</a><a href="#stats">Season stats</a><!--/STATS--><a href="#soon">Next 3 months</a><a href="#upcoming">Local · Y14 ({{N_UP}})</a><a href="#circuit">Regional circuit</a><a href="#national">National</a>
+</div></nav>
+
+<main class="wrap layout">
+  <div class="col-top">
+  {{STALE}}
+  <!--STATS-->
+  <section id="results">
+    <h2>Results</h2>
+    <p class="lede">Every competition on fencingtracker. Click one to see each bout.</p>
+    {{RESULTS}}
+  </section>
+
+  <section id="strength">
+    <h2>Saber strength</h2>
+    <p class="lede">fencingtracker's strength estimate after each competition (the scale averages about 2500). Early estimates move a lot.</p>
+    <div class="card">
+      <div class="chart-box"><canvas id="strengthChart" aria-label="Strength over time"></canvas></div>
+      <div class="legend"><span><i style="background:var(--accent)"></i>Direct elimination</span><span><i style="background:var(--navy)"></i>Pools</span></div>
+    </div>
+  </section>
+
+  <section id="stats">
+    <h2>Season stats</h2>
+    <p class="lede">Seasons run August 1 to July 31.</p>
+    <div class="season-grid">{{SEASON_TABLES}}</div>
+  </section>
+  <!--/STATS-->
+  </div>
+  <aside class="side" id="soon">
+    <div class="side-inner">
+      <div class="kicker k-loc">Local</div><h2>AskFRED · next 3 months</h2>
+      <p class="lede small">Y14 saber tournaments. Tap one for details. <span class="hl-key">Blue</span> marks {{HL_LABEL}}.</p>
+      <nav class="archive">{{SOON}}</nav>
+    </div>
+  </aside>
+  <aside class="side side-left" id="circuit-side">
+    <div class="side-inner">
+      <div class="kicker k-reg">Regional</div><h2>USA Fencing circuit · next 3 months</h2>
+      <p class="lede small">USA Fencing SYC, RYC, RJCC and ROC events with eligible Y14, Cadet, Junior or Division events. <span class="hl-key">Blue</span> marks {{HL_LABEL}}.</p>
+      <nav class="archive">{{CIRC_SIDE}}</nav>
+    </div>
+  </aside>
+  <div class="col-rest">
+
+  <section id="upcoming">
+    <div class="kicker k-loc">Local</div><h2>Upcoming Y14 women's saber</h2>
+    <p class="lede">From AskFRED, within {{RADIUS}} miles of {{HOME}}. Only Y14 saber events open to girls (women's or mixed) are listed. <span class="hl-key">Blue</span> marks {{HL_LABEL}}. Within {{LOCAL_MI}} miles: {{N_LOCAL}}.</p>
+    <div class="filters" role="group" aria-label="Filter tournaments">
+      <button class="chip" data-filter="all" aria-pressed="true">All</button>
+      <button class="chip" data-filter="local" aria-pressed="false">Within {{LOCAL_MI}} mi</button>
+      <button class="chip" data-filter="regional" aria-pressed="false">Travel</button>
+      <button class="chip" data-filter="circuit" aria-pressed="false">Circuit / points events</button>
+      <button class="chip chip-hl" data-filter="hl" aria-pressed="false">{{HL_LABEL}}</button>
+    </div>
+    <div class="tlist" id="tlist">{{UPCOMING}}</div>
+    <div style="text-align:center;margin-top:12px"><button class="chip" id="more" type="button">Show all</button></div>
+  </section>
+
+  <section id="circuit">
+    <div class="kicker k-reg">Regional</div><h2>USA Fencing regional circuit</h2>
+    <p class="lede">SYC, RYC, RJCC and ROC tournaments nationwide with eligible Y14, Cadet, Junior or Division events. <span class="hl-key">Blue</span> rows are in {{REGION}}.</p>
+    <div class="card scroll"><table>
+      <thead><tr><th>Dates</th><th>Tournament</th><th>Location</th><th>Region</th><th>Circuit</th><th>Eligible events</th></tr></thead>
+      <tbody>{{CIRCUIT_ROWS}}</tbody>
+    </table></div>
+  </section>
+
+  <section id="national">
+    <div class="kicker k-nat">National</div><h2>USA Fencing national events</h2>
+    <p class="lede">The USA Fencing national calendar. Green tags show the eligible categories.</p>
+    <div class="ngrid">{{NATIONAL}}</div>
+  </section>
+  </div>
+</main>
+<footer class="wrap">
+  Updated {{UPDATED}}. It rebuilds every day from <a href="https://fencingtracker.com">fencingtracker</a>, <a href="https://www.askfred.net">AskFRED</a> and <a href="https://www.usafencing.org/events-national">USA Fencing</a>.
+  Eligibility is a best guess from age group and rating, so always check the event's entry requirements before you register.
+  <!--PUBLIC--><a href="stats/" class="muted" style="float:right">Family login</a><!--/PUBLIC--><!--STATS--><a href="../" class="muted" style="float:right">Public page</a><!--/STATS-->
+</footer>
+
+<!--STATS--><script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script><!--/STATS-->
+<script>
+(function(){
+  var chips=document.querySelectorAll('.chip[data-filter]'), more=document.getElementById('more'),
+      filter='all', expanded=false, LIMIT=15;
+  function apply(){
+    var n=0, total=0;
+    document.querySelectorAll('#tlist .tcard').forEach(function(t){
+      var match=filter==='all'||(filter==='circuit'?t.dataset.circuit==='1':filter==='hl'?t.classList.contains('hl'):t.dataset.tier===filter);
+      if(match)total++;
+      var show=match&&(expanded||n<LIMIT);
+      if(show)n++;
+      t.classList.toggle('hidden',!show);
+    });
+    more.textContent=expanded?'Show fewer':'Show all '+total;
+    more.parentNode.classList.toggle('hidden',total<=LIMIT);
+  }
+  chips.forEach(function(c){c.addEventListener('click',function(){
+    chips.forEach(function(x){x.setAttribute('aria-pressed',x===c?'true':'false')});
+    filter=c.dataset.filter; expanded=false; apply();
+  })});
+  more.addEventListener('click',function(){expanded=!expanded;apply();});
+  document.querySelectorAll('.mini').forEach(function(m){m.addEventListener('click',function(e){
+    var t=document.getElementById(m.dataset.target); if(!t)return;
+    e.preventDefault();
+    if(t.classList.contains('hidden')&&t.classList.contains('tcard')){
+      filter='all'; expanded=true;
+      chips.forEach(function(x){x.setAttribute('aria-pressed',x.dataset.filter==='all'?'true':'false')});
+      apply();
+    }
+    t.scrollIntoView({behavior:'smooth',block:'start'});
+    history.replaceState(null,'','#'+m.dataset.target);
+    t.classList.add('flash'); setTimeout(function(){t.classList.remove('flash')},1600);
+  })});
+  apply();
+
+  /*<!--STATS-->*/
+  var s={{SERIES}};
+  var el=document.getElementById('strengthChart');
+  if(!window.Chart||!el)return;
+  var css=getComputedStyle(document.documentElement);
+  var accent=css.getPropertyValue('--accent').trim(), navy=css.getPropertyValue('--navy').trim(),
+      muted=css.getPropertyValue('--muted').trim(), line=css.getPropertyValue('--line').trim();
+  var dates=Array.from(new Set(s.de.map(function(p){return p.x}).concat(s.pool.map(function(p){return p.x})))).sort();
+  function at(arr){var m={};arr.forEach(function(p){m[p.x]=p.y});return dates.map(function(d){return d in m?m[d]:null})}
+  function label(d){var t=new Date(d+'T12:00:00');return t.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'2-digit'})}
+  new Chart(el,{type:'line',data:{labels:dates.map(label),datasets:[
+    {label:'Direct elimination',data:at(s.de),borderColor:accent,backgroundColor:accent,borderWidth:2.5,pointRadius:5,spanGaps:true,tension:.25},
+    {label:'Pools',data:at(s.pool),borderColor:navy,backgroundColor:navy,borderWidth:2.5,pointRadius:5,spanGaps:true,tension:.25}
+  ]},options:{maintainAspectRatio:false,interaction:{mode:'index',intersect:false},
+    plugins:{legend:{display:false}},
+    scales:{x:{grid:{display:false},ticks:{color:muted}},y:{beginAtZero:true,grid:{color:line},ticks:{color:muted}}}}});
+  /*<!--/STATS-->*/
+})();
+</script>
+</body>
+</html>

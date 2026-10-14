@@ -1,0 +1,122 @@
+[
+ {
+  "source": "usaf",
+  "name": "October 2026 North American Cup",
+  "when": "Oct. 9–12, 2026",
+  "location": "Orlando, Fla.",
+  "start": "2026-10-09",
+  "end": "2026-10-12",
+  "categories": "Division I, Cadet, Y14, Cadet Team, Parafencing",
+  "notes": [],
+  "url": "https://www.usafencing.org/2026-october-nac"
+ },
+ {
+  "source": "usaf",
+  "name": "November 2026 North American Cup",
+  "when": "Nov. 20–23, 2026",
+  "location": "Columbus, Ohio",
+  "start": "2026-11-20",
+  "end": "2026-11-23",
+  "categories": "Division I, Junior, Cadet",
+  "notes": [],
+  "url": "https://www.usafencing.org/2026-november-north-american-cup"
+ },
+ {
+  "source": "usaf",
+  "name": "December 2026 SJCC",
+  "when": "Dec. 4–6, 2026",
+  "location": "Milwaukee, Wis.",
+  "start": "2026-12-04",
+  "end": "2026-12-06",
+  "categories": "Junior, Cadet",
+  "notes": [
+   "Baird Center"
+  ],
+  "url": "https://www.usafencing.org/2026-december-sjcc"
+ },
+ {
+  "source": "usaf",
+  "name": "2027 Junior Olympics and Para NAC",
+  "when": "Jan. 8–11, 2027",
+  "location": "Oklahoma City",
+  "start": "2027-01-08",
+  "end": "2027-01-11",
+  "categories": "Junior, Cadet, Junior Team, Parafencing",
+  "notes": [],
+  "url": "https://www.usafencing.org/2027-junior-olympics-january-nac"
+ },
+ {
+  "source": "usaf",
+  "name": "February NAC",
+  "when": "Feb. 12–15, 2027",
+  "location": "Richmond, Virginia",
+  "start": "2027-02-12",
+  "end": "2027-02-15",
+  "categories": "Division I, Junior, Veteran Age, Veteran Combined, Veteran Team",
+  "notes": [],
+  "url": "https://www.usafencing.org/2027-february-nac"
+ },
+ {
+  "source": "usaf",
+  "name": "March NAC",
+  "when": "Mar. 5–8, 2027",
+  "location": "Location TBA",
+  "start": "2027-03-05",
+  "end": "2027-03-08",
+  "categories": "Y14, Y12, Y10, Division II",
+  "notes": [
+   "Hotel booking link coming soon"
+  ],
+  "url": "https://www.usafencing.org/2027-march-nac"
+ },
+ {
+  "source": "usaf",
+  "name": "April 2027 North American Cup And Division I & Para National Championships",
+  "when": "Apr. 16–19, 2027",
+  "location": "Cincinnati, Ohio",
+  "start": "2027-04-16",
+  "end": "2027-04-19",
+  "categories": "Division I, Junior, Division I Team, Veteran Age, Veteran Combined, Parafencing",
+  "notes": [
+   "First Financial Center"
+  ],
+  "url": "https://www.usafencing.org/2027-division-i-parafencing-national-championship-april-nac"
+ },
+ {
+  "source": "usaf",
+  "name": "May SJCC",
+  "when": "Dates TBA",
+  "location": "Location TBA",
+  "start": "",
+  "end": "",
+  "categories": "Junior, Cadet",
+  "notes": [
+   "Hotel booking link coming soon"
+  ],
+  "url": "https://www.usafencing.org/2027-may-sjcc"
+ },
+ {
+  "source": "usaf",
+  "name": "June NY/NJ Tournament",
+  "when": "June 11–14, 2027",
+  "location": "New York/New Jersey",
+  "start": "2027-06-11",
+  "end": "2027-06-14",
+  "categories": "Event combinations to be announced",
+  "notes": [
+   "Hotel booking link coming soon"
+  ],
+  "url": ""
+ },
+ {
+  "source": "usaf",
+  "name": "2027 Summer Nationals",
+  "when": "July 2–11, 2027",
+  "location": "Salt Lake City",
+  "start": "2027-07-02",
+  "end": "2027-07-11",
+  "categories": "All weapons, all age categories",
+  "notes": [],
+  "url": "https://www.usafencing.org/2027-summer-nationals-july-challenge"
+ }
+]

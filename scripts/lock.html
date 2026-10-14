@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Private</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#14171f;--muted:#5f6675;--line:#e3e6ec;--accent:#c8102e;--accent-ink:#fff}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#0e1117;--card:#161b24;--ink:#e8ebf1;--muted:#9aa3b2;--line:#272e3b;--accent:#ff4d5e;--accent-ink:#0e1117}}
+:root[data-theme="dark"]{--bg:#0e1117;--card:#161b24;--ink:#e8ebf1;--muted:#9aa3b2;--line:#272e3b;--accent:#ff4d5e;--accent-ink:#0e1117}
+*{box-sizing:border-box}
+body{margin:0;min-height:100vh;display:grid;place-items:center;padding:16px;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+main{width:100%;max-width:340px;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:24px}
+h1{font-size:20px;margin:0 0 4px}
+.sub{color:var(--muted);margin:0 0 18px;font-size:14px}
+label{display:block;font-weight:600;font-size:13px;margin-bottom:6px}
+input[type=password]{width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink);font-size:16px}
+.rem{display:flex;gap:8px;align-items:center;font-weight:400;color:var(--muted);margin:12px 0 16px}
+button{width:100%;padding:10px;border:0;border-radius:8px;background:var(--accent);color:var(--accent-ink);font-weight:700;font-size:15px;cursor:pointer}
+button:disabled{opacity:.6;cursor:wait}
+#err{color:var(--accent);min-height:1.5em;margin:10px 0 0;font-size:14px}
+a{color:var(--muted)}
+.trying main{visibility:hidden}
+</style>
+</head>
+<body>
+<main>
+  <h1>Private page</h1>
+  <p class="sub">Enter the family password to see the stats.</p>
+  {{BODY}}
+  <p class="sub" style="margin:16px 0 0"><a href="../">← Back to tournaments</a></p>
+</main>
+<script id="payload" type="application/json">{{PAYLOAD}}</script>
+<script>
+(function(){
+  var raw=document.getElementById('payload').textContent.trim();
+  var form=document.getElementById('f');
+  if(!raw||!form)return;
+  var p=JSON.parse(raw);
+  function b64(s){return Uint8Array.from(atob(s),function(c){return c.charCodeAt(0)})}
+  function toB64(buf){return btoa(String.fromCharCode.apply(null,new Uint8Array(buf)))}
+  function store(k,v){try{v===null?localStorage.removeItem(k):localStorage.setItem(k,v)}catch(e){}}
+  function load(k){try{return localStorage.getItem(k)}catch(e){return null}}
+
+  function derive(pw){
+    return crypto.subtle.importKey('raw',new TextEncoder().encode(pw),'PBKDF2',false,['deriveKey']).then(function(base){
+      return crypto.subtle.deriveKey({name:'PBKDF2',salt:b64(p.salt),iterations:p.iter,hash:'SHA-256'},
+        base,{name:'AES-GCM',length:256},true,['decrypt']);
+    });
+  }
+  // document.open() only replaces the page once parsing is finished
+  var loaded=new Promise(function(r){document.readyState==='complete'?r():window.addEventListener('load',function(){r()})});
+  function open(key){
+    return crypto.subtle.decrypt({name:'AES-GCM',iv:b64(p.iv)},key,b64(p.ct)).then(function(buf){
+      return loaded.then(function(){return new TextDecoder().decode(buf)});
+    }).then(function(html){
+      document.open();document.write(html);document.close();
+      if(location.hash){var t=document.getElementById(location.hash.slice(1));if(t)t.scrollIntoView();}
+    });
+  }
+
+  var saved=load('statsKey');
+  if(saved){
+    document.documentElement.classList.add('trying');
+    crypto.subtle.importKey('raw',b64(saved),{name:'AES-GCM'},false,['decrypt'])
+      .then(open).catch(function(){store('statsKey',null);document.documentElement.classList.remove('trying')});
+  }
+
+  form.addEventListener('submit',function(e){
+    e.preventDefault();
+    var btn=form.querySelector('button'),err=document.getElementById('err');
+    var remember=document.getElementById('rem').checked;  // read before the page is replaced
+    btn.disabled=true;btn.textContent='Unlocking…';err.textContent='';
+    derive(document.getElementById('pw').value).then(function(key){
+      return open(key).then(function(){
+        if(!remember)return;
+        return crypto.subtle.exportKey('raw',key).then(function(r){store('statsKey',toB64(r))});
+      });
+    }).catch(function(){
+      btn.disabled=false;btn.textContent='Unlock';err.textContent='That password is not right.';
+    });
+  });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,71 @@
+name: Update and deploy
+
+on:
+  schedule:
+    - cron: "17 10 * * *"   # daily, ~6:17am ET
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      stale: ${{ steps.update.outputs.stale }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install cryptography
+      - name: Fetch data and build site
+        id: update
+        env:
+          TZ: America/New_York
+          # Encrypts the private stats page; set with: gh secret set STATS_PASSWORD
+          STATS_PASSWORD: ${{ secrets.STATS_PASSWORD }}
+        run: python scripts/update.py
+      - name: Commit refreshed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Daily data refresh $(date +%F)"
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
+
+  # The site still deploys with the last good data, but this marks the run as
+  # failed so GitHub emails a notification when a source could not be refreshed.
+  check-sources:
+    needs: [build, deploy]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fail if any source was stale
+        if: needs.build.outputs.stale != ''
+        run: |
+          echo "::error::Could not refresh: ${{ needs.build.outputs.stale }} (site shows last saved data)"
+          exit 1
+      - run: echo "All sources refreshed"

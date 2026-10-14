@@ -1,0 +1,4792 @@
+[
+ {
+  "source": "askfred",
+  "id": "760723a1-becd-4d00-87ab-d3e0153f6cef",
+  "name": "October NAC",
+  "url": "https://www.askfred.net/tournaments/760723a1-becd-4d00-87ab-d3e0153f6cef",
+  "register_url": "",
+  "whos_coming_url": "https://www.askfred.net/tournaments/760723a1-becd-4d00-87ab-d3e0153f6cef/preregistrations",
+  "registration_open": false,
+  "start": "2026-10-09",
+  "end": "2026-10-12",
+  "venue": "Orange County Convention Center: Orlando, Florida",
+  "distance": 100,
+  "events": [
+   {
+    "name": "Cadet Women's Epee",
+    "when": "Start Unknown",
+    "estimate": "A4",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Parafencing Senior Women's Epee",
+    "when": "Start Unknown",
+    "estimate": "E1",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Cadet Women's Foil",
+    "when": "Start Unknown",
+    "estimate": "A4",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Division I Women’s Saber",
+    "when": "Start Unknown",
+    "estimate": "A4",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div1",
+    "start": ""
+   },
+   {
+    "name": "Cadet Men's Foil",
+    "when": "Start Unknown",
+    "estimate": "A4",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Cadet Men's Epee",
+    "when": "Start Unknown",
+    "estimate": "A4",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Division I Women’s Foil",
+    "when": "Start Unknown",
+    "estimate": "A4",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div1",
+    "start": ""
+   },
+   {
+    "name": "Division I Men’s Saber",
+    "when": "Start Unknown",
+    "estimate": "A4",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div1",
+    "start": ""
+   },
+   {
+    "name": "Y14 Men's Saber",
+    "when": "Start Unknown",
+    "estimate": "A2/B3",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Y14 Women's Saber",
+    "when": "Start Unknown",
+    "estimate": "A4",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Division I Men’s Foil",
+    "when": "Start Unknown",
+    "estimate": "A4",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div1",
+    "start": ""
+   },
+   {
+    "name": "Division I Men’s Epee",
+    "when": "Start Unknown",
+    "estimate": "A4",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div1",
+    "start": ""
+   },
+   {
+    "name": "Cadet Women's Saber",
+    "when": "Start Unknown",
+    "estimate": "A4",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Division I Women’s Epee",
+    "when": "Start Unknown",
+    "estimate": "A4",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div1",
+    "start": ""
+   },
+   {
+    "name": "Cadet Men's Saber",
+    "when": "Start Unknown",
+    "estimate": "A4",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Y14 Women's Epee",
+    "when": "Start Unknown",
+    "estimate": "A4",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Y14 Women's Foil",
+    "when": "Start Unknown",
+    "estimate": "A3",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Y14 Men's Foil",
+    "when": "Start Unknown",
+    "estimate": "A3",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Y14 Men's Epee",
+    "when": "Start Unknown",
+    "estimate": "A3",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Parafencing Senior Men's Foil",
+    "when": "Start Unknown",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Cadet Women's Epee",
+    "when": "Start Unknown",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Cadet Men's Foil",
+    "when": "Start Unknown",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Parafencing Senior Men's Epee",
+    "when": "Start Unknown",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Cadet Men's Epee",
+    "when": "Start Unknown",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Cadet Men's Saber",
+    "when": "Start Unknown",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Cadet Women's Saber",
+    "when": "Start Unknown",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Parafencing Senior Men's Saber",
+    "when": "Start Unknown",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Parafencing Senior Women's Saber",
+    "when": "Start Unknown",
+    "estimate": "E1",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Cadet Women's Foil",
+    "when": "Start Unknown",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Parafencing Senior Women's Foil",
+    "when": "Start Unknown",
+    "estimate": "E1",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "78304d23-ab1c-42bd-8716-49148bb22039",
+  "name": "Emory's 5th Annual Dooley Duel",
+  "url": "https://www.askfred.net/tournaments/78304d23-ab1c-42bd-8716-49148bb22039",
+  "register_url": "https://www.askfred.net/tournaments/78304d23-ab1c-42bd-8716-49148bb22039/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/78304d23-ab1c-42bd-8716-49148bb22039/preregistrations",
+  "registration_open": true,
+  "start": "2026-10-17",
+  "end": "2026-10-18",
+  "venue": "Emory SAAC: Decatur, GA",
+  "distance": 459,
+  "events": [
+   {
+    "name": "Unsanctioned Mixed Epee",
+    "when": "Oct 17 10:30AM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-10-17 10:30"
+   },
+   {
+    "name": "Unsanctioned Mixed Epee Team",
+    "when": "Oct 17 1:30PM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-10-17 13:30"
+   },
+   {
+    "name": "Unsanctioned Mixed Foil",
+    "when": "Oct 18 10:30AM",
+    "estimate": "",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-10-18 10:30"
+   },
+   {
+    "name": "Unsanctioned Mixed Saber",
+    "when": "Oct 18 12:30PM",
+    "estimate": "",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-10-18 12:30"
+   },
+   {
+    "name": "Unsanctioned Mixed Foil Team",
+    "when": "Oct 18 1:30PM",
+    "estimate": "",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-10-18 13:30"
+   },
+   {
+    "name": "Unsanctioned Mixed Saber Team",
+    "when": "Oct 18 3:00PM",
+    "estimate": "",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-10-18 15:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "e060e0fb-9c90-4372-9248-127abd0ff22b",
+  "name": "Crazy Sox Challenge",
+  "url": "https://www.askfred.net/tournaments/e060e0fb-9c90-4372-9248-127abd0ff22b",
+  "register_url": "https://www.askfred.net/tournaments/e060e0fb-9c90-4372-9248-127abd0ff22b/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/e060e0fb-9c90-4372-9248-127abd0ff22b/preregistrations",
+  "registration_open": true,
+  "start": "2026-10-17",
+  "end": "2026-10-18",
+  "venue": "Stoccata Fencing Academy: Altamonte Springs, FL",
+  "distance": 114,
+  "events": [
+   {
+    "name": "Senior Mixed Foil",
+    "when": "Oct 17 10:00AM",
+    "estimate": "E1 · up to 25 pts",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-10-17 10:00"
+   },
+   {
+    "name": "Unrated Senior Mixed Saber",
+    "when": "Oct 17 1:00PM",
+    "estimate": "E1 · up to 25 pts",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Unrated",
+    "start": "2026-10-17 13:00"
+   },
+   {
+    "name": "Unrated Senior Mixed Foil",
+    "when": "Oct 17 1:00PM",
+    "estimate": "E1 · up to 25 pts",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Unrated",
+    "start": "2026-10-17 13:00"
+   },
+   {
+    "name": "Senior Mixed Saber",
+    "when": "Oct 17 3:30PM",
+    "estimate": "B1 · up to 50 pts",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-10-17 15:30"
+   },
+   {
+    "name": "Y12 Mixed Saber",
+    "when": "Oct 18 9:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-10-18 09:00"
+   },
+   {
+    "name": "Y10 Mixed Foil",
+    "when": "Oct 18 9:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2026-10-18 09:00"
+   },
+   {
+    "name": "Y12 Mixed Foil",
+    "when": "Oct 18 11:00AM",
+    "estimate": "NR",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-10-18 11:00"
+   },
+   {
+    "name": "Unrated Senior Mixed Epee",
+    "when": "Oct 18 11:00AM",
+    "estimate": "E1 · up to 25 pts",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Unrated",
+    "start": "2026-10-18 11:00"
+   },
+   {
+    "name": "Senior Mixed Epee",
+    "when": "Oct 18 1:30PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-10-18 13:30"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "285570e2-0e8c-4c8d-a9a7-8a1158ec65ef",
+  "name": "LA Div: 3 Weapon Open w E & U Foil",
+  "url": "https://www.askfred.net/tournaments/285570e2-0e8c-4c8d-a9a7-8a1158ec65ef",
+  "register_url": "https://www.askfred.net/tournaments/285570e2-0e8c-4c8d-a9a7-8a1158ec65ef/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/285570e2-0e8c-4c8d-a9a7-8a1158ec65ef/preregistrations",
+  "registration_open": true,
+  "start": "2026-10-17",
+  "end": "2026-10-17",
+  "venue": "Riverside Hilton: New Orleans, LA",
+  "distance": 491,
+  "events": [
+   {
+    "name": "Senior Mixed Foil",
+    "when": "Oct 17 9:45AM",
+    "estimate": "E1 · up to 25 pts",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-10-17 09:45"
+   },
+   {
+    "name": "Senior Mixed Saber",
+    "when": "Oct 17 10:30AM",
+    "estimate": "E1 · up to 25 pts",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-10-17 10:30"
+   },
+   {
+    "name": "Unrated Mixed Foil",
+    "when": "Oct 17 11:30AM",
+    "estimate": "E1 · up to 25 pts",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Unrated",
+    "start": "2026-10-17 11:30"
+   },
+   {
+    "name": "Senior Mixed Epee",
+    "when": "Oct 17 12:30PM",
+    "estimate": "D1 · up to 30 pts",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-10-17 12:30"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "d0c15524-488a-4139-940f-633098aa8e31",
+  "name": "3Weapon Youth 12 & Under Demo",
+  "url": "https://www.askfred.net/tournaments/d0c15524-488a-4139-940f-633098aa8e31",
+  "register_url": "https://www.askfred.net/tournaments/d0c15524-488a-4139-940f-633098aa8e31/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/d0c15524-488a-4139-940f-633098aa8e31/preregistrations",
+  "registration_open": true,
+  "start": "2026-10-17",
+  "end": "2026-10-17",
+  "venue": "Riverside Hilton: New Orleans, LA",
+  "distance": 491,
+  "events": [
+   {
+    "name": "Unsanctioned Y12 Mixed Epee",
+    "when": "Oct 17 9:00AM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-10-17 09:00"
+   },
+   {
+    "name": "Unsanctioned Y12 Mixed Foil",
+    "when": "Oct 17 9:30AM",
+    "estimate": "",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-10-17 09:30"
+   },
+   {
+    "name": "Unsanctioned Y12 Mixed Saber",
+    "when": "Oct 17 10:00AM",
+    "estimate": "",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-10-17 10:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "68b5c0fb-4577-49df-87d8-f26cf756ce6f",
+  "name": "Fall Frolic 2026",
+  "url": "https://www.askfred.net/tournaments/68b5c0fb-4577-49df-87d8-f26cf756ce6f",
+  "register_url": "https://www.askfred.net/tournaments/68b5c0fb-4577-49df-87d8-f26cf756ce6f/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/68b5c0fb-4577-49df-87d8-f26cf756ce6f/preregistrations",
+  "registration_open": true,
+  "start": "2026-10-17",
+  "end": "2026-10-18",
+  "venue": "Augusta Fencers Club : Augusta, GA",
+  "distance": 425,
+  "events": [
+   {
+    "name": "Unrated Mixed Epee",
+    "when": "Oct 17 9:30AM",
+    "estimate": "E1 · up to 25 pts",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Unrated",
+    "start": "2026-10-17 09:30"
+   },
+   {
+    "name": "Mixed Epee",
+    "when": "Oct 17 12:30PM",
+    "estimate": "E1 · up to 25 pts",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-10-17 12:30"
+   },
+   {
+    "name": "Y14 Mixed Epee",
+    "when": "Oct 17 3:00PM",
+    "estimate": "NR",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2026-10-17 15:00"
+   },
+   {
+    "name": "Unrated Mixed Foil",
+    "when": "Oct 18 9:00AM",
+    "estimate": "E1 · up to 25 pts",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Unrated",
+    "start": "2026-10-18 09:00"
+   },
+   {
+    "name": "Mixed Saber",
+    "when": "Oct 18 10:00AM",
+    "estimate": "E1 · up to 25 pts",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-10-18 10:00"
+   },
+   {
+    "name": "Y12 Mixed Foil",
+    "when": "Oct 18 12:00PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-10-18 12:00"
+   },
+   {
+    "name": "Y12 Mixed Saber",
+    "when": "Oct 18 1:30PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-10-18 13:30"
+   },
+   {
+    "name": "Mixed Foil",
+    "when": "Oct 18 2:00PM",
+    "estimate": "D1 · up to 30 pts",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-10-18 14:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "c15aa4df-b206-40f2-95a9-e2f67683cf1d",
+  "name": "ALLE Fall Saber Cup'26 (Y-8 Mx, Y-10 Mx, Y-12 Mx, Y-14 Mx)",
+  "url": "https://www.askfred.net/tournaments/c15aa4df-b206-40f2-95a9-e2f67683cf1d",
+  "register_url": "https://www.askfred.net/tournaments/c15aa4df-b206-40f2-95a9-e2f67683cf1d/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/c15aa4df-b206-40f2-95a9-e2f67683cf1d/preregistrations",
+  "registration_open": true,
+  "start": "2026-10-18",
+  "end": "2026-10-18",
+  "venue": "Alle Fencing Club: Fort Lauderdale, FL",
+  "distance": 164,
+  "events": [
+   {
+    "name": "Y8 Mixed Saber",
+    "when": "Oct 18 9:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2026-12-06 09:00"
+   },
+   {
+    "name": "Y10 Mixed Saber",
+    "when": "Oct 18 11:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2026-12-06 11:00"
+   },
+   {
+    "name": "Y12 Mixed Saber",
+    "when": "Oct 18 1:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-12-06 13:00"
+   },
+   {
+    "name": "Y14 Mixed Saber",
+    "when": "Oct 18 3:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2026-12-06 15:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "32dd2c02-00f5-4478-807d-e0a848cabeac",
+  "name": "7th ANNUAL SWORD MASTER CUP \"Glow in the Dark Fencing\" 2026",
+  "url": "https://www.askfred.net/tournaments/32dd2c02-00f5-4478-807d-e0a848cabeac",
+  "register_url": "https://www.askfred.net/tournaments/32dd2c02-00f5-4478-807d-e0a848cabeac/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/32dd2c02-00f5-4478-807d-e0a848cabeac/preregistrations",
+  "registration_open": true,
+  "start": "2026-10-31",
+  "end": "2026-11-01",
+  "venue": "SWORD MASTERS CLUB, ORLANDO: Orlando, Florida",
+  "distance": 114,
+  "events": [
+   {
+    "name": "Cadet Mixed Epee",
+    "when": "Oct 31 1:00PM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-10-31 13:00"
+   },
+   {
+    "name": "Junior Mixed Epee",
+    "when": "Oct 31 3:00PM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-10-31 15:00"
+   },
+   {
+    "name": "Senior Mixed Epee",
+    "when": "Oct 31 5:00PM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-10-31 17:00"
+   },
+   {
+    "name": "Vet Combined Men's Epee",
+    "when": "Nov 1 9:00AM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2026-11-01 09:00"
+   },
+   {
+    "name": "Vet Combined Women's Epee",
+    "when": "Nov 1 9:00AM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2026-11-01 09:00"
+   },
+   {
+    "name": "Mixed Epee",
+    "when": "Nov 1 9:00AM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-11-01 09:00"
+   },
+   {
+    "name": "Y8 Mixed Epee",
+    "when": "Nov 1 11:00AM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2026-11-01 11:00"
+   },
+   {
+    "name": "Senior Mixed Saber",
+    "when": "Nov 1 11:00AM",
+    "estimate": "",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-11-01 11:00"
+   },
+   {
+    "name": "Y10 Mixed Epee",
+    "when": "Nov 1 1:00PM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2026-11-01 13:00"
+   },
+   {
+    "name": "Y12 Mixed Epee",
+    "when": "Nov 1 3:00PM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-11-01 15:00"
+   },
+   {
+    "name": "Y14 Mixed Epee",
+    "when": "Nov 1 5:00PM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2026-11-01 17:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "e7f86370-f6d2-4c4c-90b6-a72f6a8a38dc",
+  "name": "11th Annual Orange & Blue",
+  "url": "https://www.askfred.net/tournaments/e7f86370-f6d2-4c4c-90b6-a72f6a8a38dc",
+  "register_url": "https://www.askfred.net/tournaments/e7f86370-f6d2-4c4c-90b6-a72f6a8a38dc/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/e7f86370-f6d2-4c4c-90b6-a72f6a8a38dc/preregistrations",
+  "registration_open": true,
+  "start": "2026-10-31",
+  "end": "2026-11-01",
+  "venue": "Southwest Recreation Center: Gainesville, FL",
+  "distance": 159,
+  "events": [
+   {
+    "name": "Senior Mixed Foil",
+    "when": "Oct 31 8:00AM",
+    "estimate": "E1 · up to 25 pts",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-10-31 08:00"
+   },
+   {
+    "name": "Senior Women's Foil",
+    "when": "Oct 31 10:30AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-10-31 10:30"
+   },
+   {
+    "name": "Senior Mixed Saber",
+    "when": "Oct 31 11:30AM",
+    "estimate": "E1 · up to 25 pts",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-10-31 11:30"
+   },
+   {
+    "name": "C & Under (Div 2) Senior Mixed Foil",
+    "when": "Oct 31 1:00PM",
+    "estimate": "E1 · up to 25 pts",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2026-10-31 13:00"
+   },
+   {
+    "name": "C & Under (Div 2) Senior Mixed Saber",
+    "when": "Oct 31 3:30PM",
+    "estimate": "E1 · up to 25 pts",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2026-10-31 15:30"
+   },
+   {
+    "name": "Senior Women's Saber",
+    "when": "Oct 31 4:30PM",
+    "estimate": "E1 · up to 25 pts",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-10-31 16:30"
+   },
+   {
+    "name": "Senior Mixed Epee",
+    "when": "Nov 1 8:00AM",
+    "estimate": "A2 · up to 70 pts",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-11-01 08:00"
+   },
+   {
+    "name": "Senior Women's Epee",
+    "when": "Nov 1 11:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-11-01 11:00"
+   },
+   {
+    "name": "C & Under (Div 2) Senior Mixed Epee",
+    "when": "Nov 1 2:00PM",
+    "estimate": "C2 · up to 40 pts",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2026-11-01 14:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "7bb46e23-5dec-4994-8ea3-7fc7b22604bd",
+  "name": "2026 Georgia Division JO Qualifier",
+  "url": "https://www.askfred.net/tournaments/7bb46e23-5dec-4994-8ea3-7fc7b22604bd",
+  "register_url": "https://www.askfred.net/tournaments/7bb46e23-5dec-4994-8ea3-7fc7b22604bd/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/7bb46e23-5dec-4994-8ea3-7fc7b22604bd/preregistrations",
+  "registration_open": true,
+  "start": "2026-11-07",
+  "end": "2026-11-08",
+  "venue": "Augusta Fencer's Club: Augusta, GA",
+  "distance": 425,
+  "events": [
+   {
+    "name": "Junior Men's Saber",
+    "when": "Nov 7 8:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-07 08:00"
+   },
+   {
+    "name": "Junior Women's Saber",
+    "when": "Nov 7 8:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-07 08:00"
+   },
+   {
+    "name": "Cadet Women's Foil",
+    "when": "Nov 7 8:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-07 08:00"
+   },
+   {
+    "name": "Junior Men's Foil",
+    "when": "Nov 7 8:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-07 08:00"
+   },
+   {
+    "name": "Junior Women's Foil",
+    "when": "Nov 7 8:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-07 08:00"
+   },
+   {
+    "name": "Cadet Men's Foil",
+    "when": "Nov 7 8:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-07 08:00"
+   },
+   {
+    "name": "Cadet Men's Saber",
+    "when": "Nov 7 8:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-07 08:00"
+   },
+   {
+    "name": "Cadet Women's Saber",
+    "when": "Nov 7 8:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-07 08:00"
+   },
+   {
+    "name": "Cadet Men's Epee",
+    "when": "Nov 8 8:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-08 08:00"
+   },
+   {
+    "name": "Junior Men's Epee",
+    "when": "Nov 8 8:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-08 08:00"
+   },
+   {
+    "name": "Junior Women's Epee",
+    "when": "Nov 8 8:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-08 08:00"
+   },
+   {
+    "name": "Cadet Women's Epee",
+    "when": "Nov 8 8:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-08 08:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "176695a2-e8db-4cae-bf71-4e8e6d364992",
+  "name": "Masquerade Duel",
+  "url": "https://www.askfred.net/tournaments/176695a2-e8db-4cae-bf71-4e8e6d364992",
+  "register_url": "https://www.askfred.net/tournaments/176695a2-e8db-4cae-bf71-4e8e6d364992/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/176695a2-e8db-4cae-bf71-4e8e6d364992/preregistrations",
+  "registration_open": true,
+  "start": "2026-11-07",
+  "end": "2026-11-08",
+  "venue": "Stoccata Fencing Academy: Altamonte Springs, FL",
+  "distance": 114,
+  "events": [
+   {
+    "name": "Senior Mixed Foil",
+    "when": "Nov 7 10:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-11-07 10:00"
+   },
+   {
+    "name": "Unrated Senior Mixed Saber",
+    "when": "Nov 7 1:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Unrated",
+    "start": "2026-11-07 13:00"
+   },
+   {
+    "name": "Unrated Senior Mixed Foil",
+    "when": "Nov 7 1:00PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Unrated",
+    "start": "2026-11-07 13:00"
+   },
+   {
+    "name": "Senior Mixed Saber",
+    "when": "Nov 7 3:30PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-11-07 15:30"
+   },
+   {
+    "name": "Y12 Mixed Saber",
+    "when": "Nov 8 9:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-11-08 09:00"
+   },
+   {
+    "name": "Y10 Mixed Foil",
+    "when": "Nov 8 9:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2026-11-08 09:00"
+   },
+   {
+    "name": "Y12 Mixed Foil",
+    "when": "Nov 8 11:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-11-08 11:00"
+   },
+   {
+    "name": "Unrated Senior Mixed Epee",
+    "when": "Nov 8 11:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Unrated",
+    "start": "2026-11-08 11:00"
+   },
+   {
+    "name": "Senior Mixed Epee",
+    "when": "Nov 8 1:30PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-11-08 13:30"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "60203cf6-3e7d-4ce2-acb0-5995a64fbe7d",
+  "name": "GT Collegiate: Annual Fall Hack & Slash",
+  "url": "https://www.askfred.net/tournaments/60203cf6-3e7d-4ce2-acb0-5995a64fbe7d",
+  "register_url": "https://www.askfred.net/tournaments/60203cf6-3e7d-4ce2-acb0-5995a64fbe7d/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/60203cf6-3e7d-4ce2-acb0-5995a64fbe7d/preregistrations",
+  "registration_open": true,
+  "start": "2026-11-07",
+  "end": "2026-11-08",
+  "venue": "Georgia Tech Campus Recreation Center: Atlanta, GA: Atlanta, GA",
+  "distance": 459,
+  "events": [
+   {
+    "name": "Unsanctioned Senior Mixed Epee",
+    "when": "Start Unknown",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Unsanctioned Senior Mixed Epee",
+    "when": "Start Unknown",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Unsanctioned Senior Mixed Saber",
+    "when": "Start Unknown",
+    "estimate": "",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Unsanctioned Senior Mixed Saber",
+    "when": "Start Unknown",
+    "estimate": "",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Unsanctioned Senior Mixed Foil",
+    "when": "Start Unknown",
+    "estimate": "",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Unsanctioned Senior Men's Foil",
+    "when": "Start Unknown",
+    "estimate": "",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Unsanctioned Mixed Epee Team",
+    "when": "Nov 7 10:00AM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-11-07 10:00"
+   },
+   {
+    "name": "Unsanctioned Mixed Saber Team",
+    "when": "Nov 7 2:00PM",
+    "estimate": "",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-11-07 14:00"
+   },
+   {
+    "name": "Unsanctioned Mixed Foil Team",
+    "when": "Nov 8 10:00AM",
+    "estimate": "",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-11-08 10:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "c76b7f57-506b-4be0-98bb-29a2df1beaf7",
+  "name": "Gateway Florida Division 2026 JO Qualifiers",
+  "url": "https://www.askfred.net/tournaments/c76b7f57-506b-4be0-98bb-29a2df1beaf7",
+  "register_url": "https://www.askfred.net/tournaments/c76b7f57-506b-4be0-98bb-29a2df1beaf7/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/c76b7f57-506b-4be0-98bb-29a2df1beaf7/preregistrations",
+  "registration_open": true,
+  "start": "2026-11-08",
+  "end": "2026-11-08",
+  "venue": "Jacksonville Fencing Club: Jacksonville, FL",
+  "distance": 212,
+  "events": [
+   {
+    "name": "Cadet Men's Saber",
+    "when": "Nov 8 8:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-08 08:00"
+   },
+   {
+    "name": "Cadet Men's Foil",
+    "when": "Nov 8 8:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-08 08:00"
+   },
+   {
+    "name": "Cadet Women's Epee",
+    "when": "Nov 8 8:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-08 08:00"
+   },
+   {
+    "name": "Cadet Women's Saber",
+    "when": "Nov 8 8:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-08 08:00"
+   },
+   {
+    "name": "Cadet Men's Epee",
+    "when": "Nov 8 8:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-08 08:00"
+   },
+   {
+    "name": "Cadet Women's Foil",
+    "when": "Nov 8 8:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-08 08:00"
+   },
+   {
+    "name": "Junior Men's Saber",
+    "when": "Nov 8 9:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-08 09:00"
+   },
+   {
+    "name": "Junior Women's Foil",
+    "when": "Nov 8 9:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-08 09:00"
+   },
+   {
+    "name": "Junior Women's Epee",
+    "when": "Nov 8 9:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-08 09:00"
+   },
+   {
+    "name": "Junior Women's Saber",
+    "when": "Nov 8 9:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-08 09:00"
+   },
+   {
+    "name": "Junior Men's Epee",
+    "when": "Nov 8 9:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-08 09:00"
+   },
+   {
+    "name": "Junior Men's Foil",
+    "when": "Nov 8 9:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-08 09:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "8baead9f-13e2-401e-a644-7d94134db90c",
+  "name": "ALLE Fall Saber Cup'26 (CDT- Mx, JNR- Mx, Senior Mx, E & Under senior Mx)",
+  "url": "https://www.askfred.net/tournaments/8baead9f-13e2-401e-a644-7d94134db90c",
+  "register_url": "https://www.askfred.net/tournaments/8baead9f-13e2-401e-a644-7d94134db90c/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/8baead9f-13e2-401e-a644-7d94134db90c/preregistrations",
+  "registration_open": true,
+  "start": "2026-11-08",
+  "end": "2026-11-08",
+  "venue": "Alle Fencing Club: Fort Lauderdale, FL",
+  "distance": 164,
+  "events": [
+   {
+    "name": "Cadet Mixed Saber",
+    "when": "Nov 8 9:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-08 09:00"
+   },
+   {
+    "name": "Junior Mixed Saber",
+    "when": "Nov 8 11:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-08 11:00"
+   },
+   {
+    "name": "Senior Mixed Saber",
+    "when": "Nov 8 1:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-11-08 13:00"
+   },
+   {
+    "name": "E & Under Senior Mixed Saber",
+    "when": "Nov 8 3:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "EUnder",
+    "start": "2026-11-08 15:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "a870ff0c-cba2-4de1-b11a-114a0850107d",
+  "name": "FIU 2nd Annual Blue and Gold (FIFC #1)",
+  "url": "https://www.askfred.net/tournaments/a870ff0c-cba2-4de1-b11a-114a0850107d",
+  "register_url": "https://www.askfred.net/tournaments/a870ff0c-cba2-4de1-b11a-114a0850107d/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/a870ff0c-cba2-4de1-b11a-114a0850107d/preregistrations",
+  "registration_open": true,
+  "start": "2026-11-14",
+  "end": "2026-11-14",
+  "venue": "FIU Wellness and Recreation Center: Miami, FL",
+  "distance": 172,
+  "events": [
+   {
+    "name": "Mixed Epee",
+    "when": "Nov 14 9:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-11-14 09:00"
+   },
+   {
+    "name": "Mixed Foil",
+    "when": "Nov 14 10:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-11-14 10:00"
+   },
+   {
+    "name": "Mixed Saber",
+    "when": "Nov 14 1:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-11-14 13:00"
+   },
+   {
+    "name": "Mixed Epee Team",
+    "when": "Nov 14 1:00PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-11-14 13:00"
+   },
+   {
+    "name": "Mixed Foil Team",
+    "when": "Nov 14 1:30PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-11-14 13:30"
+   },
+   {
+    "name": "Mixed Saber Team",
+    "when": "Nov 14 3:30PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-11-14 15:30"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "bbdd914f-b58a-4636-bcc4-eb87820d3f12",
+  "name": "The Crescent City Open",
+  "url": "https://www.askfred.net/tournaments/bbdd914f-b58a-4636-bcc4-eb87820d3f12",
+  "register_url": "",
+  "whos_coming_url": "https://www.askfred.net/tournaments/bbdd914f-b58a-4636-bcc4-eb87820d3f12/preregistrations",
+  "registration_open": false,
+  "start": "2026-11-14",
+  "end": "2026-11-15",
+  "venue": "Fitness by Hilton / Riverside Hilton: New Orleans, Louisiana",
+  "distance": 491,
+  "events": [
+   {
+    "name": "Senior Men's Foil",
+    "when": "Start Unknown",
+    "estimate": "U · up to 100 pts",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Senior Men's Epee",
+    "when": "Start Unknown",
+    "estimate": "U · up to 100 pts",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Senior Men's Saber",
+    "when": "Start Unknown",
+    "estimate": "U · up to 100 pts",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Senior Women's Foil",
+    "when": "Start Unknown",
+    "estimate": "U · up to 100 pts",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Senior Women's Epee",
+    "when": "Start Unknown",
+    "estimate": "U · up to 100 pts",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Senior Women's Saber",
+    "when": "Start Unknown",
+    "estimate": "U · up to 100 pts",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Senior Men's Foil",
+    "when": "Start Unknown",
+    "estimate": "U · up to 100 pts",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Senior Men's Epee",
+    "when": "Start Unknown",
+    "estimate": "U · up to 100 pts",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Senior Men's Saber",
+    "when": "Start Unknown",
+    "estimate": "U · up to 100 pts",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Senior Women's Foil",
+    "when": "Start Unknown",
+    "estimate": "U · up to 100 pts",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Senior Women's Epee",
+    "when": "Start Unknown",
+    "estimate": "U · up to 100 pts",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Senior Women's Saber",
+    "when": "Start Unknown",
+    "estimate": "U · up to 100 pts",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Division IA Men’s Saber",
+    "when": "Nov 14 8:00AM",
+    "estimate": "U · up to 100 pts",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div1A",
+    "start": "2026-11-14 08:00"
+   },
+   {
+    "name": "Junior Women's Epee",
+    "when": "Nov 14 8:15AM",
+    "estimate": "E1 · up to 80 pts",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-14 08:15"
+   },
+   {
+    "name": "Junior Women's Saber",
+    "when": "Nov 14 8:15AM",
+    "estimate": "U · up to 80 pts",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-14 08:15"
+   },
+   {
+    "name": "Junior Men's Foil",
+    "when": "Nov 14 8:30AM",
+    "estimate": "E1 · up to 80 pts",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-14 08:30"
+   },
+   {
+    "name": "Division IA Women’s Foil",
+    "when": "Nov 14 9:00AM",
+    "estimate": "U · up to 100 pts",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div1A",
+    "start": "2026-11-14 09:00"
+   },
+   {
+    "name": "Division IA Men’s Epee",
+    "when": "Nov 14 9:30AM",
+    "estimate": "A1 · up to 100 pts",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div1A",
+    "start": "2026-11-14 09:30"
+   },
+   {
+    "name": "Cadet Men's Saber",
+    "when": "Nov 14 10:30AM",
+    "estimate": "U · up to 60 pts",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-14 10:30"
+   },
+   {
+    "name": "Vet Combined Men's Saber",
+    "when": "Nov 14 10:30AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2026-11-14 10:30"
+   },
+   {
+    "name": "Division II Men’s Foil",
+    "when": "Nov 14 11:00AM",
+    "estimate": "E1 · up to 40 pts",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2026-11-14 11:00"
+   },
+   {
+    "name": "Division II Women’s Saber",
+    "when": "Nov 14 11:15AM",
+    "estimate": "U · up to 40 pts",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2026-11-14 11:15"
+   },
+   {
+    "name": "Vet Combined Women's Foil",
+    "when": "Nov 14 11:45AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2026-11-14 11:45"
+   },
+   {
+    "name": "Cadet Women's Foil",
+    "when": "Nov 14 11:45AM",
+    "estimate": "U · up to 60 pts",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-14 11:45"
+   },
+   {
+    "name": "Cadet Men's Epee",
+    "when": "Nov 14 12:30PM",
+    "estimate": "E1 · up to 60 pts",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-14 12:30"
+   },
+   {
+    "name": "Vet Combined Men's Epee",
+    "when": "Nov 14 12:30PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2026-11-14 12:30"
+   },
+   {
+    "name": "Cadet Women's Epee",
+    "when": "Nov 14 12:45PM",
+    "estimate": "U · up to 60 pts",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-14 12:45"
+   },
+   {
+    "name": "Division II Women’s Epee",
+    "when": "Nov 14 12:45PM",
+    "estimate": "E1 · up to 40 pts",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2026-11-14 12:45"
+   },
+   {
+    "name": "Division III Men’s Saber",
+    "when": "Nov 14 1:30PM",
+    "estimate": "U · up to 20 pts",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div3",
+    "start": "2026-11-14 13:30"
+   },
+   {
+    "name": "Division III Men’s Foil",
+    "when": "Nov 14 2:00PM",
+    "estimate": "E1 · up to 20 pts",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div3",
+    "start": "2026-11-14 14:00"
+   },
+   {
+    "name": "Division III Women’s Saber",
+    "when": "Nov 14 2:15PM",
+    "estimate": "U · up to 20 pts",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div3",
+    "start": "2026-11-14 14:15"
+   },
+   {
+    "name": "Division III Women’s Foil",
+    "when": "Nov 14 2:45PM",
+    "estimate": "U · up to 20 pts",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div3",
+    "start": "2026-11-14 14:45"
+   },
+   {
+    "name": "Division III Men’s Epee",
+    "when": "Nov 14 3:30PM",
+    "estimate": "E1 · up to 20 pts",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div3",
+    "start": "2026-11-14 15:30"
+   },
+   {
+    "name": "Division III Women’s Epee",
+    "when": "Nov 14 3:45PM",
+    "estimate": "U · up to 20 pts",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div3",
+    "start": "2026-11-14 15:45"
+   },
+   {
+    "name": "Junior Men's Epee",
+    "when": "Nov 15 8:00AM",
+    "estimate": "E1 · up to 80 pts",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-15 08:00"
+   },
+   {
+    "name": "Junior Men's Saber",
+    "when": "Nov 15 8:00AM",
+    "estimate": "U · up to 80 pts",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-15 08:00"
+   },
+   {
+    "name": "Division IA Men’s Foil",
+    "when": "Nov 15 8:00AM",
+    "estimate": "E1 · up to 100 pts",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div1A",
+    "start": "2026-11-15 08:00"
+   },
+   {
+    "name": "Division IA Women’s Saber",
+    "when": "Nov 15 8:15AM",
+    "estimate": "U · up to 100 pts",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div1A",
+    "start": "2026-11-15 08:15"
+   },
+   {
+    "name": "Junior Women's Foil",
+    "when": "Nov 15 8:45AM",
+    "estimate": "U · up to 80 pts",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-15 08:45"
+   },
+   {
+    "name": "Division IA Women’s Epee",
+    "when": "Nov 15 9:45AM",
+    "estimate": "E1 · up to 100 pts",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div1A",
+    "start": "2026-11-15 09:45"
+   },
+   {
+    "name": "Division II Men’s Saber",
+    "when": "Nov 15 10:30AM",
+    "estimate": "U · up to 40 pts",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2026-11-15 10:30"
+   },
+   {
+    "name": "Vet Combined Women's Saber",
+    "when": "Nov 15 10:45AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2026-11-15 10:45"
+   },
+   {
+    "name": "Cadet Men's Foil",
+    "when": "Nov 15 11:00AM",
+    "estimate": "U · up to 60 pts",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-15 11:00"
+   },
+   {
+    "name": "Vet Combined Men's Foil",
+    "when": "Nov 15 11:00AM",
+    "estimate": "E1",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2026-11-15 11:00"
+   },
+   {
+    "name": "Cadet Women's Saber",
+    "when": "Nov 15 11:15AM",
+    "estimate": "U · up to 60 pts",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-15 11:15"
+   },
+   {
+    "name": "Division II Men’s Epee",
+    "when": "Nov 15 12:30PM",
+    "estimate": "E1 · up to 40 pts",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2026-11-15 12:30"
+   },
+   {
+    "name": "Vet Combined Women's Epee",
+    "when": "Nov 15 12:45PM",
+    "estimate": "E1",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2026-11-15 12:45"
+   },
+   {
+    "name": "Division II Women’s Foil",
+    "when": "Nov 15 12:45PM",
+    "estimate": "U · up to 40 pts",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2026-11-15 12:45"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "5f4d2f8d-5a17-4677-86d8-d625dba32481",
+  "name": "12 and Under Demo at the Riverside Hilton",
+  "url": "https://www.askfred.net/tournaments/5f4d2f8d-5a17-4677-86d8-d625dba32481",
+  "register_url": "https://www.askfred.net/tournaments/5f4d2f8d-5a17-4677-86d8-d625dba32481/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/5f4d2f8d-5a17-4677-86d8-d625dba32481/preregistrations",
+  "registration_open": true,
+  "start": "2026-11-15",
+  "end": "2026-11-15",
+  "venue": "Riverside Hilton: New Orleans, LA",
+  "distance": 491,
+  "events": [
+   {
+    "name": "Unsanctioned Mixed Saber",
+    "when": "Nov 15 12:15PM",
+    "estimate": "",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-11-15 12:15"
+   },
+   {
+    "name": "Unsanctioned Mixed Foil",
+    "when": "Nov 15 1:15PM",
+    "estimate": "",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-11-15 13:15"
+   },
+   {
+    "name": "Unsanctioned Mixed Epee",
+    "when": "Nov 15 2:00PM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-11-15 14:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "c9e3a262-b802-4ad7-915d-dd0aac29dfb4",
+  "name": "7th ANNUAL SWORD MASTER CUP \"The Golden Turkey\" 2026",
+  "url": "https://www.askfred.net/tournaments/c9e3a262-b802-4ad7-915d-dd0aac29dfb4",
+  "register_url": "https://www.askfred.net/tournaments/c9e3a262-b802-4ad7-915d-dd0aac29dfb4/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/c9e3a262-b802-4ad7-915d-dd0aac29dfb4/preregistrations",
+  "registration_open": true,
+  "start": "2026-11-21",
+  "end": "2026-11-22",
+  "venue": "SWORD MASTERS CLUB, ORLANDO: Orlando, Florida",
+  "distance": 114,
+  "events": [
+   {
+    "name": "Cadet Mixed Epee",
+    "when": "Nov 21 1:00PM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-21 13:00"
+   },
+   {
+    "name": "Junior Mixed Epee",
+    "when": "Nov 21 3:00PM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-21 15:00"
+   },
+   {
+    "name": "Senior Mixed Epee",
+    "when": "Nov 21 5:00PM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-11-21 17:00"
+   },
+   {
+    "name": "Vet Combined Women's Epee",
+    "when": "Nov 22 9:00AM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2026-11-22 09:00"
+   },
+   {
+    "name": "Mixed Epee",
+    "when": "Nov 22 9:00AM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-11-22 09:00"
+   },
+   {
+    "name": "Vet Combined Men's Epee",
+    "when": "Nov 22 9:00AM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2026-11-22 09:00"
+   },
+   {
+    "name": "Senior Mixed Saber",
+    "when": "Nov 22 11:00AM",
+    "estimate": "",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-11-22 11:00"
+   },
+   {
+    "name": "Y8 Mixed Epee",
+    "when": "Nov 22 11:00AM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2026-11-22 11:00"
+   },
+   {
+    "name": "Y10 Mixed Epee",
+    "when": "Nov 22 1:00PM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2026-11-22 13:00"
+   },
+   {
+    "name": "Y12 Mixed Epee",
+    "when": "Nov 22 3:00PM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-11-22 15:00"
+   },
+   {
+    "name": "Y14 Mixed Epee",
+    "when": "Nov 22 5:00PM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2026-11-22 17:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "546829f5-71db-48bf-aa1a-2a3d0f3bc35c",
+  "name": "ALLE Fall Saber Cup'26 (Y-8 Mx, Y-10 Mx, Y-12 Mx, Y-14 Mx)",
+  "url": "https://www.askfred.net/tournaments/546829f5-71db-48bf-aa1a-2a3d0f3bc35c",
+  "register_url": "",
+  "whos_coming_url": "https://www.askfred.net/tournaments/546829f5-71db-48bf-aa1a-2a3d0f3bc35c/preregistrations",
+  "registration_open": false,
+  "start": "2026-11-29",
+  "end": "2026-11-29",
+  "venue": "Alle Fencing Club: Fort Lauderdale, FL",
+  "distance": 164,
+  "events": [
+   {
+    "name": "Y8 Mixed Saber",
+    "when": "Nov 29 9:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2026-12-06 09:00"
+   },
+   {
+    "name": "Y10 Mixed Saber",
+    "when": "Nov 29 11:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2026-12-06 11:00"
+   },
+   {
+    "name": "Y12 Mixed Saber",
+    "when": "Nov 29 1:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-12-06 13:00"
+   },
+   {
+    "name": "Y14 Mixed Saber",
+    "when": "Nov 29 3:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2026-12-06 15:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "c798312e-e648-43a1-bd4c-1ba252796c63",
+  "name": "USF 14th Annual Fall Tournament",
+  "url": "https://www.askfred.net/tournaments/c798312e-e648-43a1-bd4c-1ba252796c63",
+  "register_url": "https://www.askfred.net/tournaments/c798312e-e648-43a1-bd4c-1ba252796c63/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/c798312e-e648-43a1-bd4c-1ba252796c63/preregistrations",
+  "registration_open": true,
+  "start": "2026-12-05",
+  "end": "2026-12-06",
+  "venue": "USF Rec Center North Gym: Tampa, FL",
+  "distance": 51,
+  "events": [
+   {
+    "name": "Div 1A Senior Mixed Epee",
+    "when": "Dec 5 8:45AM",
+    "estimate": "E1 · up to 25 pts",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Div1A",
+    "start": "2026-12-05 08:45"
+   },
+   {
+    "name": "Div 1A Senior Women's Epee",
+    "when": "Dec 5 10:15AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div1A",
+    "start": "2026-12-05 10:15"
+   },
+   {
+    "name": "C & Under (Div 2) Senior Mixed Epee",
+    "when": "Dec 5 2:15PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2026-12-05 14:15"
+   },
+   {
+    "name": "Div 1A Senior Mixed Foil",
+    "when": "Dec 6 8:45AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Div1A",
+    "start": "2026-12-06 08:45"
+   },
+   {
+    "name": "Div 1A Senior Mixed Saber",
+    "when": "Dec 6 10:15AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Div1A",
+    "start": "2026-12-06 10:15"
+   },
+   {
+    "name": "C & Under (Div 2) Senior Mixed Foil",
+    "when": "Dec 6 1:45PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2026-12-06 13:45"
+   },
+   {
+    "name": "D & Under (Div 3) Senior Mixed Saber",
+    "when": "Dec 6 2:45PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Div3",
+    "start": "2026-12-06 14:45"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "7e5c7a16-04a1-4d3a-8e82-195e1144d487",
+  "name": "ALLE Fall Saber Cup'26 (Y-8 Mx, Y-10 Mx, Y-12 Mx, Y-14 Mx)",
+  "url": "https://www.askfred.net/tournaments/7e5c7a16-04a1-4d3a-8e82-195e1144d487",
+  "register_url": "https://www.askfred.net/tournaments/7e5c7a16-04a1-4d3a-8e82-195e1144d487/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/7e5c7a16-04a1-4d3a-8e82-195e1144d487/preregistrations",
+  "registration_open": true,
+  "start": "2026-12-06",
+  "end": "2026-12-06",
+  "venue": "Alle Fencing Club: Fort Lauderdale, FL",
+  "distance": 164,
+  "events": [
+   {
+    "name": "Y8 Mixed Saber",
+    "when": "Dec 6 9:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2026-12-06 09:00"
+   },
+   {
+    "name": "Y10 Mixed Saber",
+    "when": "Dec 6 11:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2026-12-06 11:00"
+   },
+   {
+    "name": "Y12 Mixed Saber",
+    "when": "Dec 6 1:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-12-06 13:00"
+   },
+   {
+    "name": "Y14 Mixed Saber",
+    "when": "Dec 6 3:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2026-12-06 15:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "dc4dcb0a-bfa3-49c0-a8c5-96cfd16fc96d",
+  "name": "The Southern Y8/RYC/RJCC/ROC (VET/D1A/DV2)/RPC/TEAM",
+  "url": "https://www.askfred.net/tournaments/dc4dcb0a-bfa3-49c0-a8c5-96cfd16fc96d",
+  "register_url": "",
+  "whos_coming_url": "https://www.askfred.net/tournaments/dc4dcb0a-bfa3-49c0-a8c5-96cfd16fc96d/preregistrations",
+  "registration_open": false,
+  "start": "2026-12-11",
+  "end": "2026-12-13",
+  "venue": "Myrtle Beach Sports Center: Myrtle Beach, South Carolina",
+  "distance": 491,
+  "events": [
+   {
+    "name": "Y12 Men's Saber",
+    "when": "Dec 11 10:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-12-11 10:00"
+   },
+   {
+    "name": "Y8 Men's Foil",
+    "when": "Dec 11 10:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2026-12-11 10:00"
+   },
+   {
+    "name": "Y8 Women's Foil",
+    "when": "Dec 11 10:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2026-12-11 10:00"
+   },
+   {
+    "name": "Y14 Men's Epee",
+    "when": "Dec 11 10:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2026-12-11 10:00"
+   },
+   {
+    "name": "Cadet Women's Saber",
+    "when": "Dec 11 10:00AM",
+    "estimate": "U · up to 60 pts",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-12-11 10:00"
+   },
+   {
+    "name": "Junior Women's Epee",
+    "when": "Dec 11 10:00AM",
+    "estimate": "U · up to 80 pts",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-12-11 10:00"
+   },
+   {
+    "name": "Vet Combined Men's Epee",
+    "when": "Dec 11 10:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2026-12-11 10:00"
+   },
+   {
+    "name": "Division II Women’s Foil",
+    "when": "Dec 11 10:00AM",
+    "estimate": "U · up to 40 pts",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2026-12-11 10:00"
+   },
+   {
+    "name": "Division II Men’s Saber",
+    "when": "Dec 11 10:00AM",
+    "estimate": "U · up to 40 pts",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2026-12-11 10:00"
+   },
+   {
+    "name": "Division IA Men’s Foil",
+    "when": "Dec 11 10:00AM",
+    "estimate": "U · up to 100 pts",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div1A",
+    "start": "2026-12-11 10:00"
+   },
+   {
+    "name": "Parafencing Senior Men's Saber",
+    "when": "Dec 11 11:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-12-11 11:00"
+   },
+   {
+    "name": "Y8 Men's Epee",
+    "when": "Dec 11 1:00PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2026-12-11 13:00"
+   },
+   {
+    "name": "Vet Combined Women's Foil",
+    "when": "Dec 11 1:00PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2026-12-11 13:00"
+   },
+   {
+    "name": "Y8 Women's Epee",
+    "when": "Dec 11 1:00PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2026-12-11 13:00"
+   },
+   {
+    "name": "Y12 Women's Foil",
+    "when": "Dec 11 2:00PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-12-11 14:00"
+   },
+   {
+    "name": "Parafencing Senior Women's Saber",
+    "when": "Dec 11 2:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-12-11 14:00"
+   },
+   {
+    "name": "Y14 Men's Foil",
+    "when": "Dec 11 2:30PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2026-12-11 14:30"
+   },
+   {
+    "name": "Division II Women’s Epee",
+    "when": "Dec 11 2:30PM",
+    "estimate": "U · up to 40 pts",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2026-12-11 14:30"
+   },
+   {
+    "name": "Division II Men’s Epee",
+    "when": "Dec 11 2:30PM",
+    "estimate": "U · up to 40 pts",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2026-12-11 14:30"
+   },
+   {
+    "name": "Y12 Women's Epee",
+    "when": "Dec 11 2:30PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-12-11 14:30"
+   },
+   {
+    "name": "Division IA Team Men’s Epee",
+    "when": "Dec 11 4:00PM",
+    "estimate": "U · up to 100 pts",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div1",
+    "start": "2026-12-11 16:00"
+   },
+   {
+    "name": "Division IA Team Women’s Foil",
+    "when": "Dec 11 4:00PM",
+    "estimate": "U · up to 100 pts",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div1",
+    "start": "2026-12-11 16:00"
+   },
+   {
+    "name": "Y14 Women's Saber",
+    "when": "Dec 12 8:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2026-12-12 08:00"
+   },
+   {
+    "name": "Cadet Men's Epee",
+    "when": "Dec 12 8:00AM",
+    "estimate": "E1 · up to 60 pts",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-12-12 08:00"
+   },
+   {
+    "name": "Division IA Women’s Foil",
+    "when": "Dec 12 8:00AM",
+    "estimate": "U · up to 100 pts",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div1A",
+    "start": "2026-12-12 08:00"
+   },
+   {
+    "name": "Cadet Men's Foil",
+    "when": "Dec 12 8:00AM",
+    "estimate": "U · up to 60 pts",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-12-12 08:00"
+   },
+   {
+    "name": "Junior Men's Saber",
+    "when": "Dec 12 9:00AM",
+    "estimate": "U · up to 80 pts",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-12-12 09:00"
+   },
+   {
+    "name": "Y14 Women's Epee",
+    "when": "Dec 12 9:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2026-12-12 09:00"
+   },
+   {
+    "name": "Parafencing Senior Women's Foil",
+    "when": "Dec 12 9:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-12-12 09:00"
+   },
+   {
+    "name": "Y10 Women's Foil",
+    "when": "Dec 12 11:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2026-12-12 11:00"
+   },
+   {
+    "name": "Y10 Men's Foil",
+    "when": "Dec 12 11:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2026-12-12 11:00"
+   },
+   {
+    "name": "Y10 Women's Saber",
+    "when": "Dec 12 12:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2026-12-12 12:00"
+   },
+   {
+    "name": "Y10 Men's Saber",
+    "when": "Dec 12 12:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2026-12-12 12:00"
+   },
+   {
+    "name": "Vet Combined Women's Saber",
+    "when": "Dec 12 12:30PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2026-12-12 12:30"
+   },
+   {
+    "name": "Vet Combined Women's Epee",
+    "when": "Dec 12 12:30PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2026-12-12 12:30"
+   },
+   {
+    "name": "Vet Combined Men's Saber",
+    "when": "Dec 12 12:30PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2026-12-12 12:30"
+   },
+   {
+    "name": "Y14 Men's Saber",
+    "when": "Dec 12 1:00PM",
+    "estimate": "NR",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2026-12-12 13:00"
+   },
+   {
+    "name": "Division IA Men’s Epee",
+    "when": "Dec 12 1:00PM",
+    "estimate": "A1 · up to 100 pts",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div1A",
+    "start": "2026-12-12 13:00"
+   },
+   {
+    "name": "Parafencing Senior Men's Foil",
+    "when": "Dec 12 1:00PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-12-12 13:00"
+   },
+   {
+    "name": "Division IA Women’s Saber",
+    "when": "Dec 12 3:00PM",
+    "estimate": "U · up to 100 pts",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div1A",
+    "start": "2026-12-12 15:00"
+   },
+   {
+    "name": "Y14 Women's Foil",
+    "when": "Dec 12 3:00PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2026-12-12 15:00"
+   },
+   {
+    "name": "Y12 Men's Epee",
+    "when": "Dec 12 3:00PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-12-12 15:00"
+   },
+   {
+    "name": "Division IA Team Men’s Foil",
+    "when": "Dec 12 4:00PM",
+    "estimate": "U · up to 100 pts",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div1",
+    "start": "2026-12-12 16:00"
+   },
+   {
+    "name": "Division IA Team Women’s Epee",
+    "when": "Dec 12 4:00PM",
+    "estimate": "U · up to 100 pts",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div1",
+    "start": "2026-12-12 16:00"
+   },
+   {
+    "name": "Division IA Team Men’s Saber",
+    "when": "Dec 12 4:00PM",
+    "estimate": "U · up to 100 pts",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div1",
+    "start": "2026-12-12 16:00"
+   },
+   {
+    "name": "Cadet Men's Saber",
+    "when": "Dec 13 8:00AM",
+    "estimate": "E1 · up to 60 pts",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-12-13 08:00"
+   },
+   {
+    "name": "Division IA Women’s Epee",
+    "when": "Dec 13 8:00AM",
+    "estimate": "U · up to 100 pts",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div1A",
+    "start": "2026-12-13 08:00"
+   },
+   {
+    "name": "Junior Women's Saber",
+    "when": "Dec 13 8:00AM",
+    "estimate": "U · up to 80 pts",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-12-13 08:00"
+   },
+   {
+    "name": "Junior Women's Foil",
+    "when": "Dec 13 8:00AM",
+    "estimate": "U · up to 80 pts",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-12-13 08:00"
+   },
+   {
+    "name": "Junior Men's Epee",
+    "when": "Dec 13 8:00AM",
+    "estimate": "A1 · up to 80 pts",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-12-13 08:00"
+   },
+   {
+    "name": "Junior Men's Foil",
+    "when": "Dec 13 8:00AM",
+    "estimate": "U · up to 80 pts",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-12-13 08:00"
+   },
+   {
+    "name": "Parafencing Senior Men's Epee",
+    "when": "Dec 13 9:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-12-13 09:00"
+   },
+   {
+    "name": "Vet Combined Men's Foil",
+    "when": "Dec 13 10:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2026-12-13 10:00"
+   },
+   {
+    "name": "Division II Women’s Saber",
+    "when": "Dec 13 12:00PM",
+    "estimate": "U · up to 40 pts",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2026-12-13 12:00"
+   },
+   {
+    "name": "Parafencing Senior Women's Epee",
+    "when": "Dec 13 12:00PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-12-13 12:00"
+   },
+   {
+    "name": "Y8 Men's Saber",
+    "when": "Dec 13 12:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2026-12-13 12:00"
+   },
+   {
+    "name": "Y8 Women's Saber",
+    "when": "Dec 13 12:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2026-12-13 12:00"
+   },
+   {
+    "name": "Y12 Women's Saber",
+    "when": "Dec 13 12:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-12-13 12:00"
+   },
+   {
+    "name": "Y10 Women's Epee",
+    "when": "Dec 13 1:00PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2026-12-13 13:00"
+   },
+   {
+    "name": "Y12 Men's Foil",
+    "when": "Dec 13 1:00PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-12-13 13:00"
+   },
+   {
+    "name": "Cadet Women's Foil",
+    "when": "Dec 13 1:00PM",
+    "estimate": "U · up to 60 pts",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-12-13 13:00"
+   },
+   {
+    "name": "Y10 Men's Epee",
+    "when": "Dec 13 1:00PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2026-12-13 13:00"
+   },
+   {
+    "name": "Division II Men’s Foil",
+    "when": "Dec 13 2:00PM",
+    "estimate": "U · up to 40 pts",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2026-12-13 14:00"
+   },
+   {
+    "name": "Cadet Women's Epee",
+    "when": "Dec 13 2:00PM",
+    "estimate": "U · up to 60 pts",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-12-13 14:00"
+   },
+   {
+    "name": "Division IA Men’s Saber",
+    "when": "Dec 13 3:00PM",
+    "estimate": "U · up to 100 pts",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div1A",
+    "start": "2026-12-13 15:00"
+   },
+   {
+    "name": "Division IA Team Women’s Saber",
+    "when": "Dec 13 3:00PM",
+    "estimate": "U · up to 100 pts",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div1",
+    "start": "2026-12-13 15:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "58658855-c1ee-4bbe-b9a5-951a060790ce",
+  "name": "7th ANNUAL SWORD MASTER CUP \"Holiday Cheer\" 2026",
+  "url": "https://www.askfred.net/tournaments/58658855-c1ee-4bbe-b9a5-951a060790ce",
+  "register_url": "https://www.askfred.net/tournaments/58658855-c1ee-4bbe-b9a5-951a060790ce/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/58658855-c1ee-4bbe-b9a5-951a060790ce/preregistrations",
+  "registration_open": true,
+  "start": "2026-12-19",
+  "end": "2026-12-20",
+  "venue": "SWORD MASTERS CLUB, ORLANDO: Orlando, Florida",
+  "distance": 114,
+  "events": [
+   {
+    "name": "Cadet Mixed Epee",
+    "when": "Dec 19 1:00PM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-12-19 13:00"
+   },
+   {
+    "name": "Junior Mixed Epee",
+    "when": "Dec 19 3:00PM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-12-19 15:00"
+   },
+   {
+    "name": "Senior Mixed Epee",
+    "when": "Dec 19 5:00PM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-12-19 17:00"
+   },
+   {
+    "name": "Mixed Epee",
+    "when": "Dec 20 9:00AM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-12-20 09:00"
+   },
+   {
+    "name": "Vet Combined Women's Epee",
+    "when": "Dec 20 9:00AM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2026-12-20 09:00"
+   },
+   {
+    "name": "Vet Combined Men's Epee",
+    "when": "Dec 20 9:00AM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2026-12-20 09:00"
+   },
+   {
+    "name": "Y8 Mixed Epee",
+    "when": "Dec 20 11:00AM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2026-12-20 11:00"
+   },
+   {
+    "name": "Senior Mixed Saber",
+    "when": "Dec 20 11:00AM",
+    "estimate": "",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-12-20 11:00"
+   },
+   {
+    "name": "Y10 Mixed Epee",
+    "when": "Dec 20 1:00PM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2026-12-20 13:00"
+   },
+   {
+    "name": "Y12 Mixed Epee",
+    "when": "Dec 20 3:00PM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-12-20 15:00"
+   },
+   {
+    "name": "Y14 Mixed Epee",
+    "when": "Dec 20 5:00PM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2026-12-20 17:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "f70c8bf5-0a01-4af0-b051-0415b9501153",
+  "name": "ALLE Winter Saber Cup'27 (CDT- Mx, JNR- Mx, Senior Mx, E & Under senior Mx)",
+  "url": "https://www.askfred.net/tournaments/f70c8bf5-0a01-4af0-b051-0415b9501153",
+  "register_url": "https://www.askfred.net/tournaments/f70c8bf5-0a01-4af0-b051-0415b9501153/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/f70c8bf5-0a01-4af0-b051-0415b9501153/preregistrations",
+  "registration_open": true,
+  "start": "2027-01-24",
+  "end": "2027-01-24",
+  "venue": "Alle Fencing Club: Fort Lauderdale, FL",
+  "distance": 164,
+  "events": [
+   {
+    "name": "Cadet Mixed Saber",
+    "when": "Jan 20 9:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2027-01-20 09:00"
+   },
+   {
+    "name": "Junior Mixed Saber",
+    "when": "Jan 20 11:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2027-01-20 11:00"
+   },
+   {
+    "name": "Senior Mixed Saber",
+    "when": "Jan 20 1:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2027-01-20 13:00"
+   },
+   {
+    "name": "E & Under Senior Mixed Saber",
+    "when": "Jan 20 3:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "EUnder",
+    "start": "2027-01-20 15:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "3041587e-cabc-4c31-a054-6a9fefd56f20",
+  "name": "Battle At The Beach 5",
+  "url": "https://www.askfred.net/tournaments/3041587e-cabc-4c31-a054-6a9fefd56f20",
+  "register_url": "",
+  "whos_coming_url": "https://www.askfred.net/tournaments/3041587e-cabc-4c31-a054-6a9fefd56f20/preregistrations",
+  "registration_open": false,
+  "start": "2027-01-29",
+  "end": "2027-01-31",
+  "venue": "DUVAL HALL (Greater Jacksonville Agricultural Fair and Expo Center): Jacksonville, Florida",
+  "distance": 205,
+  "events": [
+   {
+    "name": "Y12 Men's Foil",
+    "when": "Jan 29 8:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2027-01-29 08:00"
+   },
+   {
+    "name": "Y8 Women's Saber",
+    "when": "Jan 29 8:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2027-01-29 08:00"
+   },
+   {
+    "name": "Y8 Women's Epee",
+    "when": "Jan 29 8:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2027-01-29 08:00"
+   },
+   {
+    "name": "Division III Men’s Foil",
+    "when": "Jan 29 8:00AM",
+    "estimate": "U · up to 20 pts",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div3",
+    "start": "2027-01-29 08:00"
+   },
+   {
+    "name": "Cadet Men's Saber",
+    "when": "Jan 29 8:30AM",
+    "estimate": "U · up to 60 pts",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2027-01-29 08:30"
+   },
+   {
+    "name": "Division IA Women’s Foil",
+    "when": "Jan 29 12:00PM",
+    "estimate": "U · up to 100 pts",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div1A",
+    "start": "2027-01-29 12:00"
+   },
+   {
+    "name": "Cadet Women's Saber",
+    "when": "Jan 29 12:00PM",
+    "estimate": "U · up to 60 pts",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2027-01-29 12:00"
+   },
+   {
+    "name": "Junior Men's Foil",
+    "when": "Jan 29 12:00PM",
+    "estimate": "U · up to 80 pts",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2027-01-29 12:00"
+   },
+   {
+    "name": "Y8 Men's Epee",
+    "when": "Jan 29 12:00PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2027-01-29 12:00"
+   },
+   {
+    "name": "Division III Women’s Epee",
+    "when": "Jan 29 12:00PM",
+    "estimate": "U · up to 20 pts",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div3",
+    "start": "2027-01-29 12:00"
+   },
+   {
+    "name": "Y8 Men's Saber",
+    "when": "Jan 29 12:30PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2027-01-29 12:30"
+   },
+   {
+    "name": "Division II Women’s Saber",
+    "when": "Jan 29 3:30PM",
+    "estimate": "U · up to 40 pts",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2027-01-29 15:30"
+   },
+   {
+    "name": "Y14 Men's Saber",
+    "when": "Jan 29 3:30PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2027-01-29 15:30"
+   },
+   {
+    "name": "Vet Combined Women's Epee",
+    "when": "Jan 29 4:00PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2027-01-29 16:00"
+   },
+   {
+    "name": "Division II Men’s Foil",
+    "when": "Jan 29 4:00PM",
+    "estimate": "U · up to 40 pts",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2027-01-29 16:00"
+   },
+   {
+    "name": "Division II Men’s Epee",
+    "when": "Jan 29 4:00PM",
+    "estimate": "U · up to 40 pts",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2027-01-29 16:00"
+   },
+   {
+    "name": "Y10 Women's Epee",
+    "when": "Jan 29 4:00PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2027-01-29 16:00"
+   },
+   {
+    "name": "Y12 Men's Epee",
+    "when": "Jan 30 8:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2027-01-30 08:00"
+   },
+   {
+    "name": "Parafencing Senior Women's Saber",
+    "when": "Jan 30 8:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2027-01-30 08:00"
+   },
+   {
+    "name": "Junior Women's Epee",
+    "when": "Jan 30 8:00AM",
+    "estimate": "U · up to 80 pts",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2027-01-30 08:00"
+   },
+   {
+    "name": "Y14 Women's Foil",
+    "when": "Jan 30 8:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2027-01-30 08:00"
+   },
+   {
+    "name": "Division II Women’s Epee",
+    "when": "Jan 30 8:00AM",
+    "estimate": "U · up to 40 pts",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2027-01-30 08:00"
+   },
+   {
+    "name": "Division IA Men’s Foil",
+    "when": "Jan 30 8:00AM",
+    "estimate": "U · up to 100 pts",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div1A",
+    "start": "2027-01-30 08:00"
+   },
+   {
+    "name": "Y12 Women's Epee",
+    "when": "Jan 30 8:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2027-01-30 08:00"
+   },
+   {
+    "name": "Y8 Men's Foil",
+    "when": "Jan 30 8:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2027-01-30 08:00"
+   },
+   {
+    "name": "Y10 Women's Saber",
+    "when": "Jan 30 8:30AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2027-01-30 08:30"
+   },
+   {
+    "name": "Division II Men’s Saber",
+    "when": "Jan 30 8:30AM",
+    "estimate": "U · up to 40 pts",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2027-01-30 08:30"
+   },
+   {
+    "name": "Junior Men's Epee",
+    "when": "Jan 30 12:00PM",
+    "estimate": "U · up to 80 pts",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2027-01-30 12:00"
+   },
+   {
+    "name": "Vet Combined Women's Foil",
+    "when": "Jan 30 12:00PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2027-01-30 12:00"
+   },
+   {
+    "name": "Y14 Men's Foil",
+    "when": "Jan 30 12:00PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2027-01-30 12:00"
+   },
+   {
+    "name": "Y10 Men's Epee",
+    "when": "Jan 30 12:00PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2027-01-30 12:00"
+   },
+   {
+    "name": "Cadet Women's Foil",
+    "when": "Jan 30 12:00PM",
+    "estimate": "U · up to 60 pts",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2027-01-30 12:00"
+   },
+   {
+    "name": "Parafencing Senior Women's Epee",
+    "when": "Jan 30 12:30PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2027-01-30 12:30"
+   },
+   {
+    "name": "Junior Women's Saber",
+    "when": "Jan 30 12:30PM",
+    "estimate": "U · up to 80 pts",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2027-01-30 12:30"
+   },
+   {
+    "name": "Y12 Men's Saber",
+    "when": "Jan 30 12:30PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2027-01-30 12:30"
+   },
+   {
+    "name": "Junior Men's Saber",
+    "when": "Jan 30 12:30PM",
+    "estimate": "U · up to 80 pts",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2027-01-30 12:30"
+   },
+   {
+    "name": "Division IA Men’s Epee",
+    "when": "Jan 30 4:00PM",
+    "estimate": "U · up to 100 pts",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div1A",
+    "start": "2027-01-30 16:00"
+   },
+   {
+    "name": "Parafencing Senior Women's Foil",
+    "when": "Jan 30 4:00PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2027-01-30 16:00"
+   },
+   {
+    "name": "Y10 Women's Foil",
+    "when": "Jan 30 4:00PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2027-01-30 16:00"
+   },
+   {
+    "name": "Cadet Women's Epee",
+    "when": "Jan 30 4:00PM",
+    "estimate": "U · up to 60 pts",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2027-01-30 16:00"
+   },
+   {
+    "name": "Vet Combined Men's Foil",
+    "when": "Jan 30 4:00PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2027-01-30 16:00"
+   },
+   {
+    "name": "Cadet Men's Foil",
+    "when": "Jan 30 4:00PM",
+    "estimate": "U · up to 60 pts",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2027-01-30 16:00"
+   },
+   {
+    "name": "Division III Men’s Saber",
+    "when": "Jan 30 4:00PM",
+    "estimate": "U · up to 20 pts",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div3",
+    "start": "2027-01-30 16:00"
+   },
+   {
+    "name": "Y14 Women's Saber",
+    "when": "Jan 30 4:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2027-01-30 16:00"
+   },
+   {
+    "name": "Vet Combined Women's Saber",
+    "when": "Jan 30 4:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2027-01-30 16:00"
+   },
+   {
+    "name": "Vet Combined Men's Epee",
+    "when": "Jan 31 8:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2027-01-31 08:00"
+   },
+   {
+    "name": "Division IA Men’s Saber",
+    "when": "Jan 31 8:00AM",
+    "estimate": "U · up to 100 pts",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div1A",
+    "start": "2027-01-31 08:00"
+   },
+   {
+    "name": "Y14 Women's Epee",
+    "when": "Jan 31 8:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2027-01-31 08:00"
+   },
+   {
+    "name": "Y10 Men's Foil",
+    "when": "Jan 31 8:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2027-01-31 08:00"
+   },
+   {
+    "name": "Y12 Women's Saber",
+    "when": "Jan 31 8:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2027-01-31 08:00"
+   },
+   {
+    "name": "Parafencing Senior Men's Saber",
+    "when": "Jan 31 8:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2027-01-31 08:00"
+   },
+   {
+    "name": "Division III Women’s Foil",
+    "when": "Jan 31 8:00AM",
+    "estimate": "U · up to 20 pts",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div3",
+    "start": "2027-01-31 08:00"
+   },
+   {
+    "name": "Division III Men’s Epee",
+    "when": "Jan 31 12:00PM",
+    "estimate": "U · up to 20 pts",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div3",
+    "start": "2027-01-31 12:00"
+   },
+   {
+    "name": "Y8 Women's Foil",
+    "when": "Jan 31 12:00PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2027-01-31 12:00"
+   },
+   {
+    "name": "Y10 Men's Saber",
+    "when": "Jan 31 12:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2027-01-31 12:00"
+   },
+   {
+    "name": "Division III Women’s Saber",
+    "when": "Jan 31 12:00PM",
+    "estimate": "U · up to 20 pts",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div3",
+    "start": "2027-01-31 12:00"
+   },
+   {
+    "name": "Junior Women's Foil",
+    "when": "Jan 31 12:00PM",
+    "estimate": "U · up to 80 pts",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2027-01-31 12:00"
+   },
+   {
+    "name": "Y14 Men's Epee",
+    "when": "Jan 31 12:00PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2027-01-31 12:00"
+   },
+   {
+    "name": "Parafencing Senior Men's Epee",
+    "when": "Jan 31 12:00PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2027-01-31 12:00"
+   },
+   {
+    "name": "Cadet Men's Epee",
+    "when": "Jan 31 4:00PM",
+    "estimate": "U · up to 60 pts",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2027-01-31 16:00"
+   },
+   {
+    "name": "Vet Combined Men's Saber",
+    "when": "Jan 31 4:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2027-01-31 16:00"
+   },
+   {
+    "name": "Division II Women’s Foil",
+    "when": "Jan 31 4:00PM",
+    "estimate": "U · up to 40 pts",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2027-01-31 16:00"
+   },
+   {
+    "name": "Parafencing Senior Men's Foil",
+    "when": "Jan 31 4:00PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2027-01-31 16:00"
+   },
+   {
+    "name": "Division IA Women’s Saber",
+    "when": "Jan 31 4:00PM",
+    "estimate": "U · up to 100 pts",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div1A",
+    "start": "2027-01-31 16:00"
+   },
+   {
+    "name": "Division IA Women’s Epee",
+    "when": "Jan 31 4:00PM",
+    "estimate": "U · up to 100 pts",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div1A",
+    "start": "2027-01-31 16:00"
+   },
+   {
+    "name": "Y12 Women's Foil",
+    "when": "Jan 31 4:00PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2027-01-31 16:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "d2c8390f-0dd9-40bb-a260-4ab7bc28a0e3",
+  "name": "SIFA Championships 2027 (College only)",
+  "url": "https://www.askfred.net/tournaments/d2c8390f-0dd9-40bb-a260-4ab7bc28a0e3",
+  "register_url": "https://www.askfred.net/tournaments/d2c8390f-0dd9-40bb-a260-4ab7bc28a0e3/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/d2c8390f-0dd9-40bb-a260-4ab7bc28a0e3/preregistrations",
+  "registration_open": true,
+  "start": "2027-01-30",
+  "end": "2027-01-31",
+  "venue": "Georgia Square Mall: Athens, GA",
+  "distance": 460,
+  "events": [
+   {
+    "name": "Unsanctioned Men's Epee Team",
+    "when": "Jan 30 6:00AM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2027-01-30 06:00"
+   },
+   {
+    "name": "Unsanctioned Women's Foil Team",
+    "when": "Jan 30 6:00AM",
+    "estimate": "",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2027-01-30 06:00"
+   },
+   {
+    "name": "Unsanctioned Men's Epee",
+    "when": "Jan 30 6:00AM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2027-01-30 06:00"
+   },
+   {
+    "name": "Unsanctioned Men's Saber Team",
+    "when": "Jan 30 6:00AM",
+    "estimate": "",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2027-01-30 06:00"
+   },
+   {
+    "name": "Unsanctioned Men's Saber",
+    "when": "Jan 30 6:00AM",
+    "estimate": "",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2027-01-30 06:00"
+   },
+   {
+    "name": "Unsanctioned Women's Foil",
+    "when": "Jan 30 6:00AM",
+    "estimate": "",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2027-01-30 06:00"
+   },
+   {
+    "name": "Unsanctioned Men's Foil",
+    "when": "Jan 31 6:00AM",
+    "estimate": "",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2027-01-31 06:00"
+   },
+   {
+    "name": "Unsanctioned Women's Saber",
+    "when": "Jan 31 6:00AM",
+    "estimate": "",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2027-01-31 06:00"
+   },
+   {
+    "name": "Unsanctioned Men's Foil Team",
+    "when": "Jan 31 6:00AM",
+    "estimate": "",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2027-01-31 06:00"
+   },
+   {
+    "name": "Unsanctioned Women's Saber Team",
+    "when": "Jan 31 6:00AM",
+    "estimate": "",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2027-01-31 06:00"
+   },
+   {
+    "name": "Unsanctioned Women's Epee Team",
+    "when": "Jan 31 6:00AM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2027-01-31 06:00"
+   },
+   {
+    "name": "Unsanctioned Women's Epee",
+    "when": "Jan 31 6:00AM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2027-01-31 06:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "46c95f71-9162-4f5b-aa83-0508b0b84369",
+  "name": "USF Green and Gold RYC",
+  "url": "https://www.askfred.net/tournaments/46c95f71-9162-4f5b-aa83-0508b0b84369",
+  "register_url": "",
+  "whos_coming_url": "https://www.askfred.net/tournaments/46c95f71-9162-4f5b-aa83-0508b0b84369/preregistrations",
+  "registration_open": false,
+  "start": "2027-02-06",
+  "end": "2027-02-07",
+  "venue": "USF Recreation and Wellness Center - East Gym: Tampa, Florida",
+  "distance": 51,
+  "events": [
+   {
+    "name": "Y14 Men's Epee",
+    "when": "Feb 6 8:30AM",
+    "estimate": "NR",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2027-02-06 08:30"
+   },
+   {
+    "name": "Y14 Men's Saber",
+    "when": "Feb 6 8:30AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2027-02-06 08:30"
+   },
+   {
+    "name": "Y12 Men's Foil",
+    "when": "Feb 6 8:30AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2027-02-06 08:30"
+   },
+   {
+    "name": "Y10 Women's Epee",
+    "when": "Feb 6 8:30AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2027-02-06 08:30"
+   },
+   {
+    "name": "Y10 Women's Saber",
+    "when": "Feb 6 11:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2027-02-06 11:00"
+   },
+   {
+    "name": "Y8 Women's Foil",
+    "when": "Feb 6 12:00PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2027-02-06 12:00"
+   },
+   {
+    "name": "Y8 Men's Foil",
+    "when": "Feb 6 12:00PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2027-02-06 12:00"
+   },
+   {
+    "name": "Y10 Men's Saber",
+    "when": "Feb 6 1:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2027-02-06 13:00"
+   },
+   {
+    "name": "Y14 Women's Epee",
+    "when": "Feb 6 1:30PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2027-02-06 13:30"
+   },
+   {
+    "name": "Y12 Women's Foil",
+    "when": "Feb 6 1:30PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2027-02-06 13:30"
+   },
+   {
+    "name": "Y10 Men's Epee",
+    "when": "Feb 6 1:30PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2027-02-06 13:30"
+   },
+   {
+    "name": "Y14 Women's Saber",
+    "when": "Feb 6 3:30PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2027-02-06 15:30"
+   },
+   {
+    "name": "Y14 Women's Foil",
+    "when": "Feb 7 8:30AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2027-02-07 08:30"
+   },
+   {
+    "name": "Y12 Men's Epee",
+    "when": "Feb 7 8:30AM",
+    "estimate": "NR",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2027-02-07 08:30"
+   },
+   {
+    "name": "Y12 Men's Saber",
+    "when": "Feb 7 8:30AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2027-02-07 08:30"
+   },
+   {
+    "name": "Y8 Women's Epee",
+    "when": "Feb 7 8:30AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2027-02-07 08:30"
+   },
+   {
+    "name": "Y10 Men's Foil",
+    "when": "Feb 7 8:30AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2027-02-07 08:30"
+   },
+   {
+    "name": "Y12 Women's Saber",
+    "when": "Feb 7 11:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2027-02-07 11:00"
+   },
+   {
+    "name": "Y14 Men's Foil",
+    "when": "Feb 7 1:30PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2027-02-07 13:30"
+   },
+   {
+    "name": "Y10 Women's Foil",
+    "when": "Feb 7 1:30PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2027-02-07 13:30"
+   },
+   {
+    "name": "Y12 Women's Epee",
+    "when": "Feb 7 1:30PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2027-02-07 13:30"
+   },
+   {
+    "name": "Y8 Men's Epee",
+    "when": "Feb 7 1:30PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2027-02-07 13:30"
+   },
+   {
+    "name": "Y8 Men's Saber",
+    "when": "Feb 7 2:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2027-02-07 14:00"
+   },
+   {
+    "name": "Y8 Women's Saber",
+    "when": "Feb 7 2:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2027-02-07 14:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "321e801d-fc0b-48fb-958a-d916377d9df9",
+  "name": "ALLE Winter Saber Cup'27 (Y-8 Mx, Y-10 Mx, Y-12 Mx, Y-14 Mx)",
+  "url": "https://www.askfred.net/tournaments/321e801d-fc0b-48fb-958a-d916377d9df9",
+  "register_url": "https://www.askfred.net/tournaments/321e801d-fc0b-48fb-958a-d916377d9df9/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/321e801d-fc0b-48fb-958a-d916377d9df9/preregistrations",
+  "registration_open": true,
+  "start": "2027-02-21",
+  "end": "2027-02-21",
+  "venue": "Alle Fencing Club: Fort Lauderdale, FL",
+  "distance": 164,
+  "events": [
+   {
+    "name": "Y8 Mixed Saber",
+    "when": "Feb 21 9:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2027-02-21 09:00"
+   },
+   {
+    "name": "Y10 Mixed Saber",
+    "when": "Feb 21 11:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2027-02-21 11:00"
+   },
+   {
+    "name": "Y12 Mixed Saber",
+    "when": "Feb 21 1:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2027-02-21 13:00"
+   },
+   {
+    "name": "Y14 Mixed Saber",
+    "when": "Feb 21 3:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2027-02-21 15:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "e100b706-74b7-4091-99b9-23b2edea645b",
+  "name": "ALLE Spring Saber Cup'27 (CDT- Mx, JNR- Mx, Senior Mx, E & Under senior Mx)",
+  "url": "https://www.askfred.net/tournaments/e100b706-74b7-4091-99b9-23b2edea645b",
+  "register_url": "https://www.askfred.net/tournaments/e100b706-74b7-4091-99b9-23b2edea645b/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/e100b706-74b7-4091-99b9-23b2edea645b/preregistrations",
+  "registration_open": true,
+  "start": "2027-03-14",
+  "end": "2027-03-14",
+  "venue": "Alle Fencing Club: Fort Lauderdale, FL",
+  "distance": 164,
+  "events": [
+   {
+    "name": "Cadet Mixed Saber",
+    "when": "Mar 14 9:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2027-06-13 09:00"
+   },
+   {
+    "name": "Junior Mixed Saber",
+    "when": "Mar 14 11:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2027-06-13 11:00"
+   },
+   {
+    "name": "Senior Mixed Saber",
+    "when": "Mar 14 1:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2027-06-13 13:00"
+   },
+   {
+    "name": "E & Under Senior Mixed Saber",
+    "when": "Mar 14 3:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "EUnder",
+    "start": "2027-06-13 15:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "a84429e4-4004-4619-beb3-fa6832a71f7a",
+  "name": "Spring Fling",
+  "url": "https://www.askfred.net/tournaments/a84429e4-4004-4619-beb3-fa6832a71f7a",
+  "register_url": "https://www.askfred.net/tournaments/a84429e4-4004-4619-beb3-fa6832a71f7a/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/a84429e4-4004-4619-beb3-fa6832a71f7a/preregistrations",
+  "registration_open": true,
+  "start": "2027-04-17",
+  "end": "2027-04-18",
+  "venue": "Augusta Fencers Club : Augusta, GA",
+  "distance": 425,
+  "events": [
+   {
+    "name": "E & Under Mixed Foil",
+    "when": "Apr 17 9:00AM",
+    "estimate": "",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "EUnder",
+    "start": "2027-04-17 09:00"
+   },
+   {
+    "name": "Mixed Saber",
+    "when": "Apr 17 10:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2027-04-17 10:00"
+   },
+   {
+    "name": "Y12 Mixed Foil",
+    "when": "Apr 17 12:00PM",
+    "estimate": "",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2027-04-17 12:00"
+   },
+   {
+    "name": "Y12 Mixed Saber",
+    "when": "Apr 17 1:30PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2027-04-17 13:30"
+   },
+   {
+    "name": "Mixed Foil",
+    "when": "Apr 17 2:00PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2027-04-17 14:00"
+   },
+   {
+    "name": "E & Under Mixed Epee",
+    "when": "Apr 18 9:30AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "EUnder",
+    "start": "2027-04-18 09:30"
+   },
+   {
+    "name": "Mixed Epee",
+    "when": "Apr 18 12:30PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2027-04-18 12:30"
+   },
+   {
+    "name": "Y12 Mixed Epee",
+    "when": "Apr 18 3:00PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2027-04-18 15:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "4b865dee-953a-406a-9475-c3fe8872f8c6",
+  "name": "ALLE Spring Saber Cup'27 (Y-8 Mx, Y-10 Mx, Y-12 Mx, Y-14 Mx)",
+  "url": "https://www.askfred.net/tournaments/4b865dee-953a-406a-9475-c3fe8872f8c6",
+  "register_url": "https://www.askfred.net/tournaments/4b865dee-953a-406a-9475-c3fe8872f8c6/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/4b865dee-953a-406a-9475-c3fe8872f8c6/preregistrations",
+  "registration_open": true,
+  "start": "2027-04-18",
+  "end": "2027-04-18",
+  "venue": "Alle Fencing Club: Fort Lauderdale, FL",
+  "distance": 164,
+  "events": [
+   {
+    "name": "Y8 Mixed Saber",
+    "when": "Apr 18 9:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2027-05-23 09:00"
+   },
+   {
+    "name": "Y10 Mixed Saber",
+    "when": "Apr 18 11:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2027-05-23 11:00"
+   },
+   {
+    "name": "Y12 Mixed Saber",
+    "when": "Apr 18 1:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2027-05-23 13:00"
+   },
+   {
+    "name": "Y14 Mixed Saber",
+    "when": "Apr 18 3:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2027-05-23 15:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "7f1d4834-0c17-4a36-9639-bedfd69354a3",
+  "name": "ALLE Spring Saber Cup'27 (CDT- Mx, JNR- Mx, Senior Mx, E & Under senior Mx)",
+  "url": "https://www.askfred.net/tournaments/7f1d4834-0c17-4a36-9639-bedfd69354a3",
+  "register_url": "https://www.askfred.net/tournaments/7f1d4834-0c17-4a36-9639-bedfd69354a3/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/7f1d4834-0c17-4a36-9639-bedfd69354a3/preregistrations",
+  "registration_open": true,
+  "start": "2027-05-02",
+  "end": "2027-05-02",
+  "venue": "Alle Fencing Club: Fort Lauderdale, FL",
+  "distance": 164,
+  "events": [
+   {
+    "name": "Cadet Mixed Saber",
+    "when": "May 2 9:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2027-06-13 09:00"
+   },
+   {
+    "name": "Junior Mixed Saber",
+    "when": "May 2 11:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2027-06-13 11:00"
+   },
+   {
+    "name": "Senior Mixed Saber",
+    "when": "May 2 1:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2027-06-13 13:00"
+   },
+   {
+    "name": "E & Under Senior Mixed Saber",
+    "when": "May 2 3:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "EUnder",
+    "start": "2027-06-13 15:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "1cc1eaf5-3229-4a65-ade5-e7670252e647",
+  "name": "ALLE Spring Saber Cup'27 (Y-8 Mx, Y-10 Mx, Y-12 Mx, Y-14 Mx)",
+  "url": "https://www.askfred.net/tournaments/1cc1eaf5-3229-4a65-ade5-e7670252e647",
+  "register_url": "https://www.askfred.net/tournaments/1cc1eaf5-3229-4a65-ade5-e7670252e647/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/1cc1eaf5-3229-4a65-ade5-e7670252e647/preregistrations",
+  "registration_open": true,
+  "start": "2027-05-23",
+  "end": "2027-05-23",
+  "venue": "Alle Fencing Club: Fort Lauderdale, FL",
+  "distance": 164,
+  "events": [
+   {
+    "name": "Y8 Mixed Saber",
+    "when": "May 23 9:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2027-05-23 09:00"
+   },
+   {
+    "name": "Y10 Mixed Saber",
+    "when": "May 23 11:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2027-05-23 11:00"
+   },
+   {
+    "name": "Y12 Mixed Saber",
+    "when": "May 23 1:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2027-05-23 13:00"
+   },
+   {
+    "name": "Y14 Mixed Saber",
+    "when": "May 23 3:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2027-05-23 15:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "714db701-ad97-496c-9616-8d78445d287c",
+  "name": "ALLE Spring Saber Cup'27 (CDT- Mx, JNR- Mx, Senior Mx, E & Under senior Mx)",
+  "url": "https://www.askfred.net/tournaments/714db701-ad97-496c-9616-8d78445d287c",
+  "register_url": "https://www.askfred.net/tournaments/714db701-ad97-496c-9616-8d78445d287c/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/714db701-ad97-496c-9616-8d78445d287c/preregistrations",
+  "registration_open": true,
+  "start": "2027-06-13",
+  "end": "2027-06-13",
+  "venue": "Alle Fencing Club: Fort Lauderdale, FL",
+  "distance": 164,
+  "events": [
+   {
+    "name": "Cadet Mixed Saber",
+    "when": "Jun 13 9:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2027-06-13 09:00"
+   },
+   {
+    "name": "Junior Mixed Saber",
+    "when": "Jun 13 11:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2027-06-13 11:00"
+   },
+   {
+    "name": "Senior Mixed Saber",
+    "when": "Jun 13 1:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2027-06-13 13:00"
+   },
+   {
+    "name": "E & Under Senior Mixed Saber",
+    "when": "Jun 13 3:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "EUnder",
+    "start": "2027-06-13 15:00"
+   }
+  ]
+ }
+]

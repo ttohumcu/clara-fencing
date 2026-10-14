@@ -1,0 +1,7191 @@
+{
+ "generated": "2026-10-14T19:07:46.105834+00:00",
+ "askfred": [
+  {
+   "source": "askfred",
+   "id": "c15aa4df-b206-40f2-95a9-e2f67683cf1d",
+   "name": "ALLE Fall Saber Cup'26 (Y-8 Mx, Y-10 Mx, Y-12 Mx, Y-14 Mx)",
+   "url": "https://www.askfred.net/tournaments/c15aa4df-b206-40f2-95a9-e2f67683cf1d",
+   "register_url": "https://www.askfred.net/tournaments/c15aa4df-b206-40f2-95a9-e2f67683cf1d/preregister",
+   "whos_coming_url": "https://www.askfred.net/tournaments/c15aa4df-b206-40f2-95a9-e2f67683cf1d/preregistrations",
+   "registration_open": true,
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "venue": "Alle Fencing Club: Fort Lauderdale, FL",
+   "distance": 164,
+   "events": [
+    {
+     "name": "Y8 Mixed Saber",
+     "when": "Oct 18 9:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2026-12-06 09:00"
+    },
+    {
+     "name": "Y10 Mixed Saber",
+     "when": "Oct 18 11:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2026-12-06 11:00"
+    },
+    {
+     "name": "Y12 Mixed Saber",
+     "when": "Oct 18 1:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2026-12-06 13:00"
+    },
+    {
+     "name": "Y14 Mixed Saber",
+     "when": "Oct 18 3:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2026-12-06 15:00"
+    }
+   ],
+   "eligible": [
+    {
+     "name": "Y14 Mixed Saber",
+     "when": "Oct 18 3:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2026-12-06 15:00"
+    }
+   ],
+   "tags": [],
+   "tier": "regional",
+   "hl": true
+  },
+  {
+   "source": "askfred",
+   "id": "546829f5-71db-48bf-aa1a-2a3d0f3bc35c",
+   "name": "ALLE Fall Saber Cup'26 (Y-8 Mx, Y-10 Mx, Y-12 Mx, Y-14 Mx)",
+   "url": "https://www.askfred.net/tournaments/546829f5-71db-48bf-aa1a-2a3d0f3bc35c",
+   "register_url": "",
+   "whos_coming_url": "https://www.askfred.net/tournaments/546829f5-71db-48bf-aa1a-2a3d0f3bc35c/preregistrations",
+   "registration_open": false,
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "venue": "Alle Fencing Club: Fort Lauderdale, FL",
+   "distance": 164,
+   "events": [
+    {
+     "name": "Y8 Mixed Saber",
+     "when": "Nov 29 9:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2026-12-06 09:00"
+    },
+    {
+     "name": "Y10 Mixed Saber",
+     "when": "Nov 29 11:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2026-12-06 11:00"
+    },
+    {
+     "name": "Y12 Mixed Saber",
+     "when": "Nov 29 1:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2026-12-06 13:00"
+    },
+    {
+     "name": "Y14 Mixed Saber",
+     "when": "Nov 29 3:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2026-12-06 15:00"
+    }
+   ],
+   "eligible": [
+    {
+     "name": "Y14 Mixed Saber",
+     "when": "Nov 29 3:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2026-12-06 15:00"
+    }
+   ],
+   "tags": [],
+   "tier": "regional",
+   "hl": true
+  },
+  {
+   "source": "askfred",
+   "id": "7e5c7a16-04a1-4d3a-8e82-195e1144d487",
+   "name": "ALLE Fall Saber Cup'26 (Y-8 Mx, Y-10 Mx, Y-12 Mx, Y-14 Mx)",
+   "url": "https://www.askfred.net/tournaments/7e5c7a16-04a1-4d3a-8e82-195e1144d487",
+   "register_url": "https://www.askfred.net/tournaments/7e5c7a16-04a1-4d3a-8e82-195e1144d487/preregister",
+   "whos_coming_url": "https://www.askfred.net/tournaments/7e5c7a16-04a1-4d3a-8e82-195e1144d487/preregistrations",
+   "registration_open": true,
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "venue": "Alle Fencing Club: Fort Lauderdale, FL",
+   "distance": 164,
+   "events": [
+    {
+     "name": "Y8 Mixed Saber",
+     "when": "Dec 6 9:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2026-12-06 09:00"
+    },
+    {
+     "name": "Y10 Mixed Saber",
+     "when": "Dec 6 11:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2026-12-06 11:00"
+    },
+    {
+     "name": "Y12 Mixed Saber",
+     "when": "Dec 6 1:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2026-12-06 13:00"
+    },
+    {
+     "name": "Y14 Mixed Saber",
+     "when": "Dec 6 3:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2026-12-06 15:00"
+    }
+   ],
+   "eligible": [
+    {
+     "name": "Y14 Mixed Saber",
+     "when": "Dec 6 3:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2026-12-06 15:00"
+    }
+   ],
+   "tags": [],
+   "tier": "regional",
+   "hl": true
+  },
+  {
+   "source": "askfred",
+   "id": "dc4dcb0a-bfa3-49c0-a8c5-96cfd16fc96d",
+   "name": "The Southern Y8/RYC/RJCC/ROC (VET/D1A/DV2)/RPC/TEAM",
+   "url": "https://www.askfred.net/tournaments/dc4dcb0a-bfa3-49c0-a8c5-96cfd16fc96d",
+   "register_url": "",
+   "whos_coming_url": "https://www.askfred.net/tournaments/dc4dcb0a-bfa3-49c0-a8c5-96cfd16fc96d/preregistrations",
+   "registration_open": false,
+   "start": "2026-12-11",
+   "end": "2026-12-13",
+   "venue": "Myrtle Beach Sports Center: Myrtle Beach, South Carolina",
+   "distance": 491,
+   "events": [
+    {
+     "name": "Y12 Men's Saber",
+     "when": "Dec 11 10:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2026-12-11 10:00"
+    },
+    {
+     "name": "Y8 Men's Foil",
+     "when": "Dec 11 10:00AM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2026-12-11 10:00"
+    },
+    {
+     "name": "Y8 Women's Foil",
+     "when": "Dec 11 10:00AM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2026-12-11 10:00"
+    },
+    {
+     "name": "Y14 Men's Epee",
+     "when": "Dec 11 10:00AM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2026-12-11 10:00"
+    },
+    {
+     "name": "Cadet Women's Saber",
+     "when": "Dec 11 10:00AM",
+     "estimate": "U · up to 60 pts",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Cadet",
+     "rating_limit": "Open",
+     "start": "2026-12-11 10:00"
+    },
+    {
+     "name": "Junior Women's Epee",
+     "when": "Dec 11 10:00AM",
+     "estimate": "U · up to 80 pts",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Junior",
+     "rating_limit": "Open",
+     "start": "2026-12-11 10:00"
+    },
+    {
+     "name": "Vet Combined Men's Epee",
+     "when": "Dec 11 10:00AM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "VetCombined",
+     "rating_limit": "Open",
+     "start": "2026-12-11 10:00"
+    },
+    {
+     "name": "Division II Women’s Foil",
+     "when": "Dec 11 10:00AM",
+     "estimate": "U · up to 40 pts",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Div2",
+     "start": "2026-12-11 10:00"
+    },
+    {
+     "name": "Division II Men’s Saber",
+     "when": "Dec 11 10:00AM",
+     "estimate": "U · up to 40 pts",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Div2",
+     "start": "2026-12-11 10:00"
+    },
+    {
+     "name": "Division IA Men’s Foil",
+     "when": "Dec 11 10:00AM",
+     "estimate": "U · up to 100 pts",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Div1A",
+     "start": "2026-12-11 10:00"
+    },
+    {
+     "name": "Parafencing Senior Men's Saber",
+     "when": "Dec 11 11:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Open",
+     "start": "2026-12-11 11:00"
+    },
+    {
+     "name": "Y8 Men's Epee",
+     "when": "Dec 11 1:00PM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2026-12-11 13:00"
+    },
+    {
+     "name": "Vet Combined Women's Foil",
+     "when": "Dec 11 1:00PM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "VetCombined",
+     "rating_limit": "Open",
+     "start": "2026-12-11 13:00"
+    },
+    {
+     "name": "Y8 Women's Epee",
+     "when": "Dec 11 1:00PM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2026-12-11 13:00"
+    },
+    {
+     "name": "Y12 Women's Foil",
+     "when": "Dec 11 2:00PM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2026-12-11 14:00"
+    },
+    {
+     "name": "Parafencing Senior Women's Saber",
+     "when": "Dec 11 2:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Open",
+     "start": "2026-12-11 14:00"
+    },
+    {
+     "name": "Y14 Men's Foil",
+     "when": "Dec 11 2:30PM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2026-12-11 14:30"
+    },
+    {
+     "name": "Division II Women’s Epee",
+     "when": "Dec 11 2:30PM",
+     "estimate": "U · up to 40 pts",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Div2",
+     "start": "2026-12-11 14:30"
+    },
+    {
+     "name": "Division II Men’s Epee",
+     "when": "Dec 11 2:30PM",
+     "estimate": "U · up to 40 pts",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Div2",
+     "start": "2026-12-11 14:30"
+    },
+    {
+     "name": "Y12 Women's Epee",
+     "when": "Dec 11 2:30PM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2026-12-11 14:30"
+    },
+    {
+     "name": "Division IA Team Men’s Epee",
+     "when": "Dec 11 4:00PM",
+     "estimate": "U · up to 100 pts",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Div1",
+     "start": "2026-12-11 16:00"
+    },
+    {
+     "name": "Division IA Team Women’s Foil",
+     "when": "Dec 11 4:00PM",
+     "estimate": "U · up to 100 pts",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Div1",
+     "start": "2026-12-11 16:00"
+    },
+    {
+     "name": "Y14 Women's Saber",
+     "when": "Dec 12 8:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2026-12-12 08:00"
+    },
+    {
+     "name": "Cadet Men's Epee",
+     "when": "Dec 12 8:00AM",
+     "estimate": "E1 · up to 60 pts",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Cadet",
+     "rating_limit": "Open",
+     "start": "2026-12-12 08:00"
+    },
+    {
+     "name": "Division IA Women’s Foil",
+     "when": "Dec 12 8:00AM",
+     "estimate": "U · up to 100 pts",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Div1A",
+     "start": "2026-12-12 08:00"
+    },
+    {
+     "name": "Cadet Men's Foil",
+     "when": "Dec 12 8:00AM",
+     "estimate": "U · up to 60 pts",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Cadet",
+     "rating_limit": "Open",
+     "start": "2026-12-12 08:00"
+    },
+    {
+     "name": "Junior Men's Saber",
+     "when": "Dec 12 9:00AM",
+     "estimate": "U · up to 80 pts",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Junior",
+     "rating_limit": "Open",
+     "start": "2026-12-12 09:00"
+    },
+    {
+     "name": "Y14 Women's Epee",
+     "when": "Dec 12 9:00AM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2026-12-12 09:00"
+    },
+    {
+     "name": "Parafencing Senior Women's Foil",
+     "when": "Dec 12 9:00AM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Open",
+     "start": "2026-12-12 09:00"
+    },
+    {
+     "name": "Y10 Women's Foil",
+     "when": "Dec 12 11:00AM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2026-12-12 11:00"
+    },
+    {
+     "name": "Y10 Men's Foil",
+     "when": "Dec 12 11:00AM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2026-12-12 11:00"
+    },
+    {
+     "name": "Y10 Women's Saber",
+     "when": "Dec 12 12:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2026-12-12 12:00"
+    },
+    {
+     "name": "Y10 Men's Saber",
+     "when": "Dec 12 12:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2026-12-12 12:00"
+    },
+    {
+     "name": "Vet Combined Women's Saber",
+     "when": "Dec 12 12:30PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "VetCombined",
+     "rating_limit": "Open",
+     "start": "2026-12-12 12:30"
+    },
+    {
+     "name": "Vet Combined Women's Epee",
+     "when": "Dec 12 12:30PM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "VetCombined",
+     "rating_limit": "Open",
+     "start": "2026-12-12 12:30"
+    },
+    {
+     "name": "Vet Combined Men's Saber",
+     "when": "Dec 12 12:30PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "VetCombined",
+     "rating_limit": "Open",
+     "start": "2026-12-12 12:30"
+    },
+    {
+     "name": "Y14 Men's Saber",
+     "when": "Dec 12 1:00PM",
+     "estimate": "NR",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2026-12-12 13:00"
+    },
+    {
+     "name": "Division IA Men’s Epee",
+     "when": "Dec 12 1:00PM",
+     "estimate": "A1 · up to 100 pts",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Div1A",
+     "start": "2026-12-12 13:00"
+    },
+    {
+     "name": "Parafencing Senior Men's Foil",
+     "when": "Dec 12 1:00PM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Open",
+     "start": "2026-12-12 13:00"
+    },
+    {
+     "name": "Division IA Women’s Saber",
+     "when": "Dec 12 3:00PM",
+     "estimate": "U · up to 100 pts",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Div1A",
+     "start": "2026-12-12 15:00"
+    },
+    {
+     "name": "Y14 Women's Foil",
+     "when": "Dec 12 3:00PM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2026-12-12 15:00"
+    },
+    {
+     "name": "Y12 Men's Epee",
+     "when": "Dec 12 3:00PM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2026-12-12 15:00"
+    },
+    {
+     "name": "Division IA Team Men’s Foil",
+     "when": "Dec 12 4:00PM",
+     "estimate": "U · up to 100 pts",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Div1",
+     "start": "2026-12-12 16:00"
+    },
+    {
+     "name": "Division IA Team Women’s Epee",
+     "when": "Dec 12 4:00PM",
+     "estimate": "U · up to 100 pts",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Div1",
+     "start": "2026-12-12 16:00"
+    },
+    {
+     "name": "Division IA Team Men’s Saber",
+     "when": "Dec 12 4:00PM",
+     "estimate": "U · up to 100 pts",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Div1",
+     "start": "2026-12-12 16:00"
+    },
+    {
+     "name": "Cadet Men's Saber",
+     "when": "Dec 13 8:00AM",
+     "estimate": "E1 · up to 60 pts",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Cadet",
+     "rating_limit": "Open",
+     "start": "2026-12-13 08:00"
+    },
+    {
+     "name": "Division IA Women’s Epee",
+     "when": "Dec 13 8:00AM",
+     "estimate": "U · up to 100 pts",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Div1A",
+     "start": "2026-12-13 08:00"
+    },
+    {
+     "name": "Junior Women's Saber",
+     "when": "Dec 13 8:00AM",
+     "estimate": "U · up to 80 pts",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Junior",
+     "rating_limit": "Open",
+     "start": "2026-12-13 08:00"
+    },
+    {
+     "name": "Junior Women's Foil",
+     "when": "Dec 13 8:00AM",
+     "estimate": "U · up to 80 pts",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Junior",
+     "rating_limit": "Open",
+     "start": "2026-12-13 08:00"
+    },
+    {
+     "name": "Junior Men's Epee",
+     "when": "Dec 13 8:00AM",
+     "estimate": "A1 · up to 80 pts",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Junior",
+     "rating_limit": "Open",
+     "start": "2026-12-13 08:00"
+    },
+    {
+     "name": "Junior Men's Foil",
+     "when": "Dec 13 8:00AM",
+     "estimate": "U · up to 80 pts",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Junior",
+     "rating_limit": "Open",
+     "start": "2026-12-13 08:00"
+    },
+    {
+     "name": "Parafencing Senior Men's Epee",
+     "when": "Dec 13 9:00AM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Open",
+     "start": "2026-12-13 09:00"
+    },
+    {
+     "name": "Vet Combined Men's Foil",
+     "when": "Dec 13 10:00AM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "VetCombined",
+     "rating_limit": "Open",
+     "start": "2026-12-13 10:00"
+    },
+    {
+     "name": "Division II Women’s Saber",
+     "when": "Dec 13 12:00PM",
+     "estimate": "U · up to 40 pts",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Div2",
+     "start": "2026-12-13 12:00"
+    },
+    {
+     "name": "Parafencing Senior Women's Epee",
+     "when": "Dec 13 12:00PM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Open",
+     "start": "2026-12-13 12:00"
+    },
+    {
+     "name": "Y8 Men's Saber",
+     "when": "Dec 13 12:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2026-12-13 12:00"
+    },
+    {
+     "name": "Y8 Women's Saber",
+     "when": "Dec 13 12:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2026-12-13 12:00"
+    },
+    {
+     "name": "Y12 Women's Saber",
+     "when": "Dec 13 12:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2026-12-13 12:00"
+    },
+    {
+     "name": "Y10 Women's Epee",
+     "when": "Dec 13 1:00PM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2026-12-13 13:00"
+    },
+    {
+     "name": "Y12 Men's Foil",
+     "when": "Dec 13 1:00PM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2026-12-13 13:00"
+    },
+    {
+     "name": "Cadet Women's Foil",
+     "when": "Dec 13 1:00PM",
+     "estimate": "U · up to 60 pts",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Cadet",
+     "rating_limit": "Open",
+     "start": "2026-12-13 13:00"
+    },
+    {
+     "name": "Y10 Men's Epee",
+     "when": "Dec 13 1:00PM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2026-12-13 13:00"
+    },
+    {
+     "name": "Division II Men’s Foil",
+     "when": "Dec 13 2:00PM",
+     "estimate": "U · up to 40 pts",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Div2",
+     "start": "2026-12-13 14:00"
+    },
+    {
+     "name": "Cadet Women's Epee",
+     "when": "Dec 13 2:00PM",
+     "estimate": "U · up to 60 pts",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Cadet",
+     "rating_limit": "Open",
+     "start": "2026-12-13 14:00"
+    },
+    {
+     "name": "Division IA Men’s Saber",
+     "when": "Dec 13 3:00PM",
+     "estimate": "U · up to 100 pts",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Div1A",
+     "start": "2026-12-13 15:00"
+    },
+    {
+     "name": "Division IA Team Women’s Saber",
+     "when": "Dec 13 3:00PM",
+     "estimate": "U · up to 100 pts",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Div1",
+     "start": "2026-12-13 15:00"
+    }
+   ],
+   "eligible": [
+    {
+     "name": "Y14 Women's Saber",
+     "when": "Dec 12 8:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2026-12-12 08:00"
+    }
+   ],
+   "tags": [
+    "RYC",
+    "RJCC",
+    "ROC",
+    "RPC"
+   ],
+   "tier": "regional",
+   "hl": true,
+   "usaf_circuit": [
+    "RYC",
+    "ROC",
+    "RJCC",
+    "RPC"
+   ],
+   "usaf_region": "Region 6"
+  },
+  {
+   "source": "askfred",
+   "id": "3041587e-cabc-4c31-a054-6a9fefd56f20",
+   "name": "Battle At The Beach 5",
+   "url": "https://www.askfred.net/tournaments/3041587e-cabc-4c31-a054-6a9fefd56f20",
+   "register_url": "",
+   "whos_coming_url": "https://www.askfred.net/tournaments/3041587e-cabc-4c31-a054-6a9fefd56f20/preregistrations",
+   "registration_open": false,
+   "start": "2027-01-29",
+   "end": "2027-01-31",
+   "venue": "DUVAL HALL (Greater Jacksonville Agricultural Fair and Expo Center): Jacksonville, Florida",
+   "distance": 205,
+   "events": [
+    {
+     "name": "Y12 Men's Foil",
+     "when": "Jan 29 8:00AM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2027-01-29 08:00"
+    },
+    {
+     "name": "Y8 Women's Saber",
+     "when": "Jan 29 8:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2027-01-29 08:00"
+    },
+    {
+     "name": "Y8 Women's Epee",
+     "when": "Jan 29 8:00AM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2027-01-29 08:00"
+    },
+    {
+     "name": "Division III Men’s Foil",
+     "when": "Jan 29 8:00AM",
+     "estimate": "U · up to 20 pts",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Div3",
+     "start": "2027-01-29 08:00"
+    },
+    {
+     "name": "Cadet Men's Saber",
+     "when": "Jan 29 8:30AM",
+     "estimate": "U · up to 60 pts",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Cadet",
+     "rating_limit": "Open",
+     "start": "2027-01-29 08:30"
+    },
+    {
+     "name": "Division IA Women’s Foil",
+     "when": "Jan 29 12:00PM",
+     "estimate": "U · up to 100 pts",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Div1A",
+     "start": "2027-01-29 12:00"
+    },
+    {
+     "name": "Cadet Women's Saber",
+     "when": "Jan 29 12:00PM",
+     "estimate": "U · up to 60 pts",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Cadet",
+     "rating_limit": "Open",
+     "start": "2027-01-29 12:00"
+    },
+    {
+     "name": "Junior Men's Foil",
+     "when": "Jan 29 12:00PM",
+     "estimate": "U · up to 80 pts",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Junior",
+     "rating_limit": "Open",
+     "start": "2027-01-29 12:00"
+    },
+    {
+     "name": "Y8 Men's Epee",
+     "when": "Jan 29 12:00PM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2027-01-29 12:00"
+    },
+    {
+     "name": "Division III Women’s Epee",
+     "when": "Jan 29 12:00PM",
+     "estimate": "U · up to 20 pts",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Div3",
+     "start": "2027-01-29 12:00"
+    },
+    {
+     "name": "Y8 Men's Saber",
+     "when": "Jan 29 12:30PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2027-01-29 12:30"
+    },
+    {
+     "name": "Division II Women’s Saber",
+     "when": "Jan 29 3:30PM",
+     "estimate": "U · up to 40 pts",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Div2",
+     "start": "2027-01-29 15:30"
+    },
+    {
+     "name": "Y14 Men's Saber",
+     "when": "Jan 29 3:30PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2027-01-29 15:30"
+    },
+    {
+     "name": "Vet Combined Women's Epee",
+     "when": "Jan 29 4:00PM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "VetCombined",
+     "rating_limit": "Open",
+     "start": "2027-01-29 16:00"
+    },
+    {
+     "name": "Division II Men’s Foil",
+     "when": "Jan 29 4:00PM",
+     "estimate": "U · up to 40 pts",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Div2",
+     "start": "2027-01-29 16:00"
+    },
+    {
+     "name": "Division II Men’s Epee",
+     "when": "Jan 29 4:00PM",
+     "estimate": "U · up to 40 pts",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Div2",
+     "start": "2027-01-29 16:00"
+    },
+    {
+     "name": "Y10 Women's Epee",
+     "when": "Jan 29 4:00PM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2027-01-29 16:00"
+    },
+    {
+     "name": "Y12 Men's Epee",
+     "when": "Jan 30 8:00AM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2027-01-30 08:00"
+    },
+    {
+     "name": "Parafencing Senior Women's Saber",
+     "when": "Jan 30 8:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Open",
+     "start": "2027-01-30 08:00"
+    },
+    {
+     "name": "Junior Women's Epee",
+     "when": "Jan 30 8:00AM",
+     "estimate": "U · up to 80 pts",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Junior",
+     "rating_limit": "Open",
+     "start": "2027-01-30 08:00"
+    },
+    {
+     "name": "Y14 Women's Foil",
+     "when": "Jan 30 8:00AM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2027-01-30 08:00"
+    },
+    {
+     "name": "Division II Women’s Epee",
+     "when": "Jan 30 8:00AM",
+     "estimate": "U · up to 40 pts",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Div2",
+     "start": "2027-01-30 08:00"
+    },
+    {
+     "name": "Division IA Men’s Foil",
+     "when": "Jan 30 8:00AM",
+     "estimate": "U · up to 100 pts",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Div1A",
+     "start": "2027-01-30 08:00"
+    },
+    {
+     "name": "Y12 Women's Epee",
+     "when": "Jan 30 8:00AM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2027-01-30 08:00"
+    },
+    {
+     "name": "Y8 Men's Foil",
+     "when": "Jan 30 8:00AM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2027-01-30 08:00"
+    },
+    {
+     "name": "Y10 Women's Saber",
+     "when": "Jan 30 8:30AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2027-01-30 08:30"
+    },
+    {
+     "name": "Division II Men’s Saber",
+     "when": "Jan 30 8:30AM",
+     "estimate": "U · up to 40 pts",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Div2",
+     "start": "2027-01-30 08:30"
+    },
+    {
+     "name": "Junior Men's Epee",
+     "when": "Jan 30 12:00PM",
+     "estimate": "U · up to 80 pts",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Junior",
+     "rating_limit": "Open",
+     "start": "2027-01-30 12:00"
+    },
+    {
+     "name": "Vet Combined Women's Foil",
+     "when": "Jan 30 12:00PM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "VetCombined",
+     "rating_limit": "Open",
+     "start": "2027-01-30 12:00"
+    },
+    {
+     "name": "Y14 Men's Foil",
+     "when": "Jan 30 12:00PM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2027-01-30 12:00"
+    },
+    {
+     "name": "Y10 Men's Epee",
+     "when": "Jan 30 12:00PM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2027-01-30 12:00"
+    },
+    {
+     "name": "Cadet Women's Foil",
+     "when": "Jan 30 12:00PM",
+     "estimate": "U · up to 60 pts",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Cadet",
+     "rating_limit": "Open",
+     "start": "2027-01-30 12:00"
+    },
+    {
+     "name": "Parafencing Senior Women's Epee",
+     "when": "Jan 30 12:30PM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Open",
+     "start": "2027-01-30 12:30"
+    },
+    {
+     "name": "Junior Women's Saber",
+     "when": "Jan 30 12:30PM",
+     "estimate": "U · up to 80 pts",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Junior",
+     "rating_limit": "Open",
+     "start": "2027-01-30 12:30"
+    },
+    {
+     "name": "Y12 Men's Saber",
+     "when": "Jan 30 12:30PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2027-01-30 12:30"
+    },
+    {
+     "name": "Junior Men's Saber",
+     "when": "Jan 30 12:30PM",
+     "estimate": "U · up to 80 pts",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Junior",
+     "rating_limit": "Open",
+     "start": "2027-01-30 12:30"
+    },
+    {
+     "name": "Division IA Men’s Epee",
+     "when": "Jan 30 4:00PM",
+     "estimate": "U · up to 100 pts",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Div1A",
+     "start": "2027-01-30 16:00"
+    },
+    {
+     "name": "Parafencing Senior Women's Foil",
+     "when": "Jan 30 4:00PM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Open",
+     "start": "2027-01-30 16:00"
+    },
+    {
+     "name": "Y10 Women's Foil",
+     "when": "Jan 30 4:00PM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2027-01-30 16:00"
+    },
+    {
+     "name": "Cadet Women's Epee",
+     "when": "Jan 30 4:00PM",
+     "estimate": "U · up to 60 pts",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Cadet",
+     "rating_limit": "Open",
+     "start": "2027-01-30 16:00"
+    },
+    {
+     "name": "Vet Combined Men's Foil",
+     "when": "Jan 30 4:00PM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "VetCombined",
+     "rating_limit": "Open",
+     "start": "2027-01-30 16:00"
+    },
+    {
+     "name": "Cadet Men's Foil",
+     "when": "Jan 30 4:00PM",
+     "estimate": "U · up to 60 pts",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Cadet",
+     "rating_limit": "Open",
+     "start": "2027-01-30 16:00"
+    },
+    {
+     "name": "Division III Men’s Saber",
+     "when": "Jan 30 4:00PM",
+     "estimate": "U · up to 20 pts",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Div3",
+     "start": "2027-01-30 16:00"
+    },
+    {
+     "name": "Y14 Women's Saber",
+     "when": "Jan 30 4:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2027-01-30 16:00"
+    },
+    {
+     "name": "Vet Combined Women's Saber",
+     "when": "Jan 30 4:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "VetCombined",
+     "rating_limit": "Open",
+     "start": "2027-01-30 16:00"
+    },
+    {
+     "name": "Vet Combined Men's Epee",
+     "when": "Jan 31 8:00AM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "VetCombined",
+     "rating_limit": "Open",
+     "start": "2027-01-31 08:00"
+    },
+    {
+     "name": "Division IA Men’s Saber",
+     "when": "Jan 31 8:00AM",
+     "estimate": "U · up to 100 pts",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Div1A",
+     "start": "2027-01-31 08:00"
+    },
+    {
+     "name": "Y14 Women's Epee",
+     "when": "Jan 31 8:00AM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2027-01-31 08:00"
+    },
+    {
+     "name": "Y10 Men's Foil",
+     "when": "Jan 31 8:00AM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2027-01-31 08:00"
+    },
+    {
+     "name": "Y12 Women's Saber",
+     "when": "Jan 31 8:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2027-01-31 08:00"
+    },
+    {
+     "name": "Parafencing Senior Men's Saber",
+     "when": "Jan 31 8:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Open",
+     "start": "2027-01-31 08:00"
+    },
+    {
+     "name": "Division III Women’s Foil",
+     "when": "Jan 31 8:00AM",
+     "estimate": "U · up to 20 pts",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Div3",
+     "start": "2027-01-31 08:00"
+    },
+    {
+     "name": "Division III Men’s Epee",
+     "when": "Jan 31 12:00PM",
+     "estimate": "U · up to 20 pts",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Div3",
+     "start": "2027-01-31 12:00"
+    },
+    {
+     "name": "Y8 Women's Foil",
+     "when": "Jan 31 12:00PM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2027-01-31 12:00"
+    },
+    {
+     "name": "Y10 Men's Saber",
+     "when": "Jan 31 12:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2027-01-31 12:00"
+    },
+    {
+     "name": "Division III Women’s Saber",
+     "when": "Jan 31 12:00PM",
+     "estimate": "U · up to 20 pts",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Div3",
+     "start": "2027-01-31 12:00"
+    },
+    {
+     "name": "Junior Women's Foil",
+     "when": "Jan 31 12:00PM",
+     "estimate": "U · up to 80 pts",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Junior",
+     "rating_limit": "Open",
+     "start": "2027-01-31 12:00"
+    },
+    {
+     "name": "Y14 Men's Epee",
+     "when": "Jan 31 12:00PM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2027-01-31 12:00"
+    },
+    {
+     "name": "Parafencing Senior Men's Epee",
+     "when": "Jan 31 12:00PM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Open",
+     "start": "2027-01-31 12:00"
+    },
+    {
+     "name": "Cadet Men's Epee",
+     "when": "Jan 31 4:00PM",
+     "estimate": "U · up to 60 pts",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Cadet",
+     "rating_limit": "Open",
+     "start": "2027-01-31 16:00"
+    },
+    {
+     "name": "Vet Combined Men's Saber",
+     "when": "Jan 31 4:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "VetCombined",
+     "rating_limit": "Open",
+     "start": "2027-01-31 16:00"
+    },
+    {
+     "name": "Division II Women’s Foil",
+     "when": "Jan 31 4:00PM",
+     "estimate": "U · up to 40 pts",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Div2",
+     "start": "2027-01-31 16:00"
+    },
+    {
+     "name": "Parafencing Senior Men's Foil",
+     "when": "Jan 31 4:00PM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Open",
+     "start": "2027-01-31 16:00"
+    },
+    {
+     "name": "Division IA Women’s Saber",
+     "when": "Jan 31 4:00PM",
+     "estimate": "U · up to 100 pts",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Div1A",
+     "start": "2027-01-31 16:00"
+    },
+    {
+     "name": "Division IA Women’s Epee",
+     "when": "Jan 31 4:00PM",
+     "estimate": "U · up to 100 pts",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Div1A",
+     "start": "2027-01-31 16:00"
+    },
+    {
+     "name": "Y12 Women's Foil",
+     "when": "Jan 31 4:00PM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2027-01-31 16:00"
+    }
+   ],
+   "eligible": [
+    {
+     "name": "Y14 Women's Saber",
+     "when": "Jan 30 4:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2027-01-30 16:00"
+    }
+   ],
+   "tags": [],
+   "tier": "regional",
+   "hl": true
+  },
+  {
+   "source": "askfred",
+   "id": "46c95f71-9162-4f5b-aa83-0508b0b84369",
+   "name": "USF Green and Gold RYC",
+   "url": "https://www.askfred.net/tournaments/46c95f71-9162-4f5b-aa83-0508b0b84369",
+   "register_url": "",
+   "whos_coming_url": "https://www.askfred.net/tournaments/46c95f71-9162-4f5b-aa83-0508b0b84369/preregistrations",
+   "registration_open": false,
+   "start": "2027-02-06",
+   "end": "2027-02-07",
+   "venue": "USF Recreation and Wellness Center - East Gym: Tampa, Florida",
+   "distance": 51,
+   "events": [
+    {
+     "name": "Y14 Men's Epee",
+     "when": "Feb 6 8:30AM",
+     "estimate": "NR",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2027-02-06 08:30"
+    },
+    {
+     "name": "Y14 Men's Saber",
+     "when": "Feb 6 8:30AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2027-02-06 08:30"
+    },
+    {
+     "name": "Y12 Men's Foil",
+     "when": "Feb 6 8:30AM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2027-02-06 08:30"
+    },
+    {
+     "name": "Y10 Women's Epee",
+     "when": "Feb 6 8:30AM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2027-02-06 08:30"
+    },
+    {
+     "name": "Y10 Women's Saber",
+     "when": "Feb 6 11:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2027-02-06 11:00"
+    },
+    {
+     "name": "Y8 Women's Foil",
+     "when": "Feb 6 12:00PM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2027-02-06 12:00"
+    },
+    {
+     "name": "Y8 Men's Foil",
+     "when": "Feb 6 12:00PM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2027-02-06 12:00"
+    },
+    {
+     "name": "Y10 Men's Saber",
+     "when": "Feb 6 1:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2027-02-06 13:00"
+    },
+    {
+     "name": "Y14 Women's Epee",
+     "when": "Feb 6 1:30PM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2027-02-06 13:30"
+    },
+    {
+     "name": "Y12 Women's Foil",
+     "when": "Feb 6 1:30PM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2027-02-06 13:30"
+    },
+    {
+     "name": "Y10 Men's Epee",
+     "when": "Feb 6 1:30PM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2027-02-06 13:30"
+    },
+    {
+     "name": "Y14 Women's Saber",
+     "when": "Feb 6 3:30PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2027-02-06 15:30"
+    },
+    {
+     "name": "Y14 Women's Foil",
+     "when": "Feb 7 8:30AM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2027-02-07 08:30"
+    },
+    {
+     "name": "Y12 Men's Epee",
+     "when": "Feb 7 8:30AM",
+     "estimate": "NR",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2027-02-07 08:30"
+    },
+    {
+     "name": "Y12 Men's Saber",
+     "when": "Feb 7 8:30AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2027-02-07 08:30"
+    },
+    {
+     "name": "Y8 Women's Epee",
+     "when": "Feb 7 8:30AM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2027-02-07 08:30"
+    },
+    {
+     "name": "Y10 Men's Foil",
+     "when": "Feb 7 8:30AM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2027-02-07 08:30"
+    },
+    {
+     "name": "Y12 Women's Saber",
+     "when": "Feb 7 11:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2027-02-07 11:00"
+    },
+    {
+     "name": "Y14 Men's Foil",
+     "when": "Feb 7 1:30PM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2027-02-07 13:30"
+    },
+    {
+     "name": "Y10 Women's Foil",
+     "when": "Feb 7 1:30PM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2027-02-07 13:30"
+    },
+    {
+     "name": "Y12 Women's Epee",
+     "when": "Feb 7 1:30PM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2027-02-07 13:30"
+    },
+    {
+     "name": "Y8 Men's Epee",
+     "when": "Feb 7 1:30PM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2027-02-07 13:30"
+    },
+    {
+     "name": "Y8 Men's Saber",
+     "when": "Feb 7 2:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2027-02-07 14:00"
+    },
+    {
+     "name": "Y8 Women's Saber",
+     "when": "Feb 7 2:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2027-02-07 14:00"
+    }
+   ],
+   "eligible": [
+    {
+     "name": "Y14 Women's Saber",
+     "when": "Feb 6 3:30PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2027-02-06 15:30"
+    }
+   ],
+   "tags": [
+    "RYC"
+   ],
+   "tier": "local",
+   "hl": true,
+   "usaf_circuit": [
+    "RYC"
+   ],
+   "usaf_region": "Region 6"
+  },
+  {
+   "source": "askfred",
+   "id": "321e801d-fc0b-48fb-958a-d916377d9df9",
+   "name": "ALLE Winter Saber Cup'27 (Y-8 Mx, Y-10 Mx, Y-12 Mx, Y-14 Mx)",
+   "url": "https://www.askfred.net/tournaments/321e801d-fc0b-48fb-958a-d916377d9df9",
+   "register_url": "https://www.askfred.net/tournaments/321e801d-fc0b-48fb-958a-d916377d9df9/preregister",
+   "whos_coming_url": "https://www.askfred.net/tournaments/321e801d-fc0b-48fb-958a-d916377d9df9/preregistrations",
+   "registration_open": true,
+   "start": "2027-02-21",
+   "end": "2027-02-21",
+   "venue": "Alle Fencing Club: Fort Lauderdale, FL",
+   "distance": 164,
+   "events": [
+    {
+     "name": "Y8 Mixed Saber",
+     "when": "Feb 21 9:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2027-02-21 09:00"
+    },
+    {
+     "name": "Y10 Mixed Saber",
+     "when": "Feb 21 11:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2027-02-21 11:00"
+    },
+    {
+     "name": "Y12 Mixed Saber",
+     "when": "Feb 21 1:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2027-02-21 13:00"
+    },
+    {
+     "name": "Y14 Mixed Saber",
+     "when": "Feb 21 3:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2027-02-21 15:00"
+    }
+   ],
+   "eligible": [
+    {
+     "name": "Y14 Mixed Saber",
+     "when": "Feb 21 3:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2027-02-21 15:00"
+    }
+   ],
+   "tags": [],
+   "tier": "regional",
+   "hl": true
+  },
+  {
+   "source": "askfred",
+   "id": "4b865dee-953a-406a-9475-c3fe8872f8c6",
+   "name": "ALLE Spring Saber Cup'27 (Y-8 Mx, Y-10 Mx, Y-12 Mx, Y-14 Mx)",
+   "url": "https://www.askfred.net/tournaments/4b865dee-953a-406a-9475-c3fe8872f8c6",
+   "register_url": "https://www.askfred.net/tournaments/4b865dee-953a-406a-9475-c3fe8872f8c6/preregister",
+   "whos_coming_url": "https://www.askfred.net/tournaments/4b865dee-953a-406a-9475-c3fe8872f8c6/preregistrations",
+   "registration_open": true,
+   "start": "2027-04-18",
+   "end": "2027-04-18",
+   "venue": "Alle Fencing Club: Fort Lauderdale, FL",
+   "distance": 164,
+   "events": [
+    {
+     "name": "Y8 Mixed Saber",
+     "when": "Apr 18 9:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2027-05-23 09:00"
+    },
+    {
+     "name": "Y10 Mixed Saber",
+     "when": "Apr 18 11:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2027-05-23 11:00"
+    },
+    {
+     "name": "Y12 Mixed Saber",
+     "when": "Apr 18 1:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2027-05-23 13:00"
+    },
+    {
+     "name": "Y14 Mixed Saber",
+     "when": "Apr 18 3:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2027-05-23 15:00"
+    }
+   ],
+   "eligible": [
+    {
+     "name": "Y14 Mixed Saber",
+     "when": "Apr 18 3:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2027-05-23 15:00"
+    }
+   ],
+   "tags": [],
+   "tier": "regional",
+   "hl": true
+  },
+  {
+   "source": "askfred",
+   "id": "1cc1eaf5-3229-4a65-ade5-e7670252e647",
+   "name": "ALLE Spring Saber Cup'27 (Y-8 Mx, Y-10 Mx, Y-12 Mx, Y-14 Mx)",
+   "url": "https://www.askfred.net/tournaments/1cc1eaf5-3229-4a65-ade5-e7670252e647",
+   "register_url": "https://www.askfred.net/tournaments/1cc1eaf5-3229-4a65-ade5-e7670252e647/preregister",
+   "whos_coming_url": "https://www.askfred.net/tournaments/1cc1eaf5-3229-4a65-ade5-e7670252e647/preregistrations",
+   "registration_open": true,
+   "start": "2027-05-23",
+   "end": "2027-05-23",
+   "venue": "Alle Fencing Club: Fort Lauderdale, FL",
+   "distance": 164,
+   "events": [
+    {
+     "name": "Y8 Mixed Saber",
+     "when": "May 23 9:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2027-05-23 09:00"
+    },
+    {
+     "name": "Y10 Mixed Saber",
+     "when": "May 23 11:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2027-05-23 11:00"
+    },
+    {
+     "name": "Y12 Mixed Saber",
+     "when": "May 23 1:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2027-05-23 13:00"
+    },
+    {
+     "name": "Y14 Mixed Saber",
+     "when": "May 23 3:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2027-05-23 15:00"
+    }
+   ],
+   "eligible": [
+    {
+     "name": "Y14 Mixed Saber",
+     "when": "May 23 3:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2027-05-23 15:00"
+    }
+   ],
+   "tags": [],
+   "tier": "regional",
+   "hl": true
+  }
+ ],
+ "circuit": [
+  {
+   "source": "usaf-regional",
+   "name": "Rain City Fall RJCC+Div II ROC",
+   "start": "2026-10-16",
+   "end": "2026-10-18",
+   "region": "Region 1",
+   "circuits": [
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Bellevue",
+   "state": "WA",
+   "notes": "",
+   "eligible_codes": [
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Nashville Challenge RYC/RJCC",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "region": "Region 6",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Nashville",
+   "state": "TN",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Battle in Space City ROC/RJCC",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "region": "Region 5",
+   "circuits": [
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT",
+    "VET"
+   ],
+   "other": "",
+   "city": "Houston",
+   "state": "TX",
+   "notes": "",
+   "eligible_codes": [
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "AFM RYC/RJCC/ROC Div1A/Div2/Vet",
+   "start": "2026-10-23",
+   "end": "2026-10-25",
+   "region": "Region 4",
+   "circuits": [
+    "RYC",
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "D1A",
+    "VET",
+    "JNR",
+    "CDT",
+    "DV2"
+   ],
+   "other": "",
+   "city": "Santa Clara",
+   "state": "CA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "D1A",
+    "JNR",
+    "CDT",
+    "DV2"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "2026 Escrime d'Halloween RYC/RJCC",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "region": "Region 2",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "VetMF, VetWF, VetME, VetWE, VetMS, VetWS",
+   "city": "Twinsburg",
+   "state": "OH",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Morris Cup RYC/RJCC",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "region": "Region 3",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Suffern",
+   "state": "NY",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Portland Fall RYC",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "region": "Region 1",
+   "circuits": [
+    "RYC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10"
+   ],
+   "other": "",
+   "city": "Tigard",
+   "state": "OR",
+   "notes": "",
+   "eligible_codes": [
+    "Y14"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Ultimate Cup RJCC",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "region": "Region 3",
+   "circuits": [
+    "RJCC"
+   ],
+   "contested": [
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Hillsborough Township",
+   "state": "NJ",
+   "notes": "",
+   "eligible_codes": [
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "GRAFA RYC\\RJCC\\ROC- Third Coast Cup",
+   "start": "2026-11-06",
+   "end": "2026-11-08",
+   "region": "Region 2",
+   "circuits": [
+    "RYC",
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "D1A",
+    "DV2",
+    "DV3",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Grand Rapids",
+   "state": "MI",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "D1A",
+    "DV2",
+    "DV3",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Emerald City ROC",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "region": "Region 1",
+   "circuits": [
+    "ROC"
+   ],
+   "contested": [
+    "DV2",
+    "ADC"
+   ],
+   "other": "",
+   "city": "Seattle",
+   "state": "WA",
+   "notes": "",
+   "eligible_codes": [
+    "DV2"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "3nd Annual BBFC RYC and Y8",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "region": "Region 4",
+   "circuits": [
+    "RYC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8"
+   ],
+   "other": "",
+   "city": "Henderson",
+   "state": "NV",
+   "notes": "",
+   "eligible_codes": [
+    "Y14"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "RYC/RJC of the Rockies",
+   "start": "2026-11-13",
+   "end": "2026-11-15",
+   "region": "Region 4",
+   "circuits": [
+    "RYC",
+    "RJC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "JNR"
+   ],
+   "other": "",
+   "city": "Denver",
+   "state": "CA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Kiefer Meinhardt Cup SYC/RJCC/Y8",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "region": "Region 6",
+   "circuits": [
+    "SYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Richmond",
+   "state": "VA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Rain City Fall RYC",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "region": "Region 1",
+   "circuits": [
+    "RYC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8"
+   ],
+   "other": "",
+   "city": "Bellevue",
+   "state": "WA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Pizza RYC/RJCC",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "region": "Region 3",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "New Haven",
+   "state": "CT",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "The Crescent City Open",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "region": "Region 5",
+   "circuits": [
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "D1A",
+    "DV2",
+    "DV3",
+    "VET",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Metairie",
+   "state": "LA",
+   "notes": "",
+   "eligible_codes": [
+    "D1A",
+    "DV2",
+    "DV3",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "November NAC",
+   "start": "2026-11-20",
+   "end": "2026-11-23",
+   "region": "National",
+   "circuits": [
+    "NAC"
+   ],
+   "contested": [
+    "DV1",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Columbus",
+   "state": "OH",
+   "notes": "",
+   "eligible_codes": [
+    "DV1",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Cobra Challenge SYC/RCC",
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "region": "Region 3",
+   "circuits": [
+    "SYC",
+    "RCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Secaucus",
+   "state": "NJ",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "December SJCC",
+   "start": "2026-12-04",
+   "end": "2026-12-06",
+   "region": "National",
+   "circuits": [],
+   "contested": [
+    "CDT",
+    "JNR"
+   ],
+   "other": "",
+   "city": "Milwaukee",
+   "state": "WI",
+   "notes": "",
+   "eligible_codes": [
+    "CDT",
+    "JNR"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "The Southern Y8/RYC/RJCC/ROC (VET/D1A/DV2)/RPC/TEAM",
+   "start": "2026-12-11",
+   "end": "2026-12-13",
+   "region": "Region 6",
+   "circuits": [
+    "RYC",
+    "ROC",
+    "RJCC",
+    "RPC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "D1A",
+    "DV2",
+    "VET",
+    "JNR",
+    "CDT",
+    "PARA"
+   ],
+   "other": "Local Team Event All 3 weapons Men and Women",
+   "city": "Myrtle Beach",
+   "state": "SC",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": "https://www.askfred.net/tournaments/dc4dcb0a-bfa3-49c0-a8c5-96cfd16fc96d"
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Nick Itkin Cup SYC & VetROC",
+   "start": "2026-12-11",
+   "end": "2026-12-13",
+   "region": "Region 4",
+   "circuits": [
+    "SYC",
+    "ROC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "VET"
+   ],
+   "other": "",
+   "city": "Palm Springs",
+   "state": "CA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Fencing Center of Chicago RYC & RJC 2026 - 2027 - 2028.",
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "region": "Region 2",
+   "circuits": [
+    "RYC",
+    "RJC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR"
+   ],
+   "other": "",
+   "city": "Libertyville",
+   "state": "IL",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Z1 RYC/RJCC",
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "region": "Region 3",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Newtown",
+   "state": "CT",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Fairfax Challenge ROC, RJCC, RYC",
+   "start": "2026-12-18",
+   "end": "2026-12-20",
+   "region": "Region 6",
+   "circuits": [
+    "RYC",
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "D1A",
+    "DV2",
+    "VET",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Fredericksburg",
+   "state": "VA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Austin Challenge SYC and RCC",
+   "start": "2026-12-18",
+   "end": "2026-12-20",
+   "region": "Region 5",
+   "circuits": [
+    "SYC",
+    "RCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Round Rock",
+   "state": "TX",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Salle Auriol Seattle RJCC",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "region": "Region 1",
+   "circuits": [
+    "RJCC"
+   ],
+   "contested": [
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Seattle",
+   "state": "WA",
+   "notes": "",
+   "eligible_codes": [
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Midwest ROC/RJCC",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "region": "Region 2",
+   "circuits": [
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "D1A",
+    "DV2",
+    "VET",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Libertyville",
+   "state": "IL",
+   "notes": "",
+   "eligible_codes": [
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Boston Fencing Club RYC/RCC",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "region": "Region 3",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Norton",
+   "state": "MA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Neil Lazar Div1/Div2/Veteran ROC",
+   "start": "2027-01-01",
+   "end": "2027-01-03",
+   "region": "Region 3",
+   "circuits": [
+    "ROC"
+   ],
+   "contested": [
+    "D1A",
+    "DV2",
+    "VET"
+   ],
+   "other": "",
+   "city": "",
+   "state": "",
+   "notes": "",
+   "eligible_codes": [
+    "D1A",
+    "DV2"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "January NAC and Junior Olympics",
+   "start": "2027-01-08",
+   "end": "2027-01-11",
+   "region": "National",
+   "circuits": [],
+   "contested": [
+    "JNR",
+    "CDT",
+    "JNRTM",
+    "PARA"
+   ],
+   "other": "",
+   "city": "Oklahoma City",
+   "state": "OK",
+   "notes": "",
+   "eligible_codes": [
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Capitol Clash SYC/RCC & Y8",
+   "start": "2027-01-16",
+   "end": "2027-01-18",
+   "region": "Region 6",
+   "circuits": [
+    "SYC",
+    "RCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Oxon Hill",
+   "state": "MD",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "CDT"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Battle in Seattle",
+   "start": "2027-01-16",
+   "end": "2027-01-17",
+   "region": "Region 1",
+   "circuits": [
+    "ROC"
+   ],
+   "contested": [
+    "D1A"
+   ],
+   "other": "VetXE, VetWE, VetXF, VetXS",
+   "city": "Bellevue",
+   "state": "WA",
+   "notes": "",
+   "eligible_codes": [
+    "D1A"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Elite Cup RYC/RJCC",
+   "start": "2027-01-16",
+   "end": "2027-01-17",
+   "region": "Region 4",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "San Diego",
+   "state": "CA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Battle At The Beach 5",
+   "start": "2027-01-30",
+   "end": "2027-02-01",
+   "region": "Region 6",
+   "circuits": [
+    "RYC",
+    "ROC",
+    "RJCC",
+    "RPC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "D1A",
+    "DV2",
+    "DV3",
+    "VET",
+    "JNR",
+    "CDT",
+    "PARA"
+   ],
+   "other": "",
+   "city": "Jacksonville",
+   "state": "FL",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "D1A",
+    "DV2",
+    "DV3",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Salle Auriol Seattle RYC",
+   "start": "2027-01-30",
+   "end": "2027-01-31",
+   "region": "Region 1",
+   "circuits": [
+    "RYC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10"
+   ],
+   "other": "",
+   "city": "Seattle",
+   "state": "WA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Wildcat SYC/RCC",
+   "start": "2027-01-30",
+   "end": "2027-01-31",
+   "region": "Region 2",
+   "circuits": [
+    "SYC",
+    "RCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Libertyville",
+   "state": "IL",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Yefimov Memorial RYC",
+   "start": "2027-01-30",
+   "end": "2027-01-31",
+   "region": "Region 5",
+   "circuits": [
+    "RYC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10"
+   ],
+   "other": "",
+   "city": "Lewisville",
+   "state": "TX",
+   "notes": "",
+   "eligible_codes": [
+    "Y14"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Queen City Cup Y8/RYC/RJCC",
+   "start": "2027-02-05",
+   "end": "2027-02-07",
+   "region": "Region 2",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Liberty Township",
+   "state": "OH",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Miles Chamley-Watson Cup RYC/RJCC/ROC",
+   "start": "2027-02-05",
+   "end": "2027-02-07",
+   "region": "Region 3",
+   "circuits": [
+    "RYC",
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "D1A",
+    "DV2",
+    "VET",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Providence",
+   "state": "RI",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "The Fencing Center ROC/RJC",
+   "start": "2027-02-05",
+   "end": "2027-02-08",
+   "region": "Region 4",
+   "circuits": [
+    "ROC",
+    "RJC"
+   ],
+   "contested": [
+    "DV2",
+    "JNR"
+   ],
+   "other": "",
+   "city": "San Jose",
+   "state": "CA",
+   "notes": "",
+   "eligible_codes": [
+    "DV2",
+    "JNR"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "USF Green and Gold RYC",
+   "start": "2027-02-06",
+   "end": "2027-02-07",
+   "region": "Region 6",
+   "circuits": [
+    "RYC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8"
+   ],
+   "other": "Y8 MF, Y8 WF, Y8 ME, Y8 WE, Y8 MS, Y8 WS",
+   "city": "Tampa",
+   "state": "FL",
+   "notes": "",
+   "eligible_codes": [
+    "Y14"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": "https://www.askfred.net/tournaments/46c95f71-9162-4f5b-aa83-0508b0b84369"
+  },
+  {
+   "source": "usaf-regional",
+   "name": "February NAC",
+   "start": "2027-02-12",
+   "end": "2027-02-15",
+   "region": "National",
+   "circuits": [],
+   "contested": [
+    "DV1",
+    "JNR",
+    "VET",
+    "VETTM"
+   ],
+   "other": "",
+   "city": "",
+   "state": "",
+   "notes": "",
+   "eligible_codes": [
+    "DV1",
+    "JNR"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Portland Winter RYC",
+   "start": "2027-02-20",
+   "end": "2027-02-21",
+   "region": "Region 1",
+   "circuits": [
+    "RYC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10"
+   ],
+   "other": "",
+   "city": "Tigard",
+   "state": "OR",
+   "notes": "",
+   "eligible_codes": [
+    "Y14"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Motor City RJCC/RYC",
+   "start": "2027-02-20",
+   "end": "2027-02-21",
+   "region": "Region 2",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Waterford",
+   "state": "MI",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Duel of the East Coast ROC/RJCC/RYC",
+   "start": "2027-02-26",
+   "end": "2027-02-28",
+   "region": "Region 3",
+   "circuits": [
+    "RYC",
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "D1A",
+    "DV2",
+    "VET",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Phoenixville",
+   "state": "PA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Team.K",
+   "start": "2027-02-26",
+   "end": "2027-02-28",
+   "region": "Region 4",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Pomona",
+   "state": "CA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Rain City Spring RJCC",
+   "start": "2027-02-27",
+   "end": "2027-02-28",
+   "region": "Region 1",
+   "circuits": [
+    "RJCC"
+   ],
+   "contested": [
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Bellevue",
+   "state": "WA",
+   "notes": "",
+   "eligible_codes": [
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "West Texas Duel RYC/ RJCC",
+   "start": "2027-02-27",
+   "end": "2027-02-28",
+   "region": "Region 5",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "JNR",
+    "CDT"
+   ],
+   "other": "Non-Regional Adult Combine",
+   "city": "El Paso",
+   "state": "TX",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "March NAC",
+   "start": "2027-03-05",
+   "end": "2027-03-08",
+   "region": "National",
+   "circuits": [],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "DV2"
+   ],
+   "other": "",
+   "city": "",
+   "state": "",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "DV2"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "GRAFA RYC\\RJCC\\ROC- Third Coast Cup",
+   "start": "2027-03-12",
+   "end": "2027-03-14",
+   "region": "Region 2",
+   "circuits": [
+    "RYC",
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "D1A",
+    "DV2",
+    "DV3",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Grand Rapids",
+   "state": "MI",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "D1A",
+    "DV2",
+    "DV3",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Mary Rafanelli RYC/RJCC",
+   "start": "2027-03-12",
+   "end": "2027-03-14",
+   "region": "Region 4",
+   "circuits": [
+    "RYC",
+    "RJCC",
+    "RPC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "CDT",
+    "JNR",
+    "PARA"
+   ],
+   "other": "",
+   "city": "Pasadena",
+   "state": "CA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "CDT",
+    "JNR"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Cherry Blossom - D1A/VET",
+   "start": "2027-03-13",
+   "end": "2027-03-14",
+   "region": "Region 6",
+   "circuits": [
+    "ROC"
+   ],
+   "contested": [
+    "D1A",
+    "VET"
+   ],
+   "other": "",
+   "city": "College Park",
+   "state": "MD",
+   "notes": "",
+   "eligible_codes": [
+    "D1A"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "American Challenge SYC/RJCC",
+   "start": "2027-03-19",
+   "end": "2027-03-21",
+   "region": "Region 3",
+   "circuits": [
+    "SYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Hartford",
+   "state": "CT",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "8th Annual Precision Invitational RYC and RJCC",
+   "start": "2027-03-19",
+   "end": "2027-03-21",
+   "region": "Region 4",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Torrance",
+   "state": "CA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Fencing Center of Chicago ROC & RJC 2026 - 2027 - 2028.",
+   "start": "2027-03-26",
+   "end": "2027-03-28",
+   "region": "Region 2",
+   "circuits": [
+    "ROC",
+    "RJC"
+   ],
+   "contested": [
+    "D1A",
+    "DV2",
+    "DV3",
+    "VET",
+    "JNR"
+   ],
+   "other": "",
+   "city": "Libertyville",
+   "state": "IL",
+   "notes": "",
+   "eligible_codes": [
+    "D1A",
+    "DV2",
+    "DV3",
+    "JNR"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Absolute Foundation RYC/RJCC",
+   "start": "2027-03-26",
+   "end": "2027-03-28",
+   "region": "Region 3",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Atlantic City",
+   "state": "NJ",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Portland Spring RYC",
+   "start": "2027-03-27",
+   "end": "2027-03-28",
+   "region": "Region 1",
+   "circuits": [
+    "RYC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10"
+   ],
+   "other": "",
+   "city": "Tigard",
+   "state": "OR",
+   "notes": "",
+   "eligible_codes": [
+    "Y14"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Fortune RJCC/RYC",
+   "start": "2027-03-27",
+   "end": "2027-03-28",
+   "region": "Region 4",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Ontario",
+   "state": "CA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Wang Memorial D1A/2/Vet and RYC/RJCC",
+   "start": "2027-03-27",
+   "end": "2027-03-28",
+   "region": "Region 5",
+   "circuits": [
+    "RYC",
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "D1A",
+    "DV2",
+    "VET",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Dallas",
+   "state": "TX",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "RedStar Fencing RYC/RJCC/Y8",
+   "start": "2027-04-03",
+   "end": "2027-04-04",
+   "region": "Region 2",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Libertyville",
+   "state": "IL",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "2nd BBFC ROC and RJC",
+   "start": "2027-04-03",
+   "end": "2027-04-04",
+   "region": "Region 4",
+   "circuits": [
+    "ROC",
+    "RJC"
+   ],
+   "contested": [
+    "D1A",
+    "DV2",
+    "VET",
+    "JNR"
+   ],
+   "other": "",
+   "city": "Henderson",
+   "state": "NV",
+   "notes": "",
+   "eligible_codes": [
+    "D1A",
+    "DV2",
+    "JNR"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Fairfax Challenge SYC/RJCC",
+   "start": "2027-04-09",
+   "end": "2027-04-11",
+   "region": "Region 6",
+   "circuits": [
+    "SYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Virginia Beach",
+   "state": "VA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "RYC/RCC of the Rockies",
+   "start": "2027-04-09",
+   "end": "2027-04-11",
+   "region": "Region 4",
+   "circuits": [
+    "RYC",
+    "RCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Denver",
+   "state": "CO",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Portland Spring RJCC",
+   "start": "2027-04-10",
+   "end": "2027-04-11",
+   "region": "Region 1",
+   "circuits": [
+    "RJCC"
+   ],
+   "contested": [
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Tigard",
+   "state": "OR",
+   "notes": "",
+   "eligible_codes": [
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Battle in Space City ROC/RJCC/RYC",
+   "start": "2027-04-10",
+   "end": "2027-04-11",
+   "region": "Region 5",
+   "circuits": [
+    "RYC",
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Houston",
+   "state": "TX",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Division I and Para National Championship and April NAC",
+   "start": "2027-04-16",
+   "end": "2027-04-19",
+   "region": "National",
+   "circuits": [],
+   "contested": [
+    "DV1",
+    "JNR",
+    "DV1TM",
+    "VET",
+    "PARA"
+   ],
+   "other": "",
+   "city": "Cincinnati",
+   "state": "OH",
+   "notes": "",
+   "eligible_codes": [
+    "DV1",
+    "JNR"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Rain City Super Youth Circuit (SYC)",
+   "start": "2027-04-23",
+   "end": "2027-04-26",
+   "region": "Region 1",
+   "circuits": [
+    "SYC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10"
+   ],
+   "other": "",
+   "city": "Bellevue",
+   "state": "WA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "American Challenge RJCC/RYC",
+   "start": "2027-04-23",
+   "end": "2027-04-25",
+   "region": "Region 3",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Suffern",
+   "state": "NY",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "The Gauntlet",
+   "start": "2027-04-24",
+   "end": "2027-04-25",
+   "region": "Region 6",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Tampa",
+   "state": "FL",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "CDT"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "The Portland ROC (D1A & Dv2)",
+   "start": "2027-04-30",
+   "end": "2027-05-02",
+   "region": "Region 1",
+   "circuits": [
+    "ROC"
+   ],
+   "contested": [
+    "D1A",
+    "DV2"
+   ],
+   "other": "",
+   "city": "Tigard",
+   "state": "OR",
+   "notes": "",
+   "eligible_codes": [
+    "D1A",
+    "DV2"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Fortune SYC/RJCC",
+   "start": "2027-04-30",
+   "end": "2027-05-02",
+   "region": "Region 4",
+   "circuits": [
+    "SYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Anaheim",
+   "state": "CA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "North Star RYC/RJCC/ADLTC",
+   "start": "2027-05-01",
+   "end": "2027-05-02",
+   "region": "Region 2",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "JNR",
+    "CDT"
+   ],
+   "other": "ADCMF, ADCMS, ADCME, ADCWF, ADCWS, ADCWE",
+   "city": "Saint Paul",
+   "state": "MN",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Duel in Dallas RJCC/VET/RPC",
+   "start": "2027-05-01",
+   "end": "2027-05-02",
+   "region": "Region 5",
+   "circuits": [
+    "ROC",
+    "RJCC",
+    "RPC"
+   ],
+   "contested": [
+    "VET",
+    "JNR",
+    "CDT",
+    "PARA"
+   ],
+   "other": "",
+   "city": "Carrollton",
+   "state": "TX",
+   "notes": "",
+   "eligible_codes": [
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Collegiate Cup",
+   "start": "2027-05-08",
+   "end": "2027-05-09",
+   "region": "Region 4",
+   "circuits": [
+    "RJCC"
+   ],
+   "contested": [
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "La Jolla",
+   "state": "CA",
+   "notes": "",
+   "eligible_codes": [
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "Summer Nationals",
+   "start": "2027-07-02",
+   "end": "2027-07-11",
+   "region": "National",
+   "circuits": [],
+   "contested": [
+    "JNR",
+    "CDT",
+    "D1A",
+    "DV2",
+    "VET",
+    "Y14",
+    "Y12",
+    "Y10",
+    "DV3",
+    "DV1"
+   ],
+   "other": "",
+   "city": "Salt Lake City",
+   "state": "UT",
+   "notes": "",
+   "eligible_codes": [
+    "JNR",
+    "CDT",
+    "D1A",
+    "DV2",
+    "Y14",
+    "DV3",
+    "DV1"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-08-21",
+   "end": "2027-08-22",
+   "region": "Region 1",
+   "circuits": [
+    "RJCC"
+   ],
+   "contested": [
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Tigard",
+   "state": "OR",
+   "notes": "",
+   "eligible_codes": [
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-08-21",
+   "end": "2027-08-22",
+   "region": "Region 3",
+   "circuits": [
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "D1A",
+    "DV2",
+    "VET",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Edison",
+   "state": "NJ",
+   "notes": "",
+   "eligible_codes": [
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-08-27",
+   "end": "2027-08-29",
+   "region": "Region 6",
+   "circuits": [
+    "RYC",
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "D1A",
+    "DV2",
+    "VET",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Fredericksburg",
+   "state": "VA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-08-28",
+   "end": "2027-08-29",
+   "region": "Region 4",
+   "circuits": [
+    "RJCC"
+   ],
+   "contested": [
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Denver",
+   "state": "CO",
+   "notes": "",
+   "eligible_codes": [
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-09-03",
+   "end": "2027-09-05",
+   "region": "Region 2",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Libertyville",
+   "state": "IL",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-09-04",
+   "end": "2027-09-06",
+   "region": "Region 4",
+   "circuits": [
+    "RYC",
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "D1A",
+    "DV2",
+    "VET",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Ontario",
+   "state": "CA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-09-04",
+   "end": "2027-09-06",
+   "region": "Region 5",
+   "circuits": [
+    "SYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Dallas",
+   "state": "TX",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-09-10",
+   "end": "2027-09-13",
+   "region": "Region 1",
+   "circuits": [
+    "SYC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10"
+   ],
+   "other": "",
+   "city": "Tigard",
+   "state": "OR",
+   "notes": "",
+   "eligible_codes": [
+    "Y14"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-09-11",
+   "end": "2027-09-12",
+   "region": "Region 6",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Virginia Beach",
+   "state": "VA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-09-11",
+   "end": "2027-09-12",
+   "region": "Region 3",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Danvers",
+   "state": "MA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-09-11",
+   "end": "2027-09-12",
+   "region": "Region 4",
+   "circuits": [
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "D1A",
+    "DV2",
+    "VET",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Air Force Academy",
+   "state": "CO",
+   "notes": "",
+   "eligible_codes": [
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-09-17",
+   "end": "2027-09-19",
+   "region": "Region 2",
+   "circuits": [
+    "SYC",
+    "RCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Waterford",
+   "state": "MI",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-09-18",
+   "end": "2027-09-19",
+   "region": "Region 3",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "State College",
+   "state": "PA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-09-18",
+   "end": "2027-09-19",
+   "region": "Region 4",
+   "circuits": [
+    "ROC",
+    "RJC"
+   ],
+   "contested": [
+    "D1A",
+    "JNR"
+   ],
+   "other": "",
+   "city": "La Jolla",
+   "state": "CA",
+   "notes": "",
+   "eligible_codes": [
+    "D1A",
+    "JNR"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-09-18",
+   "end": "2027-09-19",
+   "region": "Region 5",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Houston",
+   "state": "TX",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-09-24",
+   "end": "2027-09-26",
+   "region": "Region 6",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "ADT",
+    "ADC",
+    "JNR",
+    "CDT",
+    "PARA"
+   ],
+   "other": "",
+   "city": "Richmond",
+   "state": "VA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-09-24",
+   "end": "2027-09-26",
+   "region": "Region 3",
+   "circuits": [
+    "RYC",
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "D1A",
+    "DV2",
+    "VET",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Suffern",
+   "state": "NY",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-09-24",
+   "end": "2027-09-26",
+   "region": "Region 4",
+   "circuits": [
+    "SYC",
+    "RCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Las Vegas",
+   "state": "NV",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-09-25",
+   "end": "2027-09-26",
+   "region": "Region 1",
+   "circuits": [
+    "ROC"
+   ],
+   "contested": [
+    "D1A"
+   ],
+   "other": "",
+   "city": "Seattle",
+   "state": "WA",
+   "notes": "",
+   "eligible_codes": [
+    "D1A"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-10-01",
+   "end": "2027-10-03",
+   "region": "Region 3",
+   "circuits": [
+    "SYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Rochester",
+   "state": "NY",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-10-02",
+   "end": "2027-10-03",
+   "region": "Region 6",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Suwanee",
+   "state": "GA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-10-02",
+   "end": "2027-10-03",
+   "region": "Region 2",
+   "circuits": [
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "D1A",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Evanston",
+   "state": "IL",
+   "notes": "",
+   "eligible_codes": [
+    "D1A",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-10-02",
+   "end": "2027-10-03",
+   "region": "Region 5",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Round Rock",
+   "state": "TX",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-10-08",
+   "end": "2027-10-10",
+   "region": "Region 1",
+   "circuits": [
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Bellevue",
+   "state": "WA",
+   "notes": "",
+   "eligible_codes": [
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-10-09",
+   "end": "2027-10-10",
+   "region": "Region 5",
+   "circuits": [
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y8",
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Houston",
+   "state": "TX",
+   "notes": "",
+   "eligible_codes": [
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-10-16",
+   "end": "2027-10-17",
+   "region": "Region 6",
+   "circuits": [
+    "RYC",
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "D1A",
+    "DV2",
+    "VET",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Virginia Beach",
+   "state": "VA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-10-16",
+   "end": "2027-10-17",
+   "region": "Region 1",
+   "circuits": [
+    "RYC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10"
+   ],
+   "other": "",
+   "city": "Tigard",
+   "state": "OR",
+   "notes": "",
+   "eligible_codes": [
+    "Y14"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-10-16",
+   "end": "2027-10-17",
+   "region": "Region 3",
+   "circuits": [
+    "RJCC"
+   ],
+   "contested": [
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Hillsborough Township",
+   "state": "NJ",
+   "notes": "",
+   "eligible_codes": [
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-10-22",
+   "end": "2027-10-24",
+   "region": "Region 4",
+   "circuits": [
+    "SYC",
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "D1A",
+    "VET",
+    "JNR",
+    "CDT",
+    "DV2"
+   ],
+   "other": "",
+   "city": "Santa Clara",
+   "state": "CA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "D1A",
+    "JNR",
+    "CDT",
+    "DV2"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-10-23",
+   "end": "2027-10-24",
+   "region": "Region 6",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Nashville",
+   "state": "TN",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-10-23",
+   "end": "2027-10-24",
+   "region": "Region 2",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "VetMF, VetWF, VetME, VetWE, VetMS, VetWS",
+   "city": "Twinsburg",
+   "state": "OH",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-10-23",
+   "end": "2027-10-24",
+   "region": "Region 3",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Suffern",
+   "state": "NY",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-11-05",
+   "end": "2027-11-07",
+   "region": "Region 2",
+   "circuits": [
+    "RYC",
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "D1A",
+    "DV2",
+    "DV3",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Grand Rapids",
+   "state": "MI",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "D1A",
+    "DV2",
+    "DV3",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-11-06",
+   "end": "2027-11-07",
+   "region": "Region 6",
+   "circuits": [
+    "SYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Richmond",
+   "state": "VA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-11-06",
+   "end": "2027-11-07",
+   "region": "Region 1",
+   "circuits": [
+    "ROC"
+   ],
+   "contested": [
+    "DV2",
+    "ADC"
+   ],
+   "other": "",
+   "city": "Seattle",
+   "state": "WA",
+   "notes": "",
+   "eligible_codes": [
+    "DV2"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-11-06",
+   "end": "2027-11-07",
+   "region": "Region 4",
+   "circuits": [
+    "RYC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8"
+   ],
+   "other": "",
+   "city": "Henderson",
+   "state": "NV",
+   "notes": "",
+   "eligible_codes": [
+    "Y14"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-11-19",
+   "end": "2027-11-21",
+   "region": "Region 4",
+   "circuits": [
+    "RYC",
+    "RJC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "JNR"
+   ],
+   "other": "",
+   "city": "Denver",
+   "state": "CO",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-11-19",
+   "end": "2027-11-21",
+   "region": "Region 5",
+   "circuits": [
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "D1A",
+    "DV2",
+    "DV3",
+    "VET",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Metairie",
+   "state": "LA",
+   "notes": "",
+   "eligible_codes": [
+    "D1A",
+    "DV2",
+    "DV3",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-11-20",
+   "end": "2027-11-21",
+   "region": "Region 1",
+   "circuits": [
+    "RYC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8"
+   ],
+   "other": "",
+   "city": "Bellevue",
+   "state": "WA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-11-20",
+   "end": "2027-11-21",
+   "region": "Region 3",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "New Haven",
+   "state": "CT",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-11-26",
+   "end": "2027-11-28",
+   "region": "Region 3",
+   "circuits": [
+    "SYC",
+    "RCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Secaucus",
+   "state": "NJ",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-12-10",
+   "end": "2027-12-12",
+   "region": "Region 2",
+   "circuits": [
+    "RYC",
+    "RJC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR"
+   ],
+   "other": "",
+   "city": "Libertyville",
+   "state": "IL",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-12-10",
+   "end": "2027-12-12",
+   "region": "Region 4",
+   "circuits": [
+    "SYC",
+    "ROC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "VET"
+   ],
+   "other": "",
+   "city": "Palm Springs",
+   "state": "CA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-12-11",
+   "end": "2027-12-12",
+   "region": "Region 6",
+   "circuits": [
+    "RYC",
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "D1A",
+    "DV2",
+    "VET",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Myrtle Beach",
+   "state": "SC",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-12-11",
+   "end": "2027-12-12",
+   "region": "Region 3",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Newtown",
+   "state": "CT",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-12-17",
+   "end": "2027-12-19",
+   "region": "Region 5",
+   "circuits": [
+    "SYC",
+    "RCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Round Rock",
+   "state": "TX",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-12-18",
+   "end": "2027-12-19",
+   "region": "Region 1",
+   "circuits": [
+    "RJCC"
+   ],
+   "contested": [
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Seattle",
+   "state": "WA",
+   "notes": "",
+   "eligible_codes": [
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-12-18",
+   "end": "2027-12-19",
+   "region": "Region 2",
+   "circuits": [
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "D1A",
+    "DV2",
+    "VET",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Libertyville",
+   "state": "IL",
+   "notes": "",
+   "eligible_codes": [
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2027-12-18",
+   "end": "2027-12-19",
+   "region": "Region 3",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Atlantic City",
+   "state": "NJ",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-01-15",
+   "end": "2028-01-17",
+   "region": "Region 6",
+   "circuits": [
+    "SYC",
+    "RCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Oxon Hill",
+   "state": "MD",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "CDT"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-01-15",
+   "end": "2028-01-16",
+   "region": "Region 1",
+   "circuits": [
+    "ROC"
+   ],
+   "contested": [
+    "D1A"
+   ],
+   "other": "VetXE, VetWE, VetXF, VetXS",
+   "city": "Bellevue",
+   "state": "WA",
+   "notes": "",
+   "eligible_codes": [
+    "D1A"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-01-15",
+   "end": "2028-01-16",
+   "region": "Region 4",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "San Diego",
+   "state": "CA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-01-21",
+   "end": "2028-01-23",
+   "region": "Region 3",
+   "circuits": [
+    "RYC",
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "D1A",
+    "DV2",
+    "VET",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Phoenixville",
+   "state": "PA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-01-29",
+   "end": "2028-01-31",
+   "region": "Region 6",
+   "circuits": [
+    "RYC",
+    "ROC",
+    "RJCC",
+    "RPC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "D1A",
+    "DV2",
+    "DV3",
+    "VET",
+    "JNR",
+    "CDT",
+    "PARA"
+   ],
+   "other": "",
+   "city": "Jacksonville",
+   "state": "FL",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "D1A",
+    "DV2",
+    "DV3",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-01-29",
+   "end": "2028-01-30",
+   "region": "Region 1",
+   "circuits": [
+    "RYC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10"
+   ],
+   "other": "",
+   "city": "Seattle",
+   "state": "WA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-01-29",
+   "end": "2028-01-30",
+   "region": "Region 2",
+   "circuits": [
+    "SYC",
+    "RCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Libertyville",
+   "state": "IL",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-02-04",
+   "end": "2028-02-06",
+   "region": "Region 3",
+   "circuits": [
+    "RYC",
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "D1A",
+    "DV2",
+    "VET",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Providence",
+   "state": "RI",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-02-04",
+   "end": "2028-02-07",
+   "region": "Region 4",
+   "circuits": [
+    "ROC",
+    "RJC"
+   ],
+   "contested": [
+    "DV2",
+    "JNR"
+   ],
+   "other": "",
+   "city": "San Jose",
+   "state": "CA",
+   "notes": "",
+   "eligible_codes": [
+    "DV2",
+    "JNR"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-02-05",
+   "end": "2028-02-06",
+   "region": "Region 6",
+   "circuits": [
+    "RYC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8"
+   ],
+   "other": "Y8 MF, Y8 WF, Y8 ME, Y8 WE, Y8 MS, Y8 WS",
+   "city": "Tampa",
+   "state": "FL",
+   "notes": "",
+   "eligible_codes": [
+    "Y14"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-02-05",
+   "end": "2028-02-06",
+   "region": "Region 2",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Liberty Township",
+   "state": "OH",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-02-12",
+   "end": "2028-02-13",
+   "region": "Region 1",
+   "circuits": [
+    "RYC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10"
+   ],
+   "other": "",
+   "city": "Tigard",
+   "state": "OR",
+   "notes": "",
+   "eligible_codes": [
+    "Y14"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-02-12",
+   "end": "2028-02-13",
+   "region": "Region 2",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Waterford",
+   "state": "MI",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-02-25",
+   "end": "2028-02-28",
+   "region": "Region 4",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Pomona",
+   "state": "CA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-02-26",
+   "end": "2028-02-27",
+   "region": "Region 1",
+   "circuits": [
+    "RJCC"
+   ],
+   "contested": [
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Bellevue",
+   "state": "WA",
+   "notes": "",
+   "eligible_codes": [
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-02-26",
+   "end": "2028-02-27",
+   "region": "Region 5",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "JNR",
+    "CDT"
+   ],
+   "other": "Non-Regional Adult Combine",
+   "city": "El Paso",
+   "state": "TX",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-03-04",
+   "end": "2028-03-05",
+   "region": "Region 6",
+   "circuits": [
+    "ROC"
+   ],
+   "contested": [
+    "D1A",
+    "VET"
+   ],
+   "other": "",
+   "city": "College Park",
+   "state": "MD",
+   "notes": "",
+   "eligible_codes": [
+    "D1A"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-03-17",
+   "end": "2028-03-19",
+   "region": "Region 3",
+   "circuits": [
+    "SYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Hartford",
+   "state": "CT",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-03-17",
+   "end": "2028-03-19",
+   "region": "Region 4",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Torrance",
+   "state": "CA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-03-24",
+   "end": "2028-03-26",
+   "region": "Region 2",
+   "circuits": [
+    "ROC",
+    "RJC"
+   ],
+   "contested": [
+    "D1A",
+    "DV2",
+    "DV3",
+    "VET",
+    "JNR"
+   ],
+   "other": "",
+   "city": "Libertyville",
+   "state": "IL",
+   "notes": "",
+   "eligible_codes": [
+    "D1A",
+    "DV2",
+    "DV3",
+    "JNR"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-03-24",
+   "end": "2028-03-26",
+   "region": "Region 3",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Atlantic City",
+   "state": "NJ",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-03-25",
+   "end": "2028-03-26",
+   "region": "Region 1",
+   "circuits": [
+    "RYC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10"
+   ],
+   "other": "",
+   "city": "Tigard",
+   "state": "OR",
+   "notes": "",
+   "eligible_codes": [
+    "Y14"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-03-25",
+   "end": "2028-03-26",
+   "region": "Region 4",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Ontario",
+   "state": "CA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-03-25",
+   "end": "2028-03-26",
+   "region": "Region 5",
+   "circuits": [
+    "RYC",
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "D1A",
+    "DV2",
+    "VET",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Dallas",
+   "state": "TX",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-04-01",
+   "end": "2028-04-02",
+   "region": "Region 2",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "JNR",
+    "CDT"
+   ],
+   "other": "ADCMF, ADCMS, ADCME, ADCWF, ADCWS, ADCWE",
+   "city": "Saint Paul",
+   "state": "MN",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-04-01",
+   "end": "2028-04-02",
+   "region": "Region 3",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Norton",
+   "state": "MA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-04-01",
+   "end": "2028-04-02",
+   "region": "Region 4",
+   "circuits": [
+    "ROC",
+    "RJC"
+   ],
+   "contested": [
+    "D1A",
+    "DV2",
+    "VET",
+    "JNR"
+   ],
+   "other": "",
+   "city": "Henderson",
+   "state": "NV",
+   "notes": "",
+   "eligible_codes": [
+    "D1A",
+    "DV2",
+    "JNR"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-04-07",
+   "end": "2028-04-09",
+   "region": "Region 6",
+   "circuits": [
+    "SYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Fredericksburg",
+   "state": "VA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-04-07",
+   "end": "2028-04-09",
+   "region": "Region 4",
+   "circuits": [
+    "RYC",
+    "RCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Denver",
+   "state": "CO",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-04-08",
+   "end": "2028-04-09",
+   "region": "Region 1",
+   "circuits": [
+    "RJCC"
+   ],
+   "contested": [
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Tigard",
+   "state": "OR",
+   "notes": "",
+   "eligible_codes": [
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-04-08",
+   "end": "2028-04-09",
+   "region": "Region 5",
+   "circuits": [
+    "RYC",
+    "ROC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Houston",
+   "state": "TX",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "D1A",
+    "DV2",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-04-21",
+   "end": "2028-04-24",
+   "region": "Region 1",
+   "circuits": [
+    "SYC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10"
+   ],
+   "other": "",
+   "city": "Bellevue",
+   "state": "WA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-04-21",
+   "end": "2028-04-23",
+   "region": "Region 3",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Suffern",
+   "state": "NY",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-04-22",
+   "end": "2028-04-23",
+   "region": "Region 6",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Tampa",
+   "state": "FL",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "CDT"
+   ],
+   "own_region": true,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-04-28",
+   "end": "2028-04-30",
+   "region": "Region 1",
+   "circuits": [
+    "ROC"
+   ],
+   "contested": [
+    "D1A",
+    "DV2"
+   ],
+   "other": "",
+   "city": "Tigard",
+   "state": "OR",
+   "notes": "",
+   "eligible_codes": [
+    "D1A",
+    "DV2"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-04-28",
+   "end": "2028-04-30",
+   "region": "Region 4",
+   "circuits": [
+    "SYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Anaheim",
+   "state": "CA",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-04-29",
+   "end": "2028-04-30",
+   "region": "Region 2",
+   "circuits": [
+    "RYC",
+    "RJCC"
+   ],
+   "contested": [
+    "Y14",
+    "Y12",
+    "Y10",
+    "Y8",
+    "JNR",
+    "CDT"
+   ],
+   "other": "",
+   "city": "Libertyville",
+   "state": "IL",
+   "notes": "",
+   "eligible_codes": [
+    "Y14",
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [
+    "RYC points only count in your own region"
+   ],
+   "askfred": null
+  },
+  {
+   "source": "usaf-regional",
+   "name": "",
+   "start": "2028-04-29",
+   "end": "2028-04-30",
+   "region": "Region 5",
+   "circuits": [
+    "ROC",
+    "RJCC",
+    "RPC"
+   ],
+   "contested": [
+    "VET",
+    "JNR",
+    "CDT",
+    "PARA"
+   ],
+   "other": "",
+   "city": "Carrollton",
+   "state": "TX",
+   "notes": "",
+   "eligible_codes": [
+    "JNR",
+    "CDT"
+   ],
+   "own_region": false,
+   "notes_extra": [],
+   "askfred": null
+  }
+ ],
+ "national": [
+  {
+   "source": "usaf",
+   "name": "November 2026 North American Cup",
+   "when": "Nov. 20–23, 2026",
+   "location": "Columbus, Ohio",
+   "start": "2026-11-20",
+   "end": "2026-11-23",
+   "categories": "Division I, Junior, Cadet",
+   "notes": [],
+   "url": "https://www.usafencing.org/2026-november-north-american-cup",
+   "fits": [
+    "Cadet",
+    "Junior",
+    "Division I (qualifying required)"
+   ]
+  },
+  {
+   "source": "usaf",
+   "name": "December 2026 SJCC",
+   "when": "Dec. 4–6, 2026",
+   "location": "Milwaukee, Wis.",
+   "start": "2026-12-04",
+   "end": "2026-12-06",
+   "categories": "Junior, Cadet",
+   "notes": [
+    "Baird Center"
+   ],
+   "url": "https://www.usafencing.org/2026-december-sjcc",
+   "fits": [
+    "Cadet",
+    "Junior"
+   ]
+  },
+  {
+   "source": "usaf",
+   "name": "2027 Junior Olympics and Para NAC",
+   "when": "Jan. 8–11, 2027",
+   "location": "Oklahoma City",
+   "start": "2027-01-08",
+   "end": "2027-01-11",
+   "categories": "Junior, Cadet, Junior Team, Parafencing",
+   "notes": [],
+   "url": "https://www.usafencing.org/2027-junior-olympics-january-nac",
+   "fits": [
+    "Cadet",
+    "Junior"
+   ]
+  },
+  {
+   "source": "usaf",
+   "name": "February NAC",
+   "when": "Feb. 12–15, 2027",
+   "location": "Richmond, Virginia",
+   "start": "2027-02-12",
+   "end": "2027-02-15",
+   "categories": "Division I, Junior, Veteran Age, Veteran Combined, Veteran Team",
+   "notes": [],
+   "url": "https://www.usafencing.org/2027-february-nac",
+   "fits": [
+    "Junior",
+    "Division I (qualifying required)"
+   ]
+  },
+  {
+   "source": "usaf",
+   "name": "March NAC",
+   "when": "Mar. 5–8, 2027",
+   "location": "Location TBA",
+   "start": "2027-03-05",
+   "end": "2027-03-08",
+   "categories": "Y14, Y12, Y10, Division II",
+   "notes": [
+    "Hotel booking link coming soon"
+   ],
+   "url": "https://www.usafencing.org/2027-march-nac",
+   "fits": [
+    "Y14",
+    "Division II"
+   ]
+  },
+  {
+   "source": "usaf",
+   "name": "April 2027 North American Cup And Division I & Para National Championships",
+   "when": "Apr. 16–19, 2027",
+   "location": "Cincinnati, Ohio",
+   "start": "2027-04-16",
+   "end": "2027-04-19",
+   "categories": "Division I, Junior, Division I Team, Veteran Age, Veteran Combined, Parafencing",
+   "notes": [
+    "First Financial Center"
+   ],
+   "url": "https://www.usafencing.org/2027-division-i-parafencing-national-championship-april-nac",
+   "fits": [
+    "Junior",
+    "Division I (qualifying required)"
+   ]
+  },
+  {
+   "source": "usaf",
+   "name": "June NY/NJ Tournament",
+   "when": "June 11–14, 2027",
+   "location": "New York/New Jersey",
+   "start": "2027-06-11",
+   "end": "2027-06-14",
+   "categories": "Event combinations to be announced",
+   "notes": [
+    "Hotel booking link coming soon"
+   ],
+   "url": "",
+   "fits": [
+    "Check events"
+   ]
+  },
+  {
+   "source": "usaf",
+   "name": "2027 Summer Nationals",
+   "when": "July 2–11, 2027",
+   "location": "Salt Lake City",
+   "start": "2027-07-02",
+   "end": "2027-07-11",
+   "categories": "All weapons, all age categories",
+   "notes": [],
+   "url": "https://www.usafencing.org/2027-summer-nationals-july-challenge",
+   "fits": [
+    "Check events"
+   ]
+  },
+  {
+   "source": "usaf",
+   "name": "May SJCC",
+   "when": "Dates TBA",
+   "location": "Location TBA",
+   "start": "",
+   "end": "",
+   "categories": "Junior, Cadet",
+   "notes": [
+    "Hotel booking link coming soon"
+   ],
+   "url": "https://www.usafencing.org/2027-may-sjcc",
+   "fits": [
+    "Cadet",
+    "Junior"
+   ]
+  }
+ ]
+}

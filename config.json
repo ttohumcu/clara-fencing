@@ -1,0 +1,48 @@
+{
+  "fencer": {
+    "name": "Clara Tohumcu",
+    "fencingtracker_id": "102185990",
+    "fencingtracker_slug": "Clara-Tohumcu",
+    "birth_year": 2013,
+    "gender": "women",
+    "weapons": [
+      "saber"
+    ],
+    "region": "Region 6"
+  },
+  "home": {
+    "location": "Sarasota, FL",
+    "askfred_radius_miles": 500,
+    "local_miles": 75,
+    "extra_searches": []
+  },
+  "upcoming_filter": {
+    "ages": [
+      "Y14"
+    ],
+    "genders": [
+      "women",
+      "mixed"
+    ]
+  },
+  "highlight": {
+    "label": "Region 6",
+    "regions": [
+      "Region 6"
+    ],
+    "states": [
+      "FL",
+      "GA",
+      "SC",
+      "NC",
+      "TN",
+      "VA",
+      "MD",
+      "DC",
+      "AL",
+      "MS",
+      "WV",
+      "PR"
+    ]
+  }
+}

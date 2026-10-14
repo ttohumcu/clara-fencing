@@ -1,0 +1,4191 @@
+[
+ {
+  "source": "usaf-regional",
+  "name": "Portland August RJCC",
+  "start": "2026-08-22",
+  "end": "2026-08-23",
+  "region": "Region 1",
+  "circuits": [
+   "RJCC"
+  ],
+  "contested": [
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Tigard",
+  "state": "OR",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Trick or Retreat ROC / RJCC",
+  "start": "2026-08-22",
+  "end": "2026-08-23",
+  "region": "Region 3",
+  "circuits": [
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Edison",
+  "state": "NJ",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "RJCC of the Rockies",
+  "start": "2026-08-29",
+  "end": "2026-08-30",
+  "region": "Region 4",
+  "circuits": [
+   "RJCC"
+  ],
+  "contested": [
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Denver",
+  "state": "CO",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Fencing Center of Chicago RYC & RJCC",
+  "start": "2026-09-04",
+  "end": "2026-09-06",
+  "region": "Region 2",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Libertyville",
+  "state": "IL",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Star Cup RYC/RJCC",
+  "start": "2026-09-05",
+  "end": "2026-09-06",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "DANVERS",
+  "state": "MA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Fortune ROC/RJCC/RYC",
+  "start": "2026-09-05",
+  "end": "2026-09-07",
+  "region": "Region 4",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Ontario",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "North Texas Roundup SYC/RJCC",
+  "start": "2026-09-05",
+  "end": "2026-09-07",
+  "region": "Region 5",
+  "circuits": [
+   "SYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Dallas",
+  "state": "TX",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "The Cascade Clash SYC",
+  "start": "2026-09-11",
+  "end": "2026-09-14",
+  "region": "Region 1",
+  "circuits": [
+   "SYC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10"
+  ],
+  "other": "",
+  "city": "Tigard",
+  "state": "OR",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Nittany Lion Cup RYC/RJCC",
+  "start": "2026-09-12",
+  "end": "2026-09-13",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "State College",
+  "state": "PA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Air Force ROC (D1A, DV2, VET), RJCC",
+  "start": "2026-09-12",
+  "end": "2026-09-13",
+  "region": "Region 4",
+  "circuits": [
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Air Force Academy",
+  "state": "CO",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Miracle Fencing RYC/RJCC",
+  "start": "2026-09-12",
+  "end": "2026-09-13",
+  "region": "Region 6",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Virginia Beach",
+  "state": "VA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Motor City SYC/RCC",
+  "start": "2026-09-18",
+  "end": "2026-09-20",
+  "region": "Region 2",
+  "circuits": [
+   "SYC",
+   "RCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Waterford",
+  "state": "MI",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "BladeRunner ROC/RJC",
+  "start": "2026-09-19",
+  "end": "2026-09-20",
+  "region": "Region 4",
+  "circuits": [
+   "ROC",
+   "RJC"
+  ],
+  "contested": [
+   "D1A",
+   "JNR"
+  ],
+  "other": "",
+  "city": "La Jolla",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Battle in Space City RYC/RJCC",
+  "start": "2026-09-19",
+  "end": "2026-09-20",
+  "region": "Region 5",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Houston",
+  "state": "TX",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Lotus Cup ROC/RJCC/RYC",
+  "start": "2026-09-19",
+  "end": "2026-09-20",
+  "region": "Region 6",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Myrtle Beach",
+  "state": "SC",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Remenyik ROC and RJCC",
+  "start": "2026-09-26",
+  "end": "2026-09-27",
+  "region": "Region 2",
+  "circuits": [
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "D1A",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Evanston",
+  "state": "IL",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Premier Challenge ROC/RJCC/RYC",
+  "start": "2026-09-25",
+  "end": "2026-09-27",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Suffern",
+  "state": "NY",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "2nd BBFC Duel in the Desert SYC & RCC",
+  "start": "2026-09-25",
+  "end": "2026-09-27",
+  "region": "Region 4",
+  "circuits": [
+   "SYC",
+   "RCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "CDT"
+  ],
+  "other": "",
+  "city": "NV",
+  "state": "",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "River City Regional Rumble",
+  "start": "2026-09-25",
+  "end": "2026-09-27",
+  "region": "Region 6",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "ADT",
+   "ADC",
+   "JNR",
+   "CDT",
+   "PARA"
+  ],
+  "other": "",
+  "city": "Richmond",
+  "state": "VA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Leon Auriol Open",
+  "start": "2026-10-03",
+  "end": "2026-10-04",
+  "region": "Region 1",
+  "circuits": [
+   "ROC"
+  ],
+  "contested": [
+   "D1A"
+  ],
+  "other": "",
+  "city": "Seattle",
+  "state": "WA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Ben Gutenberg Memorial SYC - RJCC",
+  "start": "2026-10-02",
+  "end": "2026-10-04",
+  "region": "Region 3",
+  "circuits": [
+   "SYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Rochester",
+  "state": "NY",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Austin RYC & RJCC",
+  "start": "2026-10-03",
+  "end": "2026-10-04",
+  "region": "Region 5",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Round Rock",
+  "state": "TX",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Peachtree RYC/RJCC",
+  "start": "2026-10-03",
+  "end": "2026-10-04",
+  "region": "Region 6",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Suwanee",
+  "state": "GA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "October NAC",
+  "start": "2026-10-09",
+  "end": "2026-10-12",
+  "region": "National",
+  "circuits": [
+   "NAC"
+  ],
+  "contested": [
+   "DV1",
+   "CDT",
+   "Y14",
+   "CDTTM",
+   "PARA"
+  ],
+  "other": "",
+  "city": "Orlando",
+  "state": "FL",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Rain City Fall RJCC+Div II ROC",
+  "start": "2026-10-16",
+  "end": "2026-10-18",
+  "region": "Region 1",
+  "circuits": [
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "DV2",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Bellevue",
+  "state": "WA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Battle in Space City ROC/RJCC",
+  "start": "2026-10-17",
+  "end": "2026-10-18",
+  "region": "Region 5",
+  "circuits": [
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "D1A",
+   "DV2",
+   "JNR",
+   "CDT",
+   "VET"
+  ],
+  "other": "",
+  "city": "Houston",
+  "state": "TX",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Nashville Challenge RYC/RJCC",
+  "start": "2026-10-17",
+  "end": "2026-10-18",
+  "region": "Region 6",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Nashville",
+  "state": "TN",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "2026 Escrime d'Halloween RYC/RJCC",
+  "start": "2026-10-24",
+  "end": "2026-10-25",
+  "region": "Region 2",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "VetMF, VetWF, VetME, VetWE, VetMS, VetWS",
+  "city": "Twinsburg",
+  "state": "OH",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Morris Cup RYC/RJCC",
+  "start": "2026-10-24",
+  "end": "2026-10-25",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Suffern",
+  "state": "NY",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "AFM RYC/RJCC/ROC Div1A/Div2/Vet",
+  "start": "2026-10-23",
+  "end": "2026-10-25",
+  "region": "Region 4",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "D1A",
+   "VET",
+   "JNR",
+   "CDT",
+   "DV2"
+  ],
+  "other": "",
+  "city": "Santa Clara",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Portland Fall RYC",
+  "start": "2026-10-31",
+  "end": "2026-11-01",
+  "region": "Region 1",
+  "circuits": [
+   "RYC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10"
+  ],
+  "other": "",
+  "city": "Tigard",
+  "state": "OR",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Ultimate Cup RJCC",
+  "start": "2026-10-31",
+  "end": "2026-11-01",
+  "region": "Region 3",
+  "circuits": [
+   "RJCC"
+  ],
+  "contested": [
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Hillsborough Township",
+  "state": "NJ",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Emerald City ROC",
+  "start": "2026-11-07",
+  "end": "2026-11-08",
+  "region": "Region 1",
+  "circuits": [
+   "ROC"
+  ],
+  "contested": [
+   "DV2",
+   "ADC"
+  ],
+  "other": "",
+  "city": "Seattle",
+  "state": "WA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "GRAFA RYC\\RJCC\\ROC- Third Coast Cup",
+  "start": "2026-11-06",
+  "end": "2026-11-08",
+  "region": "Region 2",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "D1A",
+   "DV2",
+   "DV3",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "3nd Annual BBFC RYC and Y8",
+  "start": "2026-11-07",
+  "end": "2026-11-08",
+  "region": "Region 4",
+  "circuits": [
+   "RYC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8"
+  ],
+  "other": "",
+  "city": "Henderson",
+  "state": "NV",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Rain City Fall RYC",
+  "start": "2026-11-14",
+  "end": "2026-11-15",
+  "region": "Region 1",
+  "circuits": [
+   "RYC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8"
+  ],
+  "other": "",
+  "city": "Bellevue",
+  "state": "WA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Pizza RYC/RJCC",
+  "start": "2026-11-14",
+  "end": "2026-11-15",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "New Haven",
+  "state": "CT",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "RYC/RJC of the Rockies",
+  "start": "2026-11-13",
+  "end": "2026-11-15",
+  "region": "Region 4",
+  "circuits": [
+   "RYC",
+   "RJC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "JNR"
+  ],
+  "other": "",
+  "city": "Denver",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "The Crescent City Open",
+  "start": "2026-11-14",
+  "end": "2026-11-15",
+  "region": "Region 5",
+  "circuits": [
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "D1A",
+   "DV2",
+   "DV3",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Metairie",
+  "state": "LA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Kiefer Meinhardt Cup SYC/RJCC/Y8",
+  "start": "2026-11-14",
+  "end": "2026-11-15",
+  "region": "Region 6",
+  "circuits": [
+   "SYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Richmond",
+  "state": "VA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "November NAC",
+  "start": "2026-11-20",
+  "end": "2026-11-23",
+  "region": "National",
+  "circuits": [
+   "NAC"
+  ],
+  "contested": [
+   "DV1",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Columbus",
+  "state": "OH",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Cobra Challenge SYC/RCC",
+  "start": "2026-11-27",
+  "end": "2026-11-29",
+  "region": "Region 3",
+  "circuits": [
+   "SYC",
+   "RCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Secaucus",
+  "state": "NJ",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "December SJCC",
+  "start": "2026-12-04",
+  "end": "2026-12-06",
+  "region": "National",
+  "circuits": [],
+  "contested": [
+   "CDT",
+   "JNR"
+  ],
+  "other": "",
+  "city": "Milwaukee",
+  "state": "WI",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Fencing Center of Chicago RYC & RJC 2026 - 2027 - 2028.",
+  "start": "2026-12-12",
+  "end": "2026-12-13",
+  "region": "Region 2",
+  "circuits": [
+   "RYC",
+   "RJC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR"
+  ],
+  "other": "",
+  "city": "Libertyville",
+  "state": "IL",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Z1 RYC/RJCC",
+  "start": "2026-12-12",
+  "end": "2026-12-13",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Newtown",
+  "state": "CT",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Nick Itkin Cup SYC & VetROC",
+  "start": "2026-12-11",
+  "end": "2026-12-13",
+  "region": "Region 4",
+  "circuits": [
+   "SYC",
+   "ROC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "VET"
+  ],
+  "other": "",
+  "city": "Palm Springs",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "The Southern Y8/RYC/RJCC/ROC (VET/D1A/DV2)/RPC/TEAM",
+  "start": "2026-12-11",
+  "end": "2026-12-13",
+  "region": "Region 6",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC",
+   "RPC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR",
+   "CDT",
+   "PARA"
+  ],
+  "other": "Local Team Event All 3 weapons Men and Women",
+  "city": "Myrtle Beach",
+  "state": "SC",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Salle Auriol Seattle RJCC",
+  "start": "2026-12-19",
+  "end": "2026-12-20",
+  "region": "Region 1",
+  "circuits": [
+   "RJCC"
+  ],
+  "contested": [
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Seattle",
+  "state": "WA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Midwest ROC/RJCC",
+  "start": "2026-12-19",
+  "end": "2026-12-20",
+  "region": "Region 2",
+  "circuits": [
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Libertyville",
+  "state": "IL",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Boston Fencing Club RYC/RCC",
+  "start": "2026-12-19",
+  "end": "2026-12-20",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Norton",
+  "state": "MA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Austin Challenge SYC and RCC",
+  "start": "2026-12-18",
+  "end": "2026-12-20",
+  "region": "Region 5",
+  "circuits": [
+   "SYC",
+   "RCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Round Rock",
+  "state": "TX",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Fairfax Challenge ROC, RJCC, RYC",
+  "start": "2026-12-18",
+  "end": "2026-12-20",
+  "region": "Region 6",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Fredericksburg",
+  "state": "VA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Neil Lazar Div1/Div2/Veteran ROC",
+  "start": "2027-01-01",
+  "end": "2027-01-03",
+  "region": "Region 3",
+  "circuits": [
+   "ROC"
+  ],
+  "contested": [
+   "D1A",
+   "DV2",
+   "VET"
+  ],
+  "other": "",
+  "city": "",
+  "state": "",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "January NAC and Junior Olympics",
+  "start": "2027-01-08",
+  "end": "2027-01-11",
+  "region": "National",
+  "circuits": [],
+  "contested": [
+   "JNR",
+   "CDT",
+   "JNRTM",
+   "PARA"
+  ],
+  "other": "",
+  "city": "Oklahoma City",
+  "state": "OK",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Battle in Seattle",
+  "start": "2027-01-16",
+  "end": "2027-01-17",
+  "region": "Region 1",
+  "circuits": [
+   "ROC"
+  ],
+  "contested": [
+   "D1A"
+  ],
+  "other": "VetXE, VetWE, VetXF, VetXS",
+  "city": "Bellevue",
+  "state": "WA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Elite Cup RYC/RJCC",
+  "start": "2027-01-16",
+  "end": "2027-01-17",
+  "region": "Region 4",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "San Diego",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Capitol Clash SYC/RCC & Y8",
+  "start": "2027-01-16",
+  "end": "2027-01-18",
+  "region": "Region 6",
+  "circuits": [
+   "SYC",
+   "RCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Oxon Hill",
+  "state": "MD",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Salle Auriol Seattle RYC",
+  "start": "2027-01-30",
+  "end": "2027-01-31",
+  "region": "Region 1",
+  "circuits": [
+   "RYC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10"
+  ],
+  "other": "",
+  "city": "Seattle",
+  "state": "WA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Wildcat SYC/RCC",
+  "start": "2027-01-30",
+  "end": "2027-01-31",
+  "region": "Region 2",
+  "circuits": [
+   "SYC",
+   "RCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Libertyville",
+  "state": "IL",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Yefimov Memorial RYC",
+  "start": "2027-01-30",
+  "end": "2027-01-31",
+  "region": "Region 5",
+  "circuits": [
+   "RYC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10"
+  ],
+  "other": "",
+  "city": "Lewisville",
+  "state": "TX",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Battle At The Beach 5",
+  "start": "2027-01-30",
+  "end": "2027-02-01",
+  "region": "Region 6",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC",
+   "RPC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "D1A",
+   "DV2",
+   "DV3",
+   "VET",
+   "JNR",
+   "CDT",
+   "PARA"
+  ],
+  "other": "",
+  "city": "Jacksonville",
+  "state": "FL",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Queen City Cup Y8/RYC/RJCC",
+  "start": "2027-02-05",
+  "end": "2027-02-07",
+  "region": "Region 2",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Liberty Township",
+  "state": "OH",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Miles Chamley-Watson Cup RYC/RJCC/ROC",
+  "start": "2027-02-05",
+  "end": "2027-02-07",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Providence",
+  "state": "RI",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "The Fencing Center ROC/RJC",
+  "start": "2027-02-05",
+  "end": "2027-02-08",
+  "region": "Region 4",
+  "circuits": [
+   "ROC",
+   "RJC"
+  ],
+  "contested": [
+   "DV2",
+   "JNR"
+  ],
+  "other": "",
+  "city": "San Jose",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "USF Green and Gold RYC",
+  "start": "2027-02-06",
+  "end": "2027-02-07",
+  "region": "Region 6",
+  "circuits": [
+   "RYC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8"
+  ],
+  "other": "Y8 MF, Y8 WF, Y8 ME, Y8 WE, Y8 MS, Y8 WS",
+  "city": "Tampa",
+  "state": "FL",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "February NAC",
+  "start": "2027-02-12",
+  "end": "2027-02-15",
+  "region": "National",
+  "circuits": [],
+  "contested": [
+   "DV1",
+   "JNR",
+   "VET",
+   "VETTM"
+  ],
+  "other": "",
+  "city": "",
+  "state": "",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Portland Winter RYC",
+  "start": "2027-02-20",
+  "end": "2027-02-21",
+  "region": "Region 1",
+  "circuits": [
+   "RYC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10"
+  ],
+  "other": "",
+  "city": "Tigard",
+  "state": "OR",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Motor City RJCC/RYC",
+  "start": "2027-02-20",
+  "end": "2027-02-21",
+  "region": "Region 2",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Waterford",
+  "state": "MI",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Rain City Spring RJCC",
+  "start": "2027-02-27",
+  "end": "2027-02-28",
+  "region": "Region 1",
+  "circuits": [
+   "RJCC"
+  ],
+  "contested": [
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Bellevue",
+  "state": "WA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Duel of the East Coast ROC/RJCC/RYC",
+  "start": "2027-02-26",
+  "end": "2027-02-28",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Phoenixville",
+  "state": "PA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Team.K",
+  "start": "2027-02-26",
+  "end": "2027-02-28",
+  "region": "Region 4",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Pomona",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "West Texas Duel RYC/ RJCC",
+  "start": "2027-02-27",
+  "end": "2027-02-28",
+  "region": "Region 5",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "JNR",
+   "CDT"
+  ],
+  "other": "Non-Regional Adult Combine",
+  "city": "El Paso",
+  "state": "TX",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "March NAC",
+  "start": "2027-03-05",
+  "end": "2027-03-08",
+  "region": "National",
+  "circuits": [],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "DV2"
+  ],
+  "other": "",
+  "city": "",
+  "state": "",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "GRAFA RYC\\RJCC\\ROC- Third Coast Cup",
+  "start": "2027-03-12",
+  "end": "2027-03-14",
+  "region": "Region 2",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "D1A",
+   "DV2",
+   "DV3",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Mary Rafanelli RYC/RJCC",
+  "start": "2027-03-12",
+  "end": "2027-03-14",
+  "region": "Region 4",
+  "circuits": [
+   "RYC",
+   "RJCC",
+   "RPC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "CDT",
+   "JNR",
+   "PARA"
+  ],
+  "other": "",
+  "city": "Pasadena",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Cherry Blossom - D1A/VET",
+  "start": "2027-03-13",
+  "end": "2027-03-14",
+  "region": "Region 6",
+  "circuits": [
+   "ROC"
+  ],
+  "contested": [
+   "D1A",
+   "VET"
+  ],
+  "other": "",
+  "city": "College Park",
+  "state": "MD",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Seattle International Veteran's Cup",
+  "start": "2027-03-20",
+  "end": "2027-03-21",
+  "region": "Region 1",
+  "circuits": [
+   "ROC"
+  ],
+  "contested": [
+   "VET"
+  ],
+  "other": "",
+  "city": "Seattle",
+  "state": "WA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "American Challenge SYC/RJCC",
+  "start": "2027-03-19",
+  "end": "2027-03-21",
+  "region": "Region 3",
+  "circuits": [
+   "SYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Hartford",
+  "state": "CT",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "8th Annual Precision Invitational RYC and RJCC",
+  "start": "2027-03-19",
+  "end": "2027-03-21",
+  "region": "Region 4",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Torrance",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Portland Spring RYC",
+  "start": "2027-03-27",
+  "end": "2027-03-28",
+  "region": "Region 1",
+  "circuits": [
+   "RYC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10"
+  ],
+  "other": "",
+  "city": "Tigard",
+  "state": "OR",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Fencing Center of Chicago ROC & RJC 2026 - 2027 - 2028.",
+  "start": "2027-03-26",
+  "end": "2027-03-28",
+  "region": "Region 2",
+  "circuits": [
+   "ROC",
+   "RJC"
+  ],
+  "contested": [
+   "D1A",
+   "DV2",
+   "DV3",
+   "VET",
+   "JNR"
+  ],
+  "other": "",
+  "city": "Libertyville",
+  "state": "IL",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Absolute Foundation RYC/RJCC",
+  "start": "2027-03-26",
+  "end": "2027-03-28",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Atlantic City",
+  "state": "NJ",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Fortune RJCC/RYC",
+  "start": "2027-03-27",
+  "end": "2027-03-28",
+  "region": "Region 4",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Ontario",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Wang Memorial D1A/2/Vet and RYC/RJCC",
+  "start": "2027-03-27",
+  "end": "2027-03-28",
+  "region": "Region 5",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Dallas",
+  "state": "TX",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "RedStar Fencing RYC/RJCC/Y8",
+  "start": "2027-04-03",
+  "end": "2027-04-04",
+  "region": "Region 2",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Libertyville",
+  "state": "IL",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "2nd BBFC ROC and RJC",
+  "start": "2027-04-03",
+  "end": "2027-04-04",
+  "region": "Region 4",
+  "circuits": [
+   "ROC",
+   "RJC"
+  ],
+  "contested": [
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR"
+  ],
+  "other": "",
+  "city": "Henderson",
+  "state": "NV",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Portland Spring RJCC",
+  "start": "2027-04-10",
+  "end": "2027-04-11",
+  "region": "Region 1",
+  "circuits": [
+   "RJCC"
+  ],
+  "contested": [
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Tigard",
+  "state": "OR",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "RYC/RCC of the Rockies",
+  "start": "2027-04-09",
+  "end": "2027-04-11",
+  "region": "Region 4",
+  "circuits": [
+   "RYC",
+   "RCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Denver",
+  "state": "CO",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Battle in Space City ROC/RJCC/RYC",
+  "start": "2027-04-10",
+  "end": "2027-04-11",
+  "region": "Region 5",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "D1A",
+   "DV2",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Houston",
+  "state": "TX",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Fairfax Challenge SYC/RJCC",
+  "start": "2027-04-09",
+  "end": "2027-04-11",
+  "region": "Region 6",
+  "circuits": [
+   "SYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Virginia Beach",
+  "state": "VA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Division I and Para National Championship and April NAC",
+  "start": "2027-04-16",
+  "end": "2027-04-19",
+  "region": "National",
+  "circuits": [],
+  "contested": [
+   "DV1",
+   "JNR",
+   "DV1TM",
+   "VET",
+   "PARA"
+  ],
+  "other": "",
+  "city": "Cincinnati",
+  "state": "OH",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Rain City Super Youth Circuit (SYC)",
+  "start": "2027-04-23",
+  "end": "2027-04-26",
+  "region": "Region 1",
+  "circuits": [
+   "SYC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10"
+  ],
+  "other": "",
+  "city": "Bellevue",
+  "state": "WA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "American Challenge RJCC/RYC",
+  "start": "2027-04-23",
+  "end": "2027-04-25",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Suffern",
+  "state": "NY",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "The Gauntlet",
+  "start": "2027-04-24",
+  "end": "2027-04-25",
+  "region": "Region 6",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Tampa",
+  "state": "FL",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "The Portland ROC (D1A & Dv2)",
+  "start": "2027-04-30",
+  "end": "2027-05-02",
+  "region": "Region 1",
+  "circuits": [
+   "ROC"
+  ],
+  "contested": [
+   "D1A",
+   "DV2"
+  ],
+  "other": "",
+  "city": "Tigard",
+  "state": "OR",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "North Star RYC/RJCC/ADLTC",
+  "start": "2027-05-01",
+  "end": "2027-05-02",
+  "region": "Region 2",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "JNR",
+   "CDT"
+  ],
+  "other": "ADCMF, ADCMS, ADCME, ADCWF, ADCWS, ADCWE",
+  "city": "Saint Paul",
+  "state": "MN",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Fortune SYC/RJCC",
+  "start": "2027-04-30",
+  "end": "2027-05-02",
+  "region": "Region 4",
+  "circuits": [
+   "SYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Anaheim",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Duel in Dallas RJCC/VET/RPC",
+  "start": "2027-05-01",
+  "end": "2027-05-02",
+  "region": "Region 5",
+  "circuits": [
+   "ROC",
+   "RJCC",
+   "RPC"
+  ],
+  "contested": [
+   "VET",
+   "JNR",
+   "CDT",
+   "PARA"
+  ],
+  "other": "",
+  "city": "Carrollton",
+  "state": "TX",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Collegiate Cup",
+  "start": "2027-05-08",
+  "end": "2027-05-09",
+  "region": "Region 4",
+  "circuits": [
+   "RJCC"
+  ],
+  "contested": [
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "La Jolla",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "May SJCC",
+  "start": "",
+  "end": "",
+  "region": "National",
+  "circuits": [],
+  "contested": [
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "",
+  "state": "",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "Summer Nationals",
+  "start": "2027-07-02",
+  "end": "2027-07-11",
+  "region": "National",
+  "circuits": [],
+  "contested": [
+   "JNR",
+   "CDT",
+   "D1A",
+   "DV2",
+   "VET",
+   "Y14",
+   "Y12",
+   "Y10",
+   "DV3",
+   "DV1"
+  ],
+  "other": "",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-08-21",
+  "end": "2027-08-22",
+  "region": "Region 1",
+  "circuits": [
+   "RJCC"
+  ],
+  "contested": [
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Tigard",
+  "state": "OR",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-08-21",
+  "end": "2027-08-22",
+  "region": "Region 3",
+  "circuits": [
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Edison",
+  "state": "NJ",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-08-28",
+  "end": "2027-08-29",
+  "region": "Region 4",
+  "circuits": [
+   "RJCC"
+  ],
+  "contested": [
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Denver",
+  "state": "CO",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-08-27",
+  "end": "2027-08-29",
+  "region": "Region 6",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Fredericksburg",
+  "state": "VA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-09-03",
+  "end": "2027-09-05",
+  "region": "Region 2",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Libertyville",
+  "state": "IL",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-09-04",
+  "end": "2027-09-06",
+  "region": "Region 4",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Ontario",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-09-04",
+  "end": "2027-09-06",
+  "region": "Region 5",
+  "circuits": [
+   "SYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Dallas",
+  "state": "TX",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-09-10",
+  "end": "2027-09-13",
+  "region": "Region 1",
+  "circuits": [
+   "SYC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10"
+  ],
+  "other": "",
+  "city": "Tigard",
+  "state": "OR",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-09-11",
+  "end": "2027-09-12",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Danvers",
+  "state": "MA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-09-11",
+  "end": "2027-09-12",
+  "region": "Region 4",
+  "circuits": [
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Air Force Academy",
+  "state": "CO",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-09-11",
+  "end": "2027-09-12",
+  "region": "Region 6",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Virginia Beach",
+  "state": "VA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-09-17",
+  "end": "2027-09-19",
+  "region": "Region 2",
+  "circuits": [
+   "SYC",
+   "RCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Waterford",
+  "state": "MI",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-09-18",
+  "end": "2027-09-19",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "State College",
+  "state": "PA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-09-18",
+  "end": "2027-09-19",
+  "region": "Region 4",
+  "circuits": [
+   "ROC",
+   "RJC"
+  ],
+  "contested": [
+   "D1A",
+   "JNR"
+  ],
+  "other": "",
+  "city": "La Jolla",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-09-18",
+  "end": "2027-09-19",
+  "region": "Region 5",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Houston",
+  "state": "TX",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-09-25",
+  "end": "2027-09-26",
+  "region": "Region 1",
+  "circuits": [
+   "ROC"
+  ],
+  "contested": [
+   "D1A"
+  ],
+  "other": "",
+  "city": "Seattle",
+  "state": "WA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-09-24",
+  "end": "2027-09-26",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Suffern",
+  "state": "NY",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-09-24",
+  "end": "2027-09-26",
+  "region": "Region 4",
+  "circuits": [
+   "SYC",
+   "RCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Las Vegas",
+  "state": "NV",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-09-24",
+  "end": "2027-09-26",
+  "region": "Region 6",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "ADT",
+   "ADC",
+   "JNR",
+   "CDT",
+   "PARA"
+  ],
+  "other": "",
+  "city": "Richmond",
+  "state": "VA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-10-02",
+  "end": "2027-10-03",
+  "region": "Region 2",
+  "circuits": [
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "D1A",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Evanston",
+  "state": "IL",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-10-01",
+  "end": "2027-10-03",
+  "region": "Region 3",
+  "circuits": [
+   "SYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Rochester",
+  "state": "NY",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-10-02",
+  "end": "2027-10-03",
+  "region": "Region 5",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Round Rock",
+  "state": "TX",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-10-02",
+  "end": "2027-10-03",
+  "region": "Region 6",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Suwanee",
+  "state": "GA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-10-08",
+  "end": "2027-10-10",
+  "region": "Region 1",
+  "circuits": [
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "DV2",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Bellevue",
+  "state": "WA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "",
+  "end": "",
+  "region": "Region 4",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "McClellan Park",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-10-09",
+  "end": "2027-10-10",
+  "region": "Region 5",
+  "circuits": [
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y8",
+   "D1A",
+   "DV2",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Houston",
+  "state": "TX",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-10-16",
+  "end": "2027-10-17",
+  "region": "Region 1",
+  "circuits": [
+   "RYC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10"
+  ],
+  "other": "",
+  "city": "Tigard",
+  "state": "OR",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-10-16",
+  "end": "2027-10-17",
+  "region": "Region 3",
+  "circuits": [
+   "RJCC"
+  ],
+  "contested": [
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Hillsborough Township",
+  "state": "NJ",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-10-16",
+  "end": "2027-10-17",
+  "region": "Region 6",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Virginia Beach",
+  "state": "VA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-10-23",
+  "end": "2027-10-24",
+  "region": "Region 2",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "VetMF, VetWF, VetME, VetWE, VetMS, VetWS",
+  "city": "Twinsburg",
+  "state": "OH",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-10-23",
+  "end": "2027-10-24",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Suffern",
+  "state": "NY",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-10-22",
+  "end": "2027-10-24",
+  "region": "Region 4",
+  "circuits": [
+   "SYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "D1A",
+   "VET",
+   "JNR",
+   "CDT",
+   "DV2"
+  ],
+  "other": "",
+  "city": "Santa Clara",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-10-23",
+  "end": "2027-10-24",
+  "region": "Region 6",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Nashville",
+  "state": "TN",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-11-06",
+  "end": "2027-11-07",
+  "region": "Region 1",
+  "circuits": [
+   "ROC"
+  ],
+  "contested": [
+   "DV2",
+   "ADC"
+  ],
+  "other": "",
+  "city": "Seattle",
+  "state": "WA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-11-05",
+  "end": "2027-11-07",
+  "region": "Region 2",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "D1A",
+   "DV2",
+   "DV3",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-11-06",
+  "end": "2027-11-07",
+  "region": "Region 4",
+  "circuits": [
+   "RYC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8"
+  ],
+  "other": "",
+  "city": "Henderson",
+  "state": "NV",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-11-06",
+  "end": "2027-11-07",
+  "region": "Region 6",
+  "circuits": [
+   "SYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Richmond",
+  "state": "VA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-11-20",
+  "end": "2027-11-21",
+  "region": "Region 1",
+  "circuits": [
+   "RYC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8"
+  ],
+  "other": "",
+  "city": "Bellevue",
+  "state": "WA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-11-20",
+  "end": "2027-11-21",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "New Haven",
+  "state": "CT",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-11-19",
+  "end": "2027-11-21",
+  "region": "Region 4",
+  "circuits": [
+   "RYC",
+   "RJC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "JNR"
+  ],
+  "other": "",
+  "city": "Denver",
+  "state": "CO",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-11-19",
+  "end": "2027-11-21",
+  "region": "Region 5",
+  "circuits": [
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "D1A",
+   "DV2",
+   "DV3",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Metairie",
+  "state": "LA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-11-26",
+  "end": "2027-11-28",
+  "region": "Region 3",
+  "circuits": [
+   "SYC",
+   "RCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Secaucus",
+  "state": "NJ",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-12-10",
+  "end": "2027-12-12",
+  "region": "Region 2",
+  "circuits": [
+   "RYC",
+   "RJC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR"
+  ],
+  "other": "",
+  "city": "Libertyville",
+  "state": "IL",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-12-11",
+  "end": "2027-12-12",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Newtown",
+  "state": "CT",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-12-10",
+  "end": "2027-12-12",
+  "region": "Region 4",
+  "circuits": [
+   "SYC",
+   "ROC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "VET"
+  ],
+  "other": "",
+  "city": "Palm Springs",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-12-11",
+  "end": "2027-12-12",
+  "region": "Region 6",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Myrtle Beach",
+  "state": "SC",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-12-18",
+  "end": "2027-12-19",
+  "region": "Region 1",
+  "circuits": [
+   "RJCC"
+  ],
+  "contested": [
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Seattle",
+  "state": "WA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-12-18",
+  "end": "2027-12-19",
+  "region": "Region 2",
+  "circuits": [
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Libertyville",
+  "state": "IL",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-12-18",
+  "end": "2027-12-19",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Atlantic City",
+  "state": "NJ",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2027-12-17",
+  "end": "2027-12-19",
+  "region": "Region 5",
+  "circuits": [
+   "SYC",
+   "RCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Round Rock",
+  "state": "TX",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-01-15",
+  "end": "2028-01-16",
+  "region": "Region 1",
+  "circuits": [
+   "ROC"
+  ],
+  "contested": [
+   "D1A"
+  ],
+  "other": "VetXE, VetWE, VetXF, VetXS",
+  "city": "Bellevue",
+  "state": "WA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-01-15",
+  "end": "2028-01-16",
+  "region": "Region 4",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "San Diego",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-01-15",
+  "end": "2028-01-17",
+  "region": "Region 6",
+  "circuits": [
+   "SYC",
+   "RCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Oxon Hill",
+  "state": "MD",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-01-21",
+  "end": "2028-01-23",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Phoenixville",
+  "state": "PA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-01-29",
+  "end": "2028-01-30",
+  "region": "Region 1",
+  "circuits": [
+   "RYC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10"
+  ],
+  "other": "",
+  "city": "Seattle",
+  "state": "WA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-01-29",
+  "end": "2028-01-30",
+  "region": "Region 2",
+  "circuits": [
+   "SYC",
+   "RCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Libertyville",
+  "state": "IL",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-01-29",
+  "end": "2028-01-31",
+  "region": "Region 6",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC",
+   "RPC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "D1A",
+   "DV2",
+   "DV3",
+   "VET",
+   "JNR",
+   "CDT",
+   "PARA"
+  ],
+  "other": "",
+  "city": "Jacksonville",
+  "state": "FL",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-02-05",
+  "end": "2028-02-06",
+  "region": "Region 2",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Liberty Township",
+  "state": "OH",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-02-04",
+  "end": "2028-02-06",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Providence",
+  "state": "RI",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-02-04",
+  "end": "2028-02-07",
+  "region": "Region 4",
+  "circuits": [
+   "ROC",
+   "RJC"
+  ],
+  "contested": [
+   "DV2",
+   "JNR"
+  ],
+  "other": "",
+  "city": "San Jose",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-02-05",
+  "end": "2028-02-06",
+  "region": "Region 6",
+  "circuits": [
+   "RYC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8"
+  ],
+  "other": "Y8 MF, Y8 WF, Y8 ME, Y8 WE, Y8 MS, Y8 WS",
+  "city": "Tampa",
+  "state": "FL",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-02-12",
+  "end": "2028-02-13",
+  "region": "Region 1",
+  "circuits": [
+   "RYC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10"
+  ],
+  "other": "",
+  "city": "Tigard",
+  "state": "OR",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-02-12",
+  "end": "2028-02-13",
+  "region": "Region 2",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Waterford",
+  "state": "MI",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-02-26",
+  "end": "2028-02-27",
+  "region": "Region 1",
+  "circuits": [
+   "RJCC"
+  ],
+  "contested": [
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Bellevue",
+  "state": "WA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-02-25",
+  "end": "2028-02-28",
+  "region": "Region 4",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Pomona",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-02-26",
+  "end": "2028-02-27",
+  "region": "Region 5",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "JNR",
+   "CDT"
+  ],
+  "other": "Non-Regional Adult Combine",
+  "city": "El Paso",
+  "state": "TX",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "",
+  "end": "",
+  "region": "Region 2",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "D1A",
+   "DV2",
+   "DV3",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-03-04",
+  "end": "2028-03-05",
+  "region": "Region 6",
+  "circuits": [
+   "ROC"
+  ],
+  "contested": [
+   "D1A",
+   "VET"
+  ],
+  "other": "",
+  "city": "College Park",
+  "state": "MD",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-03-18",
+  "end": "2028-03-19",
+  "region": "Region 1",
+  "circuits": [
+   "ROC"
+  ],
+  "contested": [
+   "VET"
+  ],
+  "other": "",
+  "city": "Seattle",
+  "state": "WA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-03-17",
+  "end": "2028-03-19",
+  "region": "Region 3",
+  "circuits": [
+   "SYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Hartford",
+  "state": "CT",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-03-17",
+  "end": "2028-03-19",
+  "region": "Region 4",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Torrance",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-03-25",
+  "end": "2028-03-26",
+  "region": "Region 1",
+  "circuits": [
+   "RYC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10"
+  ],
+  "other": "",
+  "city": "Tigard",
+  "state": "OR",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-03-24",
+  "end": "2028-03-26",
+  "region": "Region 2",
+  "circuits": [
+   "ROC",
+   "RJC"
+  ],
+  "contested": [
+   "D1A",
+   "DV2",
+   "DV3",
+   "VET",
+   "JNR"
+  ],
+  "other": "",
+  "city": "Libertyville",
+  "state": "IL",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-03-24",
+  "end": "2028-03-26",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Atlantic City",
+  "state": "NJ",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-03-25",
+  "end": "2028-03-26",
+  "region": "Region 4",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Ontario",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-03-25",
+  "end": "2028-03-26",
+  "region": "Region 5",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Dallas",
+  "state": "TX",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-04-01",
+  "end": "2028-04-02",
+  "region": "Region 2",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "JNR",
+   "CDT"
+  ],
+  "other": "ADCMF, ADCMS, ADCME, ADCWF, ADCWS, ADCWE",
+  "city": "Saint Paul",
+  "state": "MN",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-04-01",
+  "end": "2028-04-02",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Norton",
+  "state": "MA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-04-01",
+  "end": "2028-04-02",
+  "region": "Region 4",
+  "circuits": [
+   "ROC",
+   "RJC"
+  ],
+  "contested": [
+   "D1A",
+   "DV2",
+   "VET",
+   "JNR"
+  ],
+  "other": "",
+  "city": "Henderson",
+  "state": "NV",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-04-08",
+  "end": "2028-04-09",
+  "region": "Region 1",
+  "circuits": [
+   "RJCC"
+  ],
+  "contested": [
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Tigard",
+  "state": "OR",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-04-07",
+  "end": "2028-04-09",
+  "region": "Region 4",
+  "circuits": [
+   "RYC",
+   "RCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Denver",
+  "state": "CO",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-04-08",
+  "end": "2028-04-09",
+  "region": "Region 5",
+  "circuits": [
+   "RYC",
+   "ROC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "D1A",
+   "DV2",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Houston",
+  "state": "TX",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-04-07",
+  "end": "2028-04-09",
+  "region": "Region 6",
+  "circuits": [
+   "SYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Fredericksburg",
+  "state": "VA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-04-21",
+  "end": "2028-04-24",
+  "region": "Region 1",
+  "circuits": [
+   "SYC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10"
+  ],
+  "other": "",
+  "city": "Bellevue",
+  "state": "WA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-04-21",
+  "end": "2028-04-23",
+  "region": "Region 3",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Suffern",
+  "state": "NY",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-04-22",
+  "end": "2028-04-23",
+  "region": "Region 6",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Tampa",
+  "state": "FL",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-04-28",
+  "end": "2028-04-30",
+  "region": "Region 1",
+  "circuits": [
+   "ROC"
+  ],
+  "contested": [
+   "D1A",
+   "DV2"
+  ],
+  "other": "",
+  "city": "Tigard",
+  "state": "OR",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-04-29",
+  "end": "2028-04-30",
+  "region": "Region 2",
+  "circuits": [
+   "RYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Libertyville",
+  "state": "IL",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-04-28",
+  "end": "2028-04-30",
+  "region": "Region 4",
+  "circuits": [
+   "SYC",
+   "RJCC"
+  ],
+  "contested": [
+   "Y14",
+   "Y12",
+   "Y10",
+   "Y8",
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "Anaheim",
+  "state": "CA",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "2028-04-29",
+  "end": "2028-04-30",
+  "region": "Region 5",
+  "circuits": [
+   "ROC",
+   "RJCC",
+   "RPC"
+  ],
+  "contested": [
+   "VET",
+   "JNR",
+   "CDT",
+   "PARA"
+  ],
+  "other": "",
+  "city": "Carrollton",
+  "state": "TX",
+  "notes": ""
+ },
+ {
+  "source": "usaf-regional",
+  "name": "",
+  "start": "",
+  "end": "",
+  "region": "Region 4",
+  "circuits": [
+   "RJCC"
+  ],
+  "contested": [
+   "JNR",
+   "CDT"
+  ],
+  "other": "",
+  "city": "La Jolla",
+  "state": "CA",
+  "notes": ""
+ }
+]
