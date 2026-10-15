@@ -305,7 +305,7 @@
    {
     "name": "Mixed Epee",
     "when": "Oct 17 12:30PM",
-    "estimate": "E1 · up to 25 pts",
+    "estimate": "D1 · up to 30 pts",
     "weapon": "epee",
     "gender": "mixed",
     "age": "None",
@@ -1715,7 +1715,7 @@
    {
     "name": "Vet Combined Men's Foil",
     "when": "Nov 15 11:00AM",
-    "estimate": "E1",
+    "estimate": "C1",
     "weapon": "foil",
     "gender": "men",
     "age": "VetCombined",
