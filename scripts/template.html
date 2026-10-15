@@ -183,11 +183,11 @@ footer{padding:32px 0 48px;color:var(--muted);font-size:13px}
 <!--STATS--><div class="wrap"><div class="tiles">{{TILES}}</div>
 </div><!--/STATS-->
 <nav class="sections"><div class="wrap">
-  <!--STATS--><a href="#results">Results</a><a href="#strength">Strength</a><a href="#stats">Season stats</a><!--/STATS--><a href="#soon">Next 6 months</a><a href="#upcoming">Local · Y14 ({{N_UP}})</a><a href="#circuit">Regional circuit</a><a href="#national">National</a>
+  <!--STATS--><a href="#results">Results</a><a href="#strength">Strength</a><a href="#stats">Season stats</a><!--/STATS--><!--PUBLIC--><a href="#soon">Next 6 months</a><a href="#upcoming">Local · Y14 ({{N_UP}})</a><a href="#circuit">Regional circuit</a><a href="#national">National</a><!--/PUBLIC-->
 </div></nav>
 
 <!--STATS--><p id="newbuild" hidden class="wrap stale" style="margin-top:12px">Newer data is available. <a href="" onclick="location.reload();return false">Reload</a> and enter the password.</p><!--/STATS-->
-<main class="wrap layout">
+<main class="wrap<!--PUBLIC--> layout<!--/PUBLIC-->">
   <div class="col-top">
   {{STALE}}
   <!--STATS-->
@@ -213,6 +213,7 @@ footer{padding:32px 0 48px;color:var(--muted);font-size:13px}
   </section>
   <!--/STATS-->
   </div>
+  <!--PUBLIC-->
   <aside class="side" id="soon">
     <div class="side-inner">
       <div class="kicker k-loc">Local</div><h2>AskFRED · next 6 months</h2>
@@ -258,6 +259,7 @@ footer{padding:32px 0 48px;color:var(--muted);font-size:13px}
     <div class="ngrid">{{NATIONAL}}</div>
   </section>
   </div>
+  <!--/PUBLIC-->
 </main>
 <footer class="wrap">
   Updated {{UPDATED}}. It rebuilds every day from <a href="https://fencingtracker.com">fencingtracker</a>, <a href="https://www.askfred.net">AskFRED</a> and <a href="https://www.usafencing.org/events-national">USA Fencing</a>.
@@ -268,7 +270,7 @@ footer{padding:32px 0 48px;color:var(--muted);font-size:13px}
 <!--STATS--><script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script><!--/STATS-->
 <script>
 (function(){
-  var chips=document.querySelectorAll('.chip[data-filter]'), more=document.getElementById('more'),
+  var chips=document.querySelectorAll('.chip[data-filter]'), more=document.getElementById('more')||document.createElement('button'),
       filter='all', expanded=false, LIMIT=15;
   function apply(){
     var n=0, total=0;
@@ -280,7 +282,7 @@ footer{padding:32px 0 48px;color:var(--muted);font-size:13px}
       t.classList.toggle('hidden',!show);
     });
     more.textContent=expanded?'Show fewer':'Show all '+total;
-    more.parentNode.classList.toggle('hidden',total<=LIMIT);
+    if(more.parentNode)more.parentNode.classList.toggle('hidden',total<=LIMIT);
   }
   chips.forEach(function(c){c.addEventListener('click',function(){
     chips.forEach(function(x){x.setAttribute('aria-pressed',x===c?'true':'false')});
