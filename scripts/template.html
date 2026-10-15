@@ -245,12 +245,13 @@ footer{padding:32px 0 48px;color:var(--muted);font-size:13px}
   </section>
 
   <section id="circuit">
-    <div class="kicker k-reg">Regional</div><h2>USA Fencing regional circuit</h2>
+    <div class="kicker k-reg">Regional</div><h2>USA Fencing regional circuit · next 6 months</h2>
     <p class="lede">SYC, RYC, RJCC and ROC tournaments nationwide with eligible Y14, Cadet, Junior or Division events. <span class="hl-key">Blue</span> rows are in {{REGION}}.</p>
     <div class="card scroll"><table>
       <thead><tr><th>Dates</th><th>Tournament</th><th>Location</th><th>Region</th><th>Circuit</th><th>Eligible events</th></tr></thead>
       <tbody>{{CIRCUIT_ROWS}}</tbody>
     </table></div>
+    <div style="text-align:center;margin-top:12px"><button class="chip" id="later" type="button" aria-expanded="false">Show {{N_LATER}} later events</button></div>
   </section>
 
   <section id="national">
@@ -292,6 +293,7 @@ footer{padding:32px 0 48px;color:var(--muted);font-size:13px}
   document.querySelectorAll('.mini').forEach(function(m){m.addEventListener('click',function(e){
     var t=document.getElementById(m.dataset.target); if(!t)return;
     e.preventDefault();
+    if(t.classList.contains('later')&&t.classList.contains('hidden'))showLater(true);
     if(t.classList.contains('hidden')&&t.classList.contains('tcard')){
       filter='all'; expanded=true;
       chips.forEach(function(x){x.setAttribute('aria-pressed',x.dataset.filter==='all'?'true':'false')});
@@ -302,6 +304,17 @@ footer{padding:32px 0 48px;color:var(--muted);font-size:13px}
     t.classList.add('flash'); setTimeout(function(){t.classList.remove('flash')},1600);
   })});
   apply();
+
+  var later=document.getElementById('later');
+  function showLater(on){
+    document.querySelectorAll('#circuit tr.later').forEach(function(r){r.classList.toggle('hidden',!on)});
+    if(later){later.setAttribute('aria-expanded',on?'true':'false');later.textContent=on?'Hide later events':later.dataset.label;}
+  }
+  if(later){
+    later.dataset.label=later.textContent;
+    if(!document.querySelector('#circuit tr.later'))later.parentNode.classList.add('hidden');
+    later.addEventListener('click',function(){showLater(later.getAttribute('aria-expanded')!=='true')});
+  }
 
   // Reload when a newer daily build is published (checked every 30 min and when the tab comes back).
   var BUILD='{{BUILD}}', BUILD_URL=/*<!--PUBLIC-->*/'build.txt'/*<!--/PUBLIC-->*//*<!--STATS-->*/'../build.txt'/*<!--/STATS-->*/;

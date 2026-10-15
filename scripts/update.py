@@ -867,7 +867,7 @@ def render(profile, events_cache, up, circuit, nat, stale):
     n_local = sum(1 for t in up if t["tier"] == "local")
 
     circ_rows = "".join(
-        f'<tr id="c-{i}" class="{"hl" if highlighted(r["state"], region=r["region"]) else ""}"><td>{esc(fmt_range(r["start"], r["end"]))}</td>'
+        f'<tr id="c-{i}" class="{"hl" if highlighted(r["state"], region=r["region"]) else ""}{" later hidden" if r["start"] > horizon else ""}"><td>{esc(fmt_range(r["start"], r["end"]))}</td>'
         f'<td>{("<a href=" + chr(34) + esc(r["askfred"]) + chr(34) + ">" + esc(r["name"]) + "</a>") if r["askfred"] else esc(r["name"] or "Name TBA")}'
         f'{"".join("<div class=" + chr(34) + "muted small" + chr(34) + ">" + esc(n) + "</div>" for n in r["notes_extra"])}</td>'
         f'<td>{esc(r["city"])}{", " if r["city"] and r["state"] else ""}{esc(r["state"])}</td>'
@@ -910,6 +910,7 @@ def render(profile, events_cache, up, circuit, nat, stale):
         "LOCAL_MI": str(HOME["local_miles"]),
         "RADIUS": str(HOME["askfred_radius_miles"]),
         "HOME": esc(HOME["location"]),
+        "N_LATER": str(sum(1 for r in circuit if r["start"] > horizon)),
         "CIRCUIT_ROWS": circ_rows or '<tr><td colspan="6" class="muted">No upcoming circuit events.</td></tr>',
         "REGION": esc(FENCER["region"]),
         "NATIONAL": nat_cards,
