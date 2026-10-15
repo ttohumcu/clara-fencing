@@ -831,7 +831,7 @@ def render(profile, events_cache, up, circuit, nat, stale):
   </div>
 </article>"""
 
-    horizon = (TODAY + dt.timedelta(days=90)).isoformat()
+    horizon = (TODAY + dt.timedelta(days=183)).isoformat()
     def city(venue):
         return venue.split(":", 1)[1].strip() if ":" in venue else venue
 
@@ -848,7 +848,7 @@ def render(profile, events_cache, up, circuit, nat, stale):
         return out + "</ul>" if out else f'<p class="muted">{empty}</p>'
 
     soon_html = archive([(t["start"], f't-{t["id"]}', city(t["venue"]) or t["name"], t["name"], "hl" if t.get("hl") else "")
-                         for t in up if t["start"] <= horizon], "Nothing in the next 3 months.")
+                         for t in up if t["start"] <= horizon], "Nothing in the next 6 months.")
     hl_items = [(r["start"], f"c-{i}", f'{r["city"]}, {r["state"]}', f'{r["name"] or "Name TBA"} · {"/".join(r["circuits"])}', "hl")
                 for i, r in enumerate(circuit) if highlighted(r["state"], region=r["region"]) and r["start"] > horizon]
     hl_side = ""
@@ -862,7 +862,7 @@ def render(profile, events_cache, up, circuit, nat, stale):
                           f'{r["city"]}, {r["state"]}' if r["city"] and r["state"] else (r["city"] or r["state"] or r["name"]),
                           f'{r["name"] or "Name TBA"} · {"/".join(r["circuits"])} · {r["region"]}',
                           "hl" if highlighted(r["state"], region=r["region"]) else "")
-                         for i, r in enumerate(circuit) if r["start"] <= horizon], "No circuit events in the next 3 months.")
+                         for i, r in enumerate(circuit) if r["start"] <= horizon], "No circuit events in the next 6 months.")
     up_html = "".join(tcard(t) for t in up) or '<p class="muted">No eligible tournaments found right now.</p>'
     n_local = sum(1 for t in up if t["tier"] == "local")
 

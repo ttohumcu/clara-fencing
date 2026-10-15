@@ -90,7 +90,6 @@ tr.flash td{box-shadow:inset 0 0 0 9999px rgba(200,16,46,.12)}
   .side{grid-column:2}
   #soon{grid-row:1}
   .side-left{grid-row:2 / span 2}
-  .side-left .side-inner{position:sticky;top:56px;max-height:calc(100vh - 72px);overflow-y:auto;padding-right:4px}
 }
 @media (min-width:1280px){
   .wrap{max-width:1480px}
@@ -100,7 +99,6 @@ tr.flash td{box-shadow:inset 0 0 0 9999px rgba(200,16,46,.12)}
   .side{grid-row:1 / span 2}
   #soon{grid-column:3;grid-row:1 / span 2}
   .side-left{grid-column:1;grid-row:1 / span 2}
-  .side-inner{position:sticky;top:56px;max-height:calc(100vh - 72px);overflow-y:auto;padding-right:4px}
 }
 .tcard{scroll-margin-top:60px;transition:box-shadow .3s}
 .tcard.flash{box-shadow:0 0 0 3px var(--accent)}
@@ -185,7 +183,7 @@ footer{padding:32px 0 48px;color:var(--muted);font-size:13px}
 <!--STATS--><div class="wrap"><div class="tiles">{{TILES}}</div>
 </div><!--/STATS-->
 <nav class="sections"><div class="wrap">
-  <!--STATS--><a href="#results">Results</a><a href="#strength">Strength</a><a href="#stats">Season stats</a><!--/STATS--><a href="#soon">Next 3 months</a><a href="#upcoming">Local · Y14 ({{N_UP}})</a><a href="#circuit">Regional circuit</a><a href="#national">National</a>
+  <!--STATS--><a href="#results">Results</a><a href="#strength">Strength</a><a href="#stats">Season stats</a><!--/STATS--><a href="#soon">Next 6 months</a><a href="#upcoming">Local · Y14 ({{N_UP}})</a><a href="#circuit">Regional circuit</a><a href="#national">National</a>
 </div></nav>
 
 <!--STATS--><p id="newbuild" hidden class="wrap stale" style="margin-top:12px">Newer data is available. <a href="" onclick="location.reload();return false">Reload</a> and enter the password.</p><!--/STATS-->
@@ -217,14 +215,14 @@ footer{padding:32px 0 48px;color:var(--muted);font-size:13px}
   </div>
   <aside class="side" id="soon">
     <div class="side-inner">
-      <div class="kicker k-loc">Local</div><h2>AskFRED · next 3 months</h2>
+      <div class="kicker k-loc">Local</div><h2>AskFRED · next 6 months</h2>
       <p class="lede small">Y14 saber tournaments. Tap one for details. <span class="hl-key">Blue</span> marks {{HL_LABEL}}.</p>
       <nav class="archive">{{SOON}}</nav>
     </div>
   </aside>
   <aside class="side side-left" id="circuit-side">
     <div class="side-inner">
-      <div class="kicker k-reg">Regional</div><h2>USA Fencing circuit · next 3 months</h2>
+      <div class="kicker k-reg">Regional</div><h2>USA Fencing circuit · next 6 months</h2>
       <p class="lede small">USA Fencing SYC, RYC, RJCC and ROC events with eligible Y14, Cadet, Junior or Division events. <span class="hl-key">Blue</span> marks {{HL_LABEL}}.</p>
       <nav class="archive">{{CIRC_SIDE}}</nav>
     </div>
