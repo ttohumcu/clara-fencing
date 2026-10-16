@@ -170,7 +170,7 @@
    {
     "name": "Senior Mixed Epee",
     "when": "Oct 18 1:30PM",
-    "estimate": "U",
+    "estimate": "E1 · up to 25 pts",
     "weapon": "epee",
     "gender": "mixed",
     "age": "Senior",
@@ -305,7 +305,7 @@
    {
     "name": "Mixed Epee",
     "when": "Oct 17 12:30PM",
-    "estimate": "D1 · up to 30 pts",
+    "estimate": "E1 · up to 25 pts",
     "weapon": "epee",
     "gender": "mixed",
     "age": "None",
@@ -640,7 +640,7 @@
    {
     "name": "Senior Women's Epee",
     "when": "Nov 1 11:00AM",
-    "estimate": "U",
+    "estimate": "E1 · up to 25 pts",
     "weapon": "epee",
     "gender": "women",
     "age": "Senior",
@@ -1196,6 +1196,141 @@
  },
  {
   "source": "askfred",
+  "id": "d52adeed-03de-4e89-993f-fb76abfb7648",
+  "name": "JO Qualifier for the Central Florida Division 2026",
+  "url": "https://www.askfred.net/tournaments/d52adeed-03de-4e89-993f-fb76abfb7648",
+  "register_url": "https://www.askfred.net/tournaments/d52adeed-03de-4e89-993f-fb76abfb7648/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/d52adeed-03de-4e89-993f-fb76abfb7648/preregistrations",
+  "registration_open": true,
+  "start": "2026-11-14",
+  "end": "2026-11-14",
+  "venue": "Winter Garden Fencing Academy: Winter Garden, FL",
+  "distance": 103,
+  "events": [
+   {
+    "name": "Cadet Women's Saber",
+    "when": "Nov 14 6:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-14 06:00"
+   },
+   {
+    "name": "Cadet Men's Epee",
+    "when": "Nov 14 6:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-14 06:00"
+   },
+   {
+    "name": "Cadet Women's Foil",
+    "when": "Nov 14 6:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-14 06:00"
+   },
+   {
+    "name": "Junior Women's Foil",
+    "when": "Nov 14 6:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "women",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-14 06:00"
+   },
+   {
+    "name": "Junior Men's Foil",
+    "when": "Nov 14 6:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-14 06:00"
+   },
+   {
+    "name": "Cadet Men's Foil",
+    "when": "Nov 14 6:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-14 06:00"
+   },
+   {
+    "name": "Junior Women's Epee",
+    "when": "Nov 14 6:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-14 06:00"
+   },
+   {
+    "name": "Cadet Men's Saber",
+    "when": "Nov 14 6:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-14 06:00"
+   },
+   {
+    "name": "Junior Men's Saber",
+    "when": "Nov 14 6:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-14 06:00"
+   },
+   {
+    "name": "Cadet Women's Epee",
+    "when": "Nov 14 6:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
+    "start": "2026-11-14 06:00"
+   },
+   {
+    "name": "Junior Men's Epee",
+    "when": "Nov 14 6:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-14 06:00"
+   },
+   {
+    "name": "Junior Women's Saber",
+    "when": "Nov 14 6:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Junior",
+    "rating_limit": "Open",
+    "start": "2026-11-14 06:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
   "id": "a870ff0c-cba2-4de1-b11a-114a0850107d",
   "name": "FIU 2nd Annual Blue and Gold (FIFC #1)",
   "url": "https://www.askfred.net/tournaments/a870ff0c-cba2-4de1-b11a-114a0850107d",
@@ -1445,7 +1580,7 @@
    {
     "name": "Division IA Women’s Foil",
     "when": "Nov 14 9:00AM",
-    "estimate": "U · up to 100 pts",
+    "estimate": "E1 · up to 100 pts",
     "weapon": "foil",
     "gender": "women",
     "age": "Senior",
@@ -1515,7 +1650,7 @@
    {
     "name": "Cadet Women's Foil",
     "when": "Nov 14 11:45AM",
-    "estimate": "U · up to 60 pts",
+    "estimate": "E1 · up to 60 pts",
     "weapon": "foil",
     "gender": "women",
     "age": "Cadet",
@@ -1675,7 +1810,7 @@
    {
     "name": "Division IA Women’s Epee",
     "when": "Nov 15 9:45AM",
-    "estimate": "E1 · up to 100 pts",
+    "estimate": "A1 · up to 100 pts",
     "weapon": "epee",
     "gender": "women",
     "age": "Senior",
