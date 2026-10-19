@@ -1,76 +1,6 @@
 {
- "generated": "2026-10-18T13:59:07.632844+00:00",
+ "generated": "2026-10-19T16:58:35.368586+00:00",
  "askfred": [
-  {
-   "source": "askfred",
-   "id": "c15aa4df-b206-40f2-95a9-e2f67683cf1d",
-   "name": "ALLE Fall Saber Cup'26 (Y-8 Mx, Y-10 Mx, Y-12 Mx, Y-14 Mx)",
-   "url": "https://www.askfred.net/tournaments/c15aa4df-b206-40f2-95a9-e2f67683cf1d",
-   "register_url": "https://www.askfred.net/tournaments/c15aa4df-b206-40f2-95a9-e2f67683cf1d/preregister",
-   "whos_coming_url": "https://www.askfred.net/tournaments/c15aa4df-b206-40f2-95a9-e2f67683cf1d/preregistrations",
-   "registration_open": true,
-   "start": "2026-10-18",
-   "end": "2026-10-18",
-   "venue": "Alle Fencing Club: Fort Lauderdale, FL",
-   "distance": 164,
-   "events": [
-    {
-     "name": "Y8 Mixed Saber",
-     "when": "Oct 18 9:00AM",
-     "estimate": "U",
-     "weapon": "saber",
-     "gender": "mixed",
-     "age": "Y8",
-     "rating_limit": "Open",
-     "start": "2026-12-06 09:00"
-    },
-    {
-     "name": "Y10 Mixed Saber",
-     "when": "Oct 18 11:00AM",
-     "estimate": "U",
-     "weapon": "saber",
-     "gender": "mixed",
-     "age": "Y10",
-     "rating_limit": "Open",
-     "start": "2026-12-06 11:00"
-    },
-    {
-     "name": "Y12 Mixed Saber",
-     "when": "Oct 18 1:00PM",
-     "estimate": "U",
-     "weapon": "saber",
-     "gender": "mixed",
-     "age": "Y12",
-     "rating_limit": "Open",
-     "start": "2026-12-06 13:00"
-    },
-    {
-     "name": "Y14 Mixed Saber",
-     "when": "Oct 18 3:00PM",
-     "estimate": "U",
-     "weapon": "saber",
-     "gender": "mixed",
-     "age": "Y14",
-     "rating_limit": "Open",
-     "start": "2026-12-06 15:00"
-    }
-   ],
-   "eligible": [
-    {
-     "name": "Y14 Mixed Saber",
-     "when": "Oct 18 3:00PM",
-     "estimate": "U",
-     "weapon": "saber",
-     "gender": "mixed",
-     "age": "Y14",
-     "rating_limit": "Open",
-     "start": "2026-12-06 15:00"
-    }
-   ],
-   "tags": [],
-   "tier": "regional",
-   "hl": true
-  },
   {
    "source": "askfred",
    "id": "546829f5-71db-48bf-aa1a-2a3d0f3bc35c",
@@ -1629,7 +1559,7 @@
     {
      "name": "Y14 Men's Saber",
      "when": "Feb 6 8:30AM",
-     "estimate": "U",
+     "estimate": "NR",
      "weapon": "saber",
      "gender": "men",
      "age": "Y14",
@@ -1759,7 +1689,7 @@
     {
      "name": "Y12 Men's Saber",
      "when": "Feb 7 8:30AM",
-     "estimate": "U",
+     "estimate": "NR",
      "weapon": "saber",
      "gender": "men",
      "age": "Y12",
@@ -2091,96 +2021,6 @@
   }
  ],
  "circuit": [
-  {
-   "source": "usaf-regional",
-   "name": "Rain City Fall RJCC+Div II ROC",
-   "start": "2026-10-16",
-   "end": "2026-10-18",
-   "region": "Region 1",
-   "circuits": [
-    "ROC",
-    "RJCC"
-   ],
-   "contested": [
-    "DV2",
-    "JNR",
-    "CDT"
-   ],
-   "other": "",
-   "city": "Bellevue",
-   "state": "WA",
-   "notes": "",
-   "eligible_codes": [
-    "DV2",
-    "JNR",
-    "CDT"
-   ],
-   "own_region": false,
-   "notes_extra": [],
-   "askfred": null
-  },
-  {
-   "source": "usaf-regional",
-   "name": "Nashville Challenge RYC/RJCC",
-   "start": "2026-10-17",
-   "end": "2026-10-18",
-   "region": "Region 6",
-   "circuits": [
-    "RYC",
-    "RJCC"
-   ],
-   "contested": [
-    "Y14",
-    "Y12",
-    "Y10",
-    "Y8",
-    "JNR",
-    "CDT"
-   ],
-   "other": "",
-   "city": "Nashville",
-   "state": "TN",
-   "notes": "",
-   "eligible_codes": [
-    "Y14",
-    "JNR",
-    "CDT"
-   ],
-   "own_region": true,
-   "notes_extra": [],
-   "askfred": null
-  },
-  {
-   "source": "usaf-regional",
-   "name": "Battle in Space City ROC/RJCC",
-   "start": "2026-10-17",
-   "end": "2026-10-18",
-   "region": "Region 5",
-   "circuits": [
-    "ROC",
-    "RJCC"
-   ],
-   "contested": [
-    "D1A",
-    "DV2",
-    "JNR",
-    "CDT",
-    "VET"
-   ],
-   "other": "",
-   "city": "Houston",
-   "state": "TX",
-   "notes": "",
-   "eligible_codes": [
-    "D1A",
-    "DV2",
-    "JNR",
-    "CDT"
-   ],
-   "own_region": false,
-   "notes_extra": [],
-   "askfred": null
-  },
   {
    "source": "usaf-regional",
    "name": "AFM RYC/RJCC/ROC Div1A/Div2/Vet",

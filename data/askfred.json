@@ -379,9 +379,9 @@
   "id": "c15aa4df-b206-40f2-95a9-e2f67683cf1d",
   "name": "ALLE Fall Saber Cup'26 (Y-8 Mx, Y-10 Mx, Y-12 Mx, Y-14 Mx)",
   "url": "https://www.askfred.net/tournaments/c15aa4df-b206-40f2-95a9-e2f67683cf1d",
-  "register_url": "https://www.askfred.net/tournaments/c15aa4df-b206-40f2-95a9-e2f67683cf1d/preregister",
+  "register_url": "",
   "whos_coming_url": "https://www.askfred.net/tournaments/c15aa4df-b206-40f2-95a9-e2f67683cf1d/preregistrations",
-  "registration_open": true,
+  "registration_open": false,
   "start": "2026-10-18",
   "end": "2026-10-18",
   "venue": "Alle Fencing Club: Fort Lauderdale, FL",
@@ -580,7 +580,7 @@
    {
     "name": "Senior Women's Foil",
     "when": "Oct 31 10:30AM",
-    "estimate": "U",
+    "estimate": "E1 · up to 25 pts",
     "weapon": "foil",
     "gender": "women",
     "age": "Senior",
@@ -600,7 +600,7 @@
    {
     "name": "C & Under (Div 2) Senior Mixed Foil",
     "when": "Oct 31 1:00PM",
-    "estimate": "E1 · up to 25 pts",
+    "estimate": "C1 · up to 35 pts",
     "weapon": "foil",
     "gender": "mixed",
     "age": "Senior",
@@ -880,7 +880,7 @@
    {
     "name": "Unrated Senior Mixed Epee",
     "when": "Nov 8 11:00AM",
-    "estimate": "U",
+    "estimate": "E1 · up to 25 pts",
     "weapon": "epee",
     "gender": "mixed",
     "age": "Senior",
@@ -1750,7 +1750,7 @@
    {
     "name": "Division III Women’s Epee",
     "when": "Nov 14 3:45PM",
-    "estimate": "U · up to 20 pts",
+    "estimate": "E1 · up to 20 pts",
     "weapon": "epee",
     "gender": "women",
     "age": "Senior",
@@ -3955,7 +3955,7 @@
    {
     "name": "Y14 Men's Saber",
     "when": "Feb 6 8:30AM",
-    "estimate": "U",
+    "estimate": "NR",
     "weapon": "saber",
     "gender": "men",
     "age": "Y14",
@@ -4085,7 +4085,7 @@
    {
     "name": "Y12 Men's Saber",
     "when": "Feb 7 8:30AM",
-    "estimate": "U",
+    "estimate": "NR",
     "weapon": "saber",
     "gender": "men",
     "age": "Y12",
