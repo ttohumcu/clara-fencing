@@ -181,106 +181,6 @@
  },
  {
   "source": "askfred",
-  "id": "285570e2-0e8c-4c8d-a9a7-8a1158ec65ef",
-  "name": "LA Div: 3 Weapon Open w E & U Foil",
-  "url": "https://www.askfred.net/tournaments/285570e2-0e8c-4c8d-a9a7-8a1158ec65ef",
-  "register_url": "",
-  "whos_coming_url": "https://www.askfred.net/tournaments/285570e2-0e8c-4c8d-a9a7-8a1158ec65ef/preregistrations",
-  "registration_open": false,
-  "start": "2026-10-17",
-  "end": "2026-10-17",
-  "venue": "Riverside Hilton: New Orleans, LA",
-  "distance": 491,
-  "events": [
-   {
-    "name": "Senior Mixed Foil",
-    "when": "Oct 17 9:45AM",
-    "estimate": "E1 · up to 25 pts",
-    "weapon": "foil",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Open",
-    "start": "2026-10-17 09:45"
-   },
-   {
-    "name": "Senior Mixed Saber",
-    "when": "Oct 17 10:30AM",
-    "estimate": "E1 · up to 25 pts",
-    "weapon": "saber",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Open",
-    "start": "2026-10-17 10:30"
-   },
-   {
-    "name": "Unrated Mixed Foil",
-    "when": "Oct 17 11:30AM",
-    "estimate": "E1 · up to 25 pts",
-    "weapon": "foil",
-    "gender": "mixed",
-    "age": "None",
-    "rating_limit": "Unrated",
-    "start": "2026-10-17 11:30"
-   },
-   {
-    "name": "Senior Mixed Epee",
-    "when": "Oct 17 12:30PM",
-    "estimate": "D1 · up to 30 pts",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Open",
-    "start": "2026-10-17 12:30"
-   }
-  ]
- },
- {
-  "source": "askfred",
-  "id": "d0c15524-488a-4139-940f-633098aa8e31",
-  "name": "3Weapon Youth 12 & Under Demo",
-  "url": "https://www.askfred.net/tournaments/d0c15524-488a-4139-940f-633098aa8e31",
-  "register_url": "",
-  "whos_coming_url": "https://www.askfred.net/tournaments/d0c15524-488a-4139-940f-633098aa8e31/preregistrations",
-  "registration_open": false,
-  "start": "2026-10-17",
-  "end": "2026-10-17",
-  "venue": "Riverside Hilton: New Orleans, LA",
-  "distance": 491,
-  "events": [
-   {
-    "name": "Unsanctioned Y12 Mixed Epee",
-    "when": "Oct 17 9:00AM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Y12",
-    "rating_limit": "Open",
-    "start": "2026-10-17 09:00"
-   },
-   {
-    "name": "Unsanctioned Y12 Mixed Foil",
-    "when": "Oct 17 9:30AM",
-    "estimate": "",
-    "weapon": "foil",
-    "gender": "mixed",
-    "age": "Y12",
-    "rating_limit": "Open",
-    "start": "2026-10-17 09:30"
-   },
-   {
-    "name": "Unsanctioned Y12 Mixed Saber",
-    "when": "Oct 17 10:00AM",
-    "estimate": "",
-    "weapon": "saber",
-    "gender": "mixed",
-    "age": "Y12",
-    "rating_limit": "Open",
-    "start": "2026-10-17 10:00"
-   }
-  ]
- },
- {
-  "source": "askfred",
   "id": "68b5c0fb-4577-49df-87d8-f26cf756ce6f",
   "name": "Fall Frolic 2026",
   "url": "https://www.askfred.net/tournaments/68b5c0fb-4577-49df-87d8-f26cf756ce6f",
@@ -1680,7 +1580,7 @@
    {
     "name": "Cadet Women's Epee",
     "when": "Nov 14 12:45PM",
-    "estimate": "U · up to 60 pts",
+    "estimate": "E1 · up to 60 pts",
     "weapon": "epee",
     "gender": "women",
     "age": "Cadet",
@@ -1800,7 +1700,7 @@
    {
     "name": "Junior Women's Foil",
     "when": "Nov 15 8:45AM",
-    "estimate": "U · up to 80 pts",
+    "estimate": "E1 · up to 80 pts",
     "weapon": "foil",
     "gender": "women",
     "age": "Junior",
@@ -2936,6 +2836,106 @@
     "age": "Senior",
     "rating_limit": "Div1",
     "start": "2026-12-13 15:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "5a554c9b-d1c6-4eff-901e-05ba728253b9",
+  "name": "The Rudolph Memorial Youth 3 Weapon Demo",
+  "url": "https://www.askfred.net/tournaments/5a554c9b-d1c6-4eff-901e-05ba728253b9",
+  "register_url": "https://www.askfred.net/tournaments/5a554c9b-d1c6-4eff-901e-05ba728253b9/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/5a554c9b-d1c6-4eff-901e-05ba728253b9/preregistrations",
+  "registration_open": true,
+  "start": "2026-12-19",
+  "end": "2026-12-19",
+  "venue": "Italian American Bocce Club: Metairie, LA",
+  "distance": 498,
+  "events": [
+   {
+    "name": "Unsanctioned Y12 Mixed Epee",
+    "when": "Dec 19 8:15AM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-12-19 08:15"
+   },
+   {
+    "name": "Unsanctioned Y12 Mixed Foil",
+    "when": "Dec 19 8:30AM",
+    "estimate": "",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-12-19 08:30"
+   },
+   {
+    "name": "Unsanctioned Y12 Mixed Saber",
+    "when": "Dec 19 11:00AM",
+    "estimate": "",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-12-19 11:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "6e3cfc58-83eb-4e19-ac22-77defadd1755",
+  "name": "LA Div: Rodolph Memorial 3 weapon Open w/ U rated epee",
+  "url": "https://www.askfred.net/tournaments/6e3cfc58-83eb-4e19-ac22-77defadd1755",
+  "register_url": "",
+  "whos_coming_url": "https://www.askfred.net/tournaments/6e3cfc58-83eb-4e19-ac22-77defadd1755/preregistrations",
+  "registration_open": false,
+  "start": "2026-12-19",
+  "end": "2026-12-19",
+  "venue": "Italian American Bocce Club: Metairie, LA",
+  "distance": 498,
+  "events": [
+   {
+    "name": "Senior Mixed Saber",
+    "when": "Dec 19 9:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-12-19 09:00"
+   },
+   {
+    "name": "Senior Mixed Foil",
+    "when": "Dec 19 9:45AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-12-19 09:45"
+   },
+   {
+    "name": "Senior Mixed Epee",
+    "when": "Dec 19 11:45AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-12-19 11:45"
+   },
+   {
+    "name": "Unrated Senior Mixed Epee",
+    "when": "Dec 19 1:15PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Unrated",
+    "start": "2026-12-19 13:15"
    }
   ]
  },
