@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T15:02:16.372909+00:00",
+ "generated": "2026-10-21T15:12:45.220168+00:00",
  "askfred": [
   {
    "source": "askfred",
@@ -135,6 +135,86 @@
      "age": "Y14",
      "rating_limit": "Open",
      "start": "2026-12-06 15:00"
+    }
+   ],
+   "tags": [],
+   "tier": "regional",
+   "hl": true
+  },
+  {
+   "source": "askfred",
+   "id": "c04347e4-62b7-45d9-a0e4-608fda886687",
+   "name": "****NFFC CLUB MEMBERS ONLY****NFFC CUP I 2026-2027",
+   "url": "https://www.askfred.net/tournaments/c04347e4-62b7-45d9-a0e4-608fda886687",
+   "register_url": "https://www.askfred.net/tournaments/c04347e4-62b7-45d9-a0e4-608fda886687/preregister",
+   "whos_coming_url": "https://www.askfred.net/tournaments/c04347e4-62b7-45d9-a0e4-608fda886687/preregistrations",
+   "registration_open": true,
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "venue": "Holey Ballz: Si. Augustine, FL",
+   "distance": 197,
+   "events": [
+    {
+     "name": "Unsanctioned Y8 Mixed Saber",
+     "when": "Dec 6 4:00AM",
+     "estimate": "",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y8",
+     "rating_limit": "Open",
+     "start": "2026-12-06 04:00"
+    },
+    {
+     "name": "Unsanctioned Y12 Mixed Saber",
+     "when": "Dec 6 4:00AM",
+     "estimate": "",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2026-12-06 04:00"
+    },
+    {
+     "name": "Unsanctioned Senior Mixed Saber",
+     "when": "Dec 6 5:30AM",
+     "estimate": "",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Senior",
+     "rating_limit": "Open",
+     "start": "2026-12-06 05:30"
+    },
+    {
+     "name": "Unsanctioned Y10 Mixed Saber",
+     "when": "Dec 6 5:30AM",
+     "estimate": "",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2026-12-06 05:30"
+    },
+    {
+     "name": "Unsanctioned Y14 Mixed Saber",
+     "when": "Dec 6 5:30AM",
+     "estimate": "",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2026-12-06 05:30"
+    }
+   ],
+   "eligible": [
+    {
+     "name": "Unsanctioned Y14 Mixed Saber",
+     "when": "Dec 6 5:30AM",
+     "estimate": "",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2026-12-06 05:30"
     }
    ],
    "tags": [],
@@ -1559,7 +1639,7 @@
     {
      "name": "Y14 Men's Saber",
      "when": "Feb 6 8:30AM",
-     "estimate": "NR",
+     "estimate": "U",
      "weapon": "saber",
      "gender": "men",
      "age": "Y14",
@@ -1689,7 +1769,7 @@
     {
      "name": "Y12 Men's Saber",
      "when": "Feb 7 8:30AM",
-     "estimate": "NR",
+     "estimate": "U",
      "weapon": "saber",
      "gender": "men",
      "age": "Y12",

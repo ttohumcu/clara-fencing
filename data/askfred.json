@@ -1,336 +1,6 @@
 [
  {
   "source": "askfred",
-  "id": "78304d23-ab1c-42bd-8716-49148bb22039",
-  "name": "Emory's 5th Annual Dooley Duel",
-  "url": "https://www.askfred.net/tournaments/78304d23-ab1c-42bd-8716-49148bb22039",
-  "register_url": "",
-  "whos_coming_url": "https://www.askfred.net/tournaments/78304d23-ab1c-42bd-8716-49148bb22039/preregistrations",
-  "registration_open": false,
-  "start": "2026-10-17",
-  "end": "2026-10-18",
-  "venue": "Emory SAAC: Decatur, GA",
-  "distance": 459,
-  "events": [
-   {
-    "name": "Unsanctioned Mixed Epee",
-    "when": "Oct 17 10:30AM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "None",
-    "rating_limit": "Open",
-    "start": "2026-10-17 10:30"
-   },
-   {
-    "name": "Unsanctioned Mixed Epee Team",
-    "when": "Oct 17 1:30PM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "None",
-    "rating_limit": "Open",
-    "start": "2026-10-17 13:30"
-   },
-   {
-    "name": "Unsanctioned Mixed Foil",
-    "when": "Oct 18 10:30AM",
-    "estimate": "",
-    "weapon": "foil",
-    "gender": "mixed",
-    "age": "None",
-    "rating_limit": "Open",
-    "start": "2026-10-18 10:30"
-   },
-   {
-    "name": "Unsanctioned Mixed Saber",
-    "when": "Oct 18 12:30PM",
-    "estimate": "",
-    "weapon": "saber",
-    "gender": "mixed",
-    "age": "None",
-    "rating_limit": "Open",
-    "start": "2026-10-18 12:30"
-   },
-   {
-    "name": "Unsanctioned Mixed Foil Team",
-    "when": "Oct 18 1:30PM",
-    "estimate": "",
-    "weapon": "foil",
-    "gender": "mixed",
-    "age": "None",
-    "rating_limit": "Open",
-    "start": "2026-10-18 13:30"
-   },
-   {
-    "name": "Unsanctioned Mixed Saber Team",
-    "when": "Oct 18 3:00PM",
-    "estimate": "",
-    "weapon": "saber",
-    "gender": "mixed",
-    "age": "None",
-    "rating_limit": "Open",
-    "start": "2026-10-18 15:00"
-   }
-  ]
- },
- {
-  "source": "askfred",
-  "id": "e060e0fb-9c90-4372-9248-127abd0ff22b",
-  "name": "Crazy Sox Challenge",
-  "url": "https://www.askfred.net/tournaments/e060e0fb-9c90-4372-9248-127abd0ff22b",
-  "register_url": "",
-  "whos_coming_url": "https://www.askfred.net/tournaments/e060e0fb-9c90-4372-9248-127abd0ff22b/preregistrations",
-  "registration_open": false,
-  "start": "2026-10-17",
-  "end": "2026-10-18",
-  "venue": "Stoccata Fencing Academy: Altamonte Springs, FL",
-  "distance": 114,
-  "events": [
-   {
-    "name": "Senior Mixed Foil",
-    "when": "Oct 17 10:00AM",
-    "estimate": "E1 · up to 25 pts",
-    "weapon": "foil",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Open",
-    "start": "2026-10-17 10:00"
-   },
-   {
-    "name": "Unrated Senior Mixed Saber",
-    "when": "Oct 17 1:00PM",
-    "estimate": "E1 · up to 25 pts",
-    "weapon": "saber",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Unrated",
-    "start": "2026-10-17 13:00"
-   },
-   {
-    "name": "Unrated Senior Mixed Foil",
-    "when": "Oct 17 1:00PM",
-    "estimate": "E1 · up to 25 pts",
-    "weapon": "foil",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Unrated",
-    "start": "2026-10-17 13:00"
-   },
-   {
-    "name": "Senior Mixed Saber",
-    "when": "Oct 17 3:30PM",
-    "estimate": "C1 · up to 35 pts",
-    "weapon": "saber",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Open",
-    "start": "2026-10-17 15:30"
-   },
-   {
-    "name": "Y12 Mixed Saber",
-    "when": "Oct 18 9:00AM",
-    "estimate": "U",
-    "weapon": "saber",
-    "gender": "mixed",
-    "age": "Y12",
-    "rating_limit": "Open",
-    "start": "2026-10-18 09:00"
-   },
-   {
-    "name": "Y10 Mixed Foil",
-    "when": "Oct 18 9:00AM",
-    "estimate": "U",
-    "weapon": "foil",
-    "gender": "mixed",
-    "age": "Y10",
-    "rating_limit": "Open",
-    "start": "2026-10-18 09:00"
-   },
-   {
-    "name": "Y12 Mixed Foil",
-    "when": "Oct 18 11:00AM",
-    "estimate": "NR",
-    "weapon": "foil",
-    "gender": "mixed",
-    "age": "Y12",
-    "rating_limit": "Open",
-    "start": "2026-10-18 11:00"
-   },
-   {
-    "name": "Unrated Senior Mixed Epee",
-    "when": "Oct 18 11:00AM",
-    "estimate": "E1 · up to 25 pts",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Unrated",
-    "start": "2026-10-18 11:00"
-   },
-   {
-    "name": "Senior Mixed Epee",
-    "when": "Oct 18 1:30PM",
-    "estimate": "E1 · up to 25 pts",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Open",
-    "start": "2026-10-18 13:30"
-   }
-  ]
- },
- {
-  "source": "askfred",
-  "id": "68b5c0fb-4577-49df-87d8-f26cf756ce6f",
-  "name": "Fall Frolic 2026",
-  "url": "https://www.askfred.net/tournaments/68b5c0fb-4577-49df-87d8-f26cf756ce6f",
-  "register_url": "",
-  "whos_coming_url": "https://www.askfred.net/tournaments/68b5c0fb-4577-49df-87d8-f26cf756ce6f/preregistrations",
-  "registration_open": false,
-  "start": "2026-10-17",
-  "end": "2026-10-18",
-  "venue": "Augusta Fencers Club : Augusta, GA",
-  "distance": 425,
-  "events": [
-   {
-    "name": "Unrated Mixed Epee",
-    "when": "Oct 17 9:30AM",
-    "estimate": "E1 · up to 25 pts",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "None",
-    "rating_limit": "Unrated",
-    "start": "2026-10-17 09:30"
-   },
-   {
-    "name": "Mixed Epee",
-    "when": "Oct 17 12:30PM",
-    "estimate": "E1 · up to 25 pts",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "None",
-    "rating_limit": "Open",
-    "start": "2026-10-17 12:30"
-   },
-   {
-    "name": "Y14 Mixed Epee",
-    "when": "Oct 17 3:00PM",
-    "estimate": "NR",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Y14",
-    "rating_limit": "Open",
-    "start": "2026-10-17 15:00"
-   },
-   {
-    "name": "Unrated Mixed Foil",
-    "when": "Oct 18 9:00AM",
-    "estimate": "E1 · up to 25 pts",
-    "weapon": "foil",
-    "gender": "mixed",
-    "age": "None",
-    "rating_limit": "Unrated",
-    "start": "2026-10-18 09:00"
-   },
-   {
-    "name": "Mixed Saber",
-    "when": "Oct 18 10:00AM",
-    "estimate": "E1 · up to 25 pts",
-    "weapon": "saber",
-    "gender": "mixed",
-    "age": "None",
-    "rating_limit": "Open",
-    "start": "2026-10-18 10:00"
-   },
-   {
-    "name": "Y12 Mixed Foil",
-    "when": "Oct 18 12:00PM",
-    "estimate": "U",
-    "weapon": "foil",
-    "gender": "mixed",
-    "age": "Y12",
-    "rating_limit": "Open",
-    "start": "2026-10-18 12:00"
-   },
-   {
-    "name": "Y12 Mixed Saber",
-    "when": "Oct 18 1:30PM",
-    "estimate": "U",
-    "weapon": "saber",
-    "gender": "mixed",
-    "age": "Y12",
-    "rating_limit": "Open",
-    "start": "2026-10-18 13:30"
-   },
-   {
-    "name": "Mixed Foil",
-    "when": "Oct 18 2:00PM",
-    "estimate": "D1 · up to 30 pts",
-    "weapon": "foil",
-    "gender": "mixed",
-    "age": "None",
-    "rating_limit": "Open",
-    "start": "2026-10-18 14:00"
-   }
-  ]
- },
- {
-  "source": "askfred",
-  "id": "c15aa4df-b206-40f2-95a9-e2f67683cf1d",
-  "name": "ALLE Fall Saber Cup'26 (Y-8 Mx, Y-10 Mx, Y-12 Mx, Y-14 Mx)",
-  "url": "https://www.askfred.net/tournaments/c15aa4df-b206-40f2-95a9-e2f67683cf1d",
-  "register_url": "",
-  "whos_coming_url": "https://www.askfred.net/tournaments/c15aa4df-b206-40f2-95a9-e2f67683cf1d/preregistrations",
-  "registration_open": false,
-  "start": "2026-10-18",
-  "end": "2026-10-18",
-  "venue": "Alle Fencing Club: Fort Lauderdale, FL",
-  "distance": 164,
-  "events": [
-   {
-    "name": "Y8 Mixed Saber",
-    "when": "Oct 18 9:00AM",
-    "estimate": "U",
-    "weapon": "saber",
-    "gender": "mixed",
-    "age": "Y8",
-    "rating_limit": "Open",
-    "start": "2026-12-06 09:00"
-   },
-   {
-    "name": "Y10 Mixed Saber",
-    "when": "Oct 18 11:00AM",
-    "estimate": "U",
-    "weapon": "saber",
-    "gender": "mixed",
-    "age": "Y10",
-    "rating_limit": "Open",
-    "start": "2026-12-06 11:00"
-   },
-   {
-    "name": "Y12 Mixed Saber",
-    "when": "Oct 18 1:00PM",
-    "estimate": "U",
-    "weapon": "saber",
-    "gender": "mixed",
-    "age": "Y12",
-    "rating_limit": "Open",
-    "start": "2026-12-06 13:00"
-   },
-   {
-    "name": "Y14 Mixed Saber",
-    "when": "Oct 18 3:00PM",
-    "estimate": "U",
-    "weapon": "saber",
-    "gender": "mixed",
-    "age": "Y14",
-    "rating_limit": "Open",
-    "start": "2026-12-06 15:00"
-   }
-  ]
- },
- {
-  "source": "askfred",
   "id": "32dd2c02-00f5-4478-807d-e0a848cabeac",
   "name": "7th ANNUAL SWORD MASTER CUP \"Glow in the Dark Fencing\" 2026",
   "url": "https://www.askfred.net/tournaments/32dd2c02-00f5-4478-807d-e0a848cabeac",
@@ -556,6 +226,51 @@
     "age": "Senior",
     "rating_limit": "Div2",
     "start": "2026-11-01 14:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "91b813b5-6850-4f07-b833-b07bf28eafcd",
+  "name": "FSU 3rd Annual Fall Face Off",
+  "url": "https://www.askfred.net/tournaments/91b813b5-6850-4f07-b833-b07bf28eafcd",
+  "register_url": "https://www.askfred.net/tournaments/91b813b5-6850-4f07-b833-b07bf28eafcd/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/91b813b5-6850-4f07-b833-b07bf28eafcd/preregistrations",
+  "registration_open": true,
+  "start": "2026-11-07",
+  "end": "2026-11-07",
+  "venue": "Leach Student Recreation Center : Tallahassee, FL",
+  "distance": 240,
+  "events": [
+   {
+    "name": "Mixed Foil",
+    "when": "Nov 7 8:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-11-07 08:00"
+   },
+   {
+    "name": "Mixed Epee",
+    "when": "Nov 7 11:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-11-07 11:00"
+   },
+   {
+    "name": "Mixed Saber",
+    "when": "Nov 7 2:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Open",
+    "start": "2026-11-07 14:00"
    }
   ]
  },
@@ -790,7 +505,7 @@
    {
     "name": "Senior Mixed Epee",
     "when": "Nov 8 1:30PM",
-    "estimate": "U",
+    "estimate": "E1 · up to 25 pts",
     "weapon": "epee",
     "gender": "mixed",
     "age": "Senior",
@@ -2106,6 +1821,71 @@
     "age": "Senior",
     "rating_limit": "Div3",
     "start": "2026-12-06 14:45"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "c04347e4-62b7-45d9-a0e4-608fda886687",
+  "name": "****NFFC CLUB MEMBERS ONLY****NFFC CUP I 2026-2027",
+  "url": "https://www.askfred.net/tournaments/c04347e4-62b7-45d9-a0e4-608fda886687",
+  "register_url": "https://www.askfred.net/tournaments/c04347e4-62b7-45d9-a0e4-608fda886687/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/c04347e4-62b7-45d9-a0e4-608fda886687/preregistrations",
+  "registration_open": true,
+  "start": "2026-12-06",
+  "end": "2026-12-06",
+  "venue": "Holey Ballz: Si. Augustine, FL",
+  "distance": 197,
+  "events": [
+   {
+    "name": "Unsanctioned Y8 Mixed Saber",
+    "when": "Dec 6 4:00AM",
+    "estimate": "",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y8",
+    "rating_limit": "Open",
+    "start": "2026-12-06 04:00"
+   },
+   {
+    "name": "Unsanctioned Y12 Mixed Saber",
+    "when": "Dec 6 4:00AM",
+    "estimate": "",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-12-06 04:00"
+   },
+   {
+    "name": "Unsanctioned Senior Mixed Saber",
+    "when": "Dec 6 5:30AM",
+    "estimate": "",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-12-06 05:30"
+   },
+   {
+    "name": "Unsanctioned Y10 Mixed Saber",
+    "when": "Dec 6 5:30AM",
+    "estimate": "",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2026-12-06 05:30"
+   },
+   {
+    "name": "Unsanctioned Y14 Mixed Saber",
+    "when": "Dec 6 5:30AM",
+    "estimate": "",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2026-12-06 05:30"
    }
   ]
  },
@@ -3955,7 +3735,7 @@
    {
     "name": "Y14 Men's Saber",
     "when": "Feb 6 8:30AM",
-    "estimate": "NR",
+    "estimate": "U",
     "weapon": "saber",
     "gender": "men",
     "age": "Y14",
@@ -4085,7 +3865,7 @@
    {
     "name": "Y12 Men's Saber",
     "when": "Feb 7 8:30AM",
-    "estimate": "NR",
+    "estimate": "U",
     "weapon": "saber",
     "gender": "men",
     "age": "Y12",
