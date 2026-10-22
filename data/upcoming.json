@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T15:12:45.220168+00:00",
+ "generated": "2026-10-22T15:14:46.485552+00:00",
  "askfred": [
   {
    "source": "askfred",
@@ -156,65 +156,65 @@
    "events": [
     {
      "name": "Unsanctioned Y8 Mixed Saber",
-     "when": "Dec 6 4:00AM",
+     "when": "Dec 6 9:00AM",
      "estimate": "",
      "weapon": "saber",
      "gender": "mixed",
      "age": "Y8",
      "rating_limit": "Open",
-     "start": "2026-12-06 04:00"
+     "start": "2026-12-06 09:00"
     },
     {
      "name": "Unsanctioned Y12 Mixed Saber",
-     "when": "Dec 6 4:00AM",
+     "when": "Dec 6 9:00AM",
      "estimate": "",
      "weapon": "saber",
      "gender": "mixed",
      "age": "Y12",
      "rating_limit": "Open",
-     "start": "2026-12-06 04:00"
+     "start": "2026-12-06 09:00"
     },
     {
      "name": "Unsanctioned Senior Mixed Saber",
-     "when": "Dec 6 5:30AM",
+     "when": "Dec 6 10:30AM",
      "estimate": "",
      "weapon": "saber",
      "gender": "mixed",
      "age": "Senior",
      "rating_limit": "Open",
-     "start": "2026-12-06 05:30"
+     "start": "2026-12-06 10:30"
     },
     {
      "name": "Unsanctioned Y10 Mixed Saber",
-     "when": "Dec 6 5:30AM",
+     "when": "Dec 6 10:30AM",
      "estimate": "",
      "weapon": "saber",
      "gender": "mixed",
      "age": "Y10",
      "rating_limit": "Open",
-     "start": "2026-12-06 05:30"
+     "start": "2026-12-06 10:30"
     },
     {
      "name": "Unsanctioned Y14 Mixed Saber",
-     "when": "Dec 6 5:30AM",
+     "when": "Dec 6 10:30AM",
      "estimate": "",
      "weapon": "saber",
      "gender": "mixed",
      "age": "Y14",
      "rating_limit": "Open",
-     "start": "2026-12-06 05:30"
+     "start": "2026-12-06 10:30"
     }
    ],
    "eligible": [
     {
      "name": "Unsanctioned Y14 Mixed Saber",
-     "when": "Dec 6 5:30AM",
+     "when": "Dec 6 10:30AM",
      "estimate": "",
      "weapon": "saber",
      "gender": "mixed",
      "age": "Y14",
      "rating_limit": "Open",
-     "start": "2026-12-06 05:30"
+     "start": "2026-12-06 10:30"
     }
    ],
    "tags": [],

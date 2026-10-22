@@ -1235,7 +1235,7 @@
    {
     "name": "Division II Men’s Foil",
     "when": "Nov 14 11:00AM",
-    "estimate": "E1 · up to 40 pts",
+    "estimate": "D1 · up to 40 pts",
     "weapon": "foil",
     "gender": "men",
     "age": "Senior",
@@ -1325,7 +1325,7 @@
    {
     "name": "Division III Men’s Foil",
     "when": "Nov 14 2:00PM",
-    "estimate": "E1 · up to 20 pts",
+    "estimate": "D1 · up to 20 pts",
     "weapon": "foil",
     "gender": "men",
     "age": "Senior",
@@ -1375,7 +1375,7 @@
    {
     "name": "Junior Men's Epee",
     "when": "Nov 15 8:00AM",
-    "estimate": "E1 · up to 80 pts",
+    "estimate": "A1 · up to 80 pts",
     "weapon": "epee",
     "gender": "men",
     "age": "Junior",
@@ -1395,7 +1395,7 @@
    {
     "name": "Division IA Men’s Foil",
     "when": "Nov 15 8:00AM",
-    "estimate": "E1 · up to 100 pts",
+    "estimate": "B1 · up to 100 pts",
     "weapon": "foil",
     "gender": "men",
     "age": "Senior",
@@ -1455,7 +1455,7 @@
    {
     "name": "Cadet Men's Foil",
     "when": "Nov 15 11:00AM",
-    "estimate": "U · up to 60 pts",
+    "estimate": "E1 · up to 60 pts",
     "weapon": "foil",
     "gender": "men",
     "age": "Cadet",
@@ -1839,53 +1839,53 @@
   "events": [
    {
     "name": "Unsanctioned Y8 Mixed Saber",
-    "when": "Dec 6 4:00AM",
+    "when": "Dec 6 9:00AM",
     "estimate": "",
     "weapon": "saber",
     "gender": "mixed",
     "age": "Y8",
     "rating_limit": "Open",
-    "start": "2026-12-06 04:00"
+    "start": "2026-12-06 09:00"
    },
    {
     "name": "Unsanctioned Y12 Mixed Saber",
-    "when": "Dec 6 4:00AM",
+    "when": "Dec 6 9:00AM",
     "estimate": "",
     "weapon": "saber",
     "gender": "mixed",
     "age": "Y12",
     "rating_limit": "Open",
-    "start": "2026-12-06 04:00"
+    "start": "2026-12-06 09:00"
    },
    {
     "name": "Unsanctioned Senior Mixed Saber",
-    "when": "Dec 6 5:30AM",
+    "when": "Dec 6 10:30AM",
     "estimate": "",
     "weapon": "saber",
     "gender": "mixed",
     "age": "Senior",
     "rating_limit": "Open",
-    "start": "2026-12-06 05:30"
+    "start": "2026-12-06 10:30"
    },
    {
     "name": "Unsanctioned Y10 Mixed Saber",
-    "when": "Dec 6 5:30AM",
+    "when": "Dec 6 10:30AM",
     "estimate": "",
     "weapon": "saber",
     "gender": "mixed",
     "age": "Y10",
     "rating_limit": "Open",
-    "start": "2026-12-06 05:30"
+    "start": "2026-12-06 10:30"
    },
    {
     "name": "Unsanctioned Y14 Mixed Saber",
-    "when": "Dec 6 5:30AM",
+    "when": "Dec 6 10:30AM",
     "estimate": "",
     "weapon": "saber",
     "gender": "mixed",
     "age": "Y14",
     "rating_limit": "Open",
-    "start": "2026-12-06 05:30"
+    "start": "2026-12-06 10:30"
    }
   ]
  },
@@ -2669,9 +2669,9 @@
   "id": "6e3cfc58-83eb-4e19-ac22-77defadd1755",
   "name": "LA Div: Rodolph Memorial 3 weapon Open w/ U rated epee",
   "url": "https://www.askfred.net/tournaments/6e3cfc58-83eb-4e19-ac22-77defadd1755",
-  "register_url": "",
+  "register_url": "https://www.askfred.net/tournaments/6e3cfc58-83eb-4e19-ac22-77defadd1755/preregister",
   "whos_coming_url": "https://www.askfred.net/tournaments/6e3cfc58-83eb-4e19-ac22-77defadd1755/preregistrations",
-  "registration_open": false,
+  "registration_open": true,
   "start": "2026-12-19",
   "end": "2026-12-19",
   "venue": "Italian American Bocce Club: Metairie, LA",
@@ -4150,7 +4150,7 @@
    {
     "name": "Mixed Epee",
     "when": "Apr 18 12:30PM",
-    "estimate": "U",
+    "estimate": "E1 · up to 25 pts",
     "weapon": "epee",
     "gender": "mixed",
     "age": "None",
