@@ -445,7 +445,7 @@
    {
     "name": "Unrated Senior Mixed Foil",
     "when": "Nov 7 1:00PM",
-    "estimate": "U",
+    "estimate": "E1 · up to 25 pts",
     "weapon": "foil",
     "gender": "mixed",
     "age": "Senior",
@@ -455,7 +455,7 @@
    {
     "name": "Senior Mixed Saber",
     "when": "Nov 7 3:30PM",
-    "estimate": "U",
+    "estimate": "E1 · up to 25 pts",
     "weapon": "saber",
     "gender": "mixed",
     "age": "Senior",
@@ -517,7 +517,7 @@
  {
   "source": "askfred",
   "id": "60203cf6-3e7d-4ce2-acb0-5995a64fbe7d",
-  "name": "GT Collegiate: Annual Fall Hack & Slash",
+  "name": "GT Annual Fall Hack & Slash",
   "url": "https://www.askfred.net/tournaments/60203cf6-3e7d-4ce2-acb0-5995a64fbe7d",
   "register_url": "https://www.askfred.net/tournaments/60203cf6-3e7d-4ce2-acb0-5995a64fbe7d/preregister",
   "whos_coming_url": "https://www.askfred.net/tournaments/60203cf6-3e7d-4ce2-acb0-5995a64fbe7d/preregistrations",
@@ -527,36 +527,6 @@
   "venue": "Georgia Tech Campus Recreation Center: Atlanta, GA: Atlanta, GA",
   "distance": 459,
   "events": [
-   {
-    "name": "Unsanctioned Senior Mixed Epee",
-    "when": "Start Unknown",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Open",
-    "start": ""
-   },
-   {
-    "name": "Unsanctioned Senior Mixed Epee",
-    "when": "Start Unknown",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Open",
-    "start": ""
-   },
-   {
-    "name": "Unsanctioned Senior Mixed Saber",
-    "when": "Start Unknown",
-    "estimate": "",
-    "weapon": "saber",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Open",
-    "start": ""
-   },
    {
     "name": "Unsanctioned Senior Mixed Saber",
     "when": "Start Unknown",
@@ -578,11 +548,11 @@
     "start": ""
    },
    {
-    "name": "Unsanctioned Senior Men's Foil",
+    "name": "Unsanctioned Senior Mixed Epee",
     "when": "Start Unknown",
     "estimate": "",
-    "weapon": "foil",
-    "gender": "men",
+    "weapon": "epee",
+    "gender": "mixed",
     "age": "Senior",
     "rating_limit": "Open",
     "start": ""
@@ -1155,7 +1125,7 @@
    {
     "name": "Division IA Men’s Saber",
     "when": "Nov 14 8:00AM",
-    "estimate": "U · up to 100 pts",
+    "estimate": "E1 · up to 100 pts",
     "weapon": "saber",
     "gender": "men",
     "age": "Senior",
@@ -1435,7 +1405,7 @@
    {
     "name": "Division II Men’s Saber",
     "when": "Nov 15 10:30AM",
-    "estimate": "U · up to 40 pts",
+    "estimate": "E1 · up to 40 pts",
     "weapon": "saber",
     "gender": "men",
     "age": "Senior",
@@ -1681,6 +1651,71 @@
     "age": "Y14",
     "rating_limit": "Open",
     "start": "2026-11-22 17:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "60fbc7c1-8f5f-4765-a3d3-79bc0d50eec8",
+  "name": "Alpha Saber Challenge 2",
+  "url": "https://www.askfred.net/tournaments/60fbc7c1-8f5f-4765-a3d3-79bc0d50eec8",
+  "register_url": "https://www.askfred.net/tournaments/60fbc7c1-8f5f-4765-a3d3-79bc0d50eec8/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/60fbc7c1-8f5f-4765-a3d3-79bc0d50eec8/preregistrations",
+  "registration_open": true,
+  "start": "2026-11-28",
+  "end": "2026-11-28",
+  "venue": "Alpha Fencing Academy: Johns Creek, GA",
+  "distance": 475,
+  "events": [
+   {
+    "name": "Y12 Mixed Saber",
+    "when": "Nov 28 9:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2026-11-28 09:00"
+   },
+   {
+    "name": "Y10 Mixed Saber",
+    "when": "Nov 28 10:30AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2026-11-28 10:30"
+   },
+   {
+    "name": "Senior Mixed Saber",
+    "when": "Nov 28 12:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2026-11-28 12:00"
+   },
+   {
+    "name": "D & Under (Div 3) Senior Men's Saber",
+    "when": "Nov 28 3:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Div3",
+    "start": "2026-11-28 15:00"
+   },
+   {
+    "name": "D & Under (Div 3) Senior Women's Saber",
+    "when": "Nov 28 3:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Div3",
+    "start": "2026-11-28 15:00"
    }
   ]
  },
