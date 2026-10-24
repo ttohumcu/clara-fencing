@@ -180,7 +180,7 @@
    {
     "name": "C & Under (Div 2) Senior Mixed Saber",
     "when": "Oct 31 3:30PM",
-    "estimate": "E1 · up to 25 pts",
+    "estimate": "D1 · up to 30 pts",
     "weapon": "saber",
     "gender": "mixed",
     "age": "Senior",
@@ -279,9 +279,9 @@
   "id": "7bb46e23-5dec-4994-8ea3-7fc7b22604bd",
   "name": "2026 Georgia Division JO Qualifier",
   "url": "https://www.askfred.net/tournaments/7bb46e23-5dec-4994-8ea3-7fc7b22604bd",
-  "register_url": "https://www.askfred.net/tournaments/7bb46e23-5dec-4994-8ea3-7fc7b22604bd/preregister",
+  "register_url": "",
   "whos_coming_url": "https://www.askfred.net/tournaments/7bb46e23-5dec-4994-8ea3-7fc7b22604bd/preregistrations",
-  "registration_open": true,
+  "registration_open": false,
   "start": "2026-11-07",
   "end": "2026-11-08",
   "venue": "Augusta Fencer's Club: Augusta, GA",
@@ -1175,7 +1175,7 @@
    {
     "name": "Division IA Men’s Epee",
     "when": "Nov 14 9:30AM",
-    "estimate": "A1 · up to 100 pts",
+    "estimate": "A2 · up to 100 pts",
     "weapon": "epee",
     "gender": "men",
     "age": "Senior",
@@ -2155,7 +2155,7 @@
    {
     "name": "Y14 Men's Foil",
     "when": "Dec 11 2:30PM",
-    "estimate": "U",
+    "estimate": "NR",
     "weapon": "foil",
     "gender": "men",
     "age": "Y14",

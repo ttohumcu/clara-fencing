@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T15:02:13.253537+00:00",
+ "generated": "2026-10-24T13:59:22.867227+00:00",
  "askfred": [
   {
    "source": "askfred",
@@ -397,7 +397,7 @@
     {
      "name": "Y14 Men's Foil",
      "when": "Dec 11 2:30PM",
-     "estimate": "U",
+     "estimate": "NR",
      "weapon": "foil",
      "gender": "men",
      "age": "Y14",
