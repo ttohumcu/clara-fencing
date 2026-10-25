@@ -455,7 +455,7 @@
    {
     "name": "Senior Mixed Saber",
     "when": "Nov 7 3:30PM",
-    "estimate": "E1 · up to 25 pts",
+    "estimate": "U",
     "weapon": "saber",
     "gender": "mixed",
     "age": "Senior",
@@ -1155,7 +1155,7 @@
    {
     "name": "Junior Men's Foil",
     "when": "Nov 14 8:30AM",
-    "estimate": "E1 · up to 80 pts",
+    "estimate": "C1 · up to 80 pts",
     "weapon": "foil",
     "gender": "men",
     "age": "Junior",
@@ -3340,7 +3340,7 @@
    {
     "name": "Cadet Women's Epee",
     "when": "Jan 30 4:00PM",
-    "estimate": "U · up to 60 pts",
+    "estimate": "E1 · up to 60 pts",
     "weapon": "epee",
     "gender": "women",
     "age": "Cadet",
