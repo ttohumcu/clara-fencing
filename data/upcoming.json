@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T14:21:01.793161+00:00",
+ "generated": "2026-10-26T16:47:04.951698+00:00",
  "askfred": [
   {
    "source": "askfred",
@@ -1299,7 +1299,7 @@
     {
      "name": "Division IA Men’s Epee",
      "when": "Jan 30 4:00PM",
-     "estimate": "U · up to 100 pts",
+     "estimate": "E1 · up to 100 pts",
      "weapon": "epee",
      "gender": "men",
      "age": "Senior",
@@ -1639,7 +1639,7 @@
     {
      "name": "Y14 Men's Saber",
      "when": "Feb 6 8:30AM",
-     "estimate": "U",
+     "estimate": "NR",
      "weapon": "saber",
      "gender": "men",
      "age": "Y14",
@@ -2101,111 +2101,6 @@
   }
  ],
  "circuit": [
-  {
-   "source": "usaf-regional",
-   "name": "AFM RYC/RJCC/ROC Div1A/Div2/Vet",
-   "start": "2026-10-23",
-   "end": "2026-10-25",
-   "region": "Region 4",
-   "circuits": [
-    "RYC",
-    "ROC",
-    "RJCC"
-   ],
-   "contested": [
-    "Y14",
-    "Y12",
-    "Y10",
-    "Y8",
-    "D1A",
-    "VET",
-    "JNR",
-    "CDT",
-    "DV2"
-   ],
-   "other": "",
-   "city": "Santa Clara",
-   "state": "CA",
-   "notes": "",
-   "eligible_codes": [
-    "Y14",
-    "D1A",
-    "JNR",
-    "CDT",
-    "DV2"
-   ],
-   "own_region": false,
-   "notes_extra": [
-    "RYC points only count in your own region"
-   ],
-   "askfred": null
-  },
-  {
-   "source": "usaf-regional",
-   "name": "2026 Escrime d'Halloween RYC/RJCC",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "region": "Region 2",
-   "circuits": [
-    "RYC",
-    "RJCC"
-   ],
-   "contested": [
-    "Y14",
-    "Y12",
-    "Y10",
-    "Y8",
-    "JNR",
-    "CDT"
-   ],
-   "other": "VetMF, VetWF, VetME, VetWE, VetMS, VetWS",
-   "city": "Twinsburg",
-   "state": "OH",
-   "notes": "",
-   "eligible_codes": [
-    "Y14",
-    "JNR",
-    "CDT"
-   ],
-   "own_region": false,
-   "notes_extra": [
-    "RYC points only count in your own region"
-   ],
-   "askfred": null
-  },
-  {
-   "source": "usaf-regional",
-   "name": "Morris Cup RYC/RJCC",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "region": "Region 3",
-   "circuits": [
-    "RYC",
-    "RJCC"
-   ],
-   "contested": [
-    "Y14",
-    "Y12",
-    "Y10",
-    "Y8",
-    "JNR",
-    "CDT"
-   ],
-   "other": "",
-   "city": "Suffern",
-   "state": "NY",
-   "notes": "",
-   "eligible_codes": [
-    "Y14",
-    "JNR",
-    "CDT"
-   ],
-   "own_region": false,
-   "notes_extra": [
-    "RYC points only count in your own region"
-   ],
-   "askfred": null
-  },
   {
    "source": "usaf-regional",
    "name": "Portland Fall RYC",
