@@ -140,7 +140,7 @@
    {
     "name": "Senior Mixed Foil",
     "when": "Oct 31 8:00AM",
-    "estimate": "C1 · up to 35 pts",
+    "estimate": "B1 · up to 50 pts",
     "weapon": "foil",
     "gender": "mixed",
     "age": "Senior",
@@ -160,7 +160,7 @@
    {
     "name": "Senior Mixed Saber",
     "when": "Oct 31 11:30AM",
-    "estimate": "C1 · up to 35 pts",
+    "estimate": "B2 · up to 55 pts",
     "weapon": "saber",
     "gender": "mixed",
     "age": "Senior",
@@ -210,7 +210,7 @@
    {
     "name": "Senior Women's Epee",
     "when": "Nov 1 11:00AM",
-    "estimate": "E1 · up to 25 pts",
+    "estimate": "B1 · up to 50 pts",
     "weapon": "epee",
     "gender": "women",
     "age": "Senior",
@@ -1455,7 +1455,7 @@
    {
     "name": "Division II Men’s Epee",
     "when": "Nov 15 12:30PM",
-    "estimate": "E1 · up to 40 pts",
+    "estimate": "C1 · up to 40 pts",
     "weapon": "epee",
     "gender": "men",
     "age": "Senior",
@@ -1810,7 +1810,7 @@
    {
     "name": "C & Under (Div 2) Senior Mixed Epee",
     "when": "Dec 5 2:15PM",
-    "estimate": "U",
+    "estimate": "E1 · up to 25 pts",
     "weapon": "epee",
     "gender": "mixed",
     "age": "Senior",
@@ -2245,7 +2245,7 @@
    {
     "name": "Cadet Men's Foil",
     "when": "Dec 12 8:00AM",
-    "estimate": "U · up to 60 pts",
+    "estimate": "E1 · up to 60 pts",
     "weapon": "foil",
     "gender": "men",
     "age": "Cadet",
@@ -2495,7 +2495,7 @@
    {
     "name": "Junior Men's Foil",
     "when": "Dec 13 8:00AM",
-    "estimate": "U · up to 80 pts",
+    "estimate": "E1 · up to 80 pts",
     "weapon": "foil",
     "gender": "men",
     "age": "Junior",
