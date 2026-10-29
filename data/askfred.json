@@ -1075,7 +1075,7 @@
    {
     "name": "Mixed Foil",
     "when": "Nov 14 10:00AM",
-    "estimate": "U",
+    "estimate": "E1 · up to 25 pts",
     "weapon": "foil",
     "gender": "mixed",
     "age": "None",
@@ -1290,7 +1290,7 @@
    {
     "name": "Junior Men's Foil",
     "when": "Nov 14 8:30AM",
-    "estimate": "C1 · up to 80 pts",
+    "estimate": "B1 · up to 80 pts",
     "weapon": "foil",
     "gender": "men",
     "age": "Junior",
@@ -1340,7 +1340,7 @@
    {
     "name": "Division II Men’s Foil",
     "when": "Nov 14 11:00AM",
-    "estimate": "D1 · up to 40 pts",
+    "estimate": "C1 · up to 40 pts",
     "weapon": "foil",
     "gender": "men",
     "age": "Senior",
@@ -1350,7 +1350,7 @@
    {
     "name": "Division II Women’s Saber",
     "when": "Nov 14 11:15AM",
-    "estimate": "U · up to 40 pts",
+    "estimate": "E1 · up to 40 pts",
     "weapon": "saber",
     "gender": "women",
     "age": "Senior",
@@ -1460,7 +1460,7 @@
    {
     "name": "Division III Men’s Epee",
     "when": "Nov 14 3:30PM",
-    "estimate": "E1 · up to 20 pts",
+    "estimate": "D1 · up to 20 pts",
     "weapon": "epee",
     "gender": "men",
     "age": "Senior",
