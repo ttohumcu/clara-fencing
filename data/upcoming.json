@@ -1,6 +1,126 @@
 {
- "generated": "2026-10-29T16:54:17.378677+00:00",
+ "generated": "2026-10-30T16:41:11.185618+00:00",
  "askfred": [
+  {
+   "source": "askfred",
+   "id": "176695a2-e8db-4cae-bf71-4e8e6d364992",
+   "name": "Masquerade Duel",
+   "url": "https://www.askfred.net/tournaments/176695a2-e8db-4cae-bf71-4e8e6d364992",
+   "register_url": "https://www.askfred.net/tournaments/176695a2-e8db-4cae-bf71-4e8e6d364992/preregister",
+   "whos_coming_url": "https://www.askfred.net/tournaments/176695a2-e8db-4cae-bf71-4e8e6d364992/preregistrations",
+   "registration_open": true,
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "venue": "Stoccata Fencing Academy: Altamonte Springs, FL",
+   "distance": 114,
+   "events": [
+    {
+     "name": "Senior Mixed Foil",
+     "when": "Nov 7 10:00AM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "mixed",
+     "age": "Senior",
+     "rating_limit": "Open",
+     "start": "2026-11-07 10:00"
+    },
+    {
+     "name": "Unrated Senior Mixed Saber",
+     "when": "Nov 7 1:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Senior",
+     "rating_limit": "Unrated",
+     "start": "2026-11-07 13:00"
+    },
+    {
+     "name": "Unrated Senior Mixed Foil",
+     "when": "Nov 7 1:00PM",
+     "estimate": "E1 · up to 25 pts",
+     "weapon": "foil",
+     "gender": "mixed",
+     "age": "Senior",
+     "rating_limit": "Unrated",
+     "start": "2026-11-07 13:00"
+    },
+    {
+     "name": "Senior Mixed Saber",
+     "when": "Nov 7 3:30PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Senior",
+     "rating_limit": "Open",
+     "start": "2026-11-07 15:30"
+    },
+    {
+     "name": "Unrated Y14 Mixed Saber",
+     "when": "Nov 8 9:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y14",
+     "rating_limit": "Unrated",
+     "start": "2026-11-08 09:00"
+    },
+    {
+     "name": "Y10 Mixed Foil",
+     "when": "Nov 8 9:00AM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "mixed",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2026-11-08 09:00"
+    },
+    {
+     "name": "Y12 Mixed Foil",
+     "when": "Nov 8 11:00AM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "mixed",
+     "age": "Y12",
+     "rating_limit": "Open",
+     "start": "2026-11-08 11:00"
+    },
+    {
+     "name": "Unrated Senior Mixed Epee",
+     "when": "Nov 8 11:00AM",
+     "estimate": "E1 · up to 25 pts",
+     "weapon": "epee",
+     "gender": "mixed",
+     "age": "Senior",
+     "rating_limit": "Unrated",
+     "start": "2026-11-08 11:00"
+    },
+    {
+     "name": "Senior Mixed Epee",
+     "when": "Nov 8 1:30PM",
+     "estimate": "E1 · up to 25 pts",
+     "weapon": "epee",
+     "gender": "mixed",
+     "age": "Senior",
+     "rating_limit": "Open",
+     "start": "2026-11-08 13:30"
+    }
+   ],
+   "eligible": [
+    {
+     "name": "Unrated Y14 Mixed Saber",
+     "when": "Nov 8 9:00AM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "mixed",
+     "age": "Y14",
+     "rating_limit": "Unrated",
+     "start": "2026-11-08 09:00"
+    }
+   ],
+   "tags": [],
+   "tier": "regional",
+   "hl": true
+  },
   {
    "source": "askfred",
    "id": "546829f5-71db-48bf-aa1a-2a3d0f3bc35c",
@@ -497,7 +617,7 @@
     {
      "name": "Junior Men's Saber",
      "when": "Dec 12 9:00AM",
-     "estimate": "U · up to 80 pts",
+     "estimate": "E1 · up to 80 pts",
      "weapon": "saber",
      "gender": "men",
      "age": "Junior",

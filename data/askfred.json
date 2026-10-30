@@ -129,9 +129,9 @@
   "id": "e7f86370-f6d2-4c4c-90b6-a72f6a8a38dc",
   "name": "11th Annual Orange & Blue",
   "url": "https://www.askfred.net/tournaments/e7f86370-f6d2-4c4c-90b6-a72f6a8a38dc",
-  "register_url": "https://www.askfred.net/tournaments/e7f86370-f6d2-4c4c-90b6-a72f6a8a38dc/preregister",
+  "register_url": "",
   "whos_coming_url": "https://www.askfred.net/tournaments/e7f86370-f6d2-4c4c-90b6-a72f6a8a38dc/preregistrations",
-  "registration_open": true,
+  "registration_open": false,
   "start": "2026-10-31",
   "end": "2026-11-01",
   "venue": "Southwest Recreation Center: Gainesville, FL",
@@ -598,13 +598,13 @@
     "start": "2026-11-07 15:30"
    },
    {
-    "name": "Y12 Mixed Saber",
+    "name": "Unrated Y14 Mixed Saber",
     "when": "Nov 8 9:00AM",
     "estimate": "U",
     "weapon": "saber",
     "gender": "mixed",
-    "age": "Y12",
-    "rating_limit": "Open",
+    "age": "Y14",
+    "rating_limit": "Unrated",
     "start": "2026-11-08 09:00"
    },
    {
@@ -1280,7 +1280,7 @@
    {
     "name": "Junior Women's Saber",
     "when": "Nov 14 8:15AM",
-    "estimate": "U · up to 80 pts",
+    "estimate": "E1 · up to 80 pts",
     "weapon": "saber",
     "gender": "women",
     "age": "Junior",
@@ -1480,7 +1480,7 @@
    {
     "name": "Junior Men's Epee",
     "when": "Nov 15 8:00AM",
-    "estimate": "A1 · up to 80 pts",
+    "estimate": "A2 · up to 80 pts",
     "weapon": "epee",
     "gender": "men",
     "age": "Junior",
@@ -1490,7 +1490,7 @@
    {
     "name": "Junior Men's Saber",
     "when": "Nov 15 8:00AM",
-    "estimate": "U · up to 80 pts",
+    "estimate": "E1 · up to 80 pts",
     "weapon": "saber",
     "gender": "men",
     "age": "Junior",
@@ -1510,7 +1510,7 @@
    {
     "name": "Division IA Women’s Saber",
     "when": "Nov 15 8:15AM",
-    "estimate": "U · up to 100 pts",
+    "estimate": "E1 · up to 100 pts",
     "weapon": "saber",
     "gender": "women",
     "age": "Senior",
@@ -1580,7 +1580,7 @@
    {
     "name": "Cadet Women's Saber",
     "when": "Nov 15 11:15AM",
-    "estimate": "U · up to 60 pts",
+    "estimate": "E1 · up to 60 pts",
     "weapon": "saber",
     "gender": "women",
     "age": "Cadet",
@@ -2390,7 +2390,7 @@
    {
     "name": "Junior Men's Saber",
     "when": "Dec 12 9:00AM",
-    "estimate": "U · up to 80 pts",
+    "estimate": "E1 · up to 80 pts",
     "weapon": "saber",
     "gender": "men",
     "age": "Junior",
