@@ -4,9 +4,9 @@
   "id": "32dd2c02-00f5-4478-807d-e0a848cabeac",
   "name": "7th ANNUAL SWORD MASTER CUP \"Glow in the Dark Fencing\" 2026",
   "url": "https://www.askfred.net/tournaments/32dd2c02-00f5-4478-807d-e0a848cabeac",
-  "register_url": "https://www.askfred.net/tournaments/32dd2c02-00f5-4478-807d-e0a848cabeac/preregister",
+  "register_url": "",
   "whos_coming_url": "https://www.askfred.net/tournaments/32dd2c02-00f5-4478-807d-e0a848cabeac/preregistrations",
-  "registration_open": true,
+  "registration_open": false,
   "start": "2026-10-31",
   "end": "2026-11-01",
   "venue": "SWORD MASTERS CLUB, ORLANDO: Orlando, Florida",
@@ -1320,7 +1320,7 @@
    {
     "name": "Cadet Men's Saber",
     "when": "Nov 14 10:30AM",
-    "estimate": "U · up to 60 pts",
+    "estimate": "E1 · up to 60 pts",
     "weapon": "saber",
     "gender": "men",
     "age": "Cadet",
@@ -1420,7 +1420,7 @@
    {
     "name": "Division III Men’s Saber",
     "when": "Nov 14 1:30PM",
-    "estimate": "U · up to 20 pts",
+    "estimate": "E1 · up to 20 pts",
     "weapon": "saber",
     "gender": "men",
     "age": "Senior",
@@ -1430,7 +1430,7 @@
    {
     "name": "Division III Men’s Foil",
     "when": "Nov 14 2:00PM",
-    "estimate": "D1 · up to 20 pts",
+    "estimate": "C2 · up to 20 pts",
     "weapon": "foil",
     "gender": "men",
     "age": "Senior",
@@ -1500,7 +1500,7 @@
    {
     "name": "Division IA Men’s Foil",
     "when": "Nov 15 8:00AM",
-    "estimate": "B1 · up to 100 pts",
+    "estimate": "A1 · up to 100 pts",
     "weapon": "foil",
     "gender": "men",
     "age": "Senior",
@@ -1530,7 +1530,7 @@
    {
     "name": "Division IA Women’s Epee",
     "when": "Nov 15 9:45AM",
-    "estimate": "A1 · up to 100 pts",
+    "estimate": "A2 · up to 100 pts",
     "weapon": "epee",
     "gender": "women",
     "age": "Senior",
@@ -1935,7 +1935,7 @@
    {
     "name": "Div 1A Senior Women's Epee",
     "when": "Dec 5 10:15AM",
-    "estimate": "U",
+    "estimate": "E1 · up to 25 pts",
     "weapon": "epee",
     "gender": "women",
     "age": "Senior",
@@ -2590,7 +2590,7 @@
    {
     "name": "Division IA Women’s Epee",
     "when": "Dec 13 8:00AM",
-    "estimate": "U · up to 100 pts",
+    "estimate": "E1 · up to 100 pts",
     "weapon": "epee",
     "gender": "women",
     "age": "Senior",
