@@ -885,7 +885,7 @@
    {
     "name": "Junior Mixed Saber",
     "when": "Nov 8 11:00AM",
-    "estimate": "U",
+    "estimate": "E1 · up to 20 pts",
     "weapon": "saber",
     "gender": "mixed",
     "age": "Junior",
@@ -905,7 +905,7 @@
    {
     "name": "E & Under Senior Mixed Saber",
     "when": "Nov 8 3:00PM",
-    "estimate": "U",
+    "estimate": "E1 · up to 25 pts",
     "weapon": "saber",
     "gender": "mixed",
     "age": "Senior",
@@ -1054,9 +1054,9 @@
   "id": "a870ff0c-cba2-4de1-b11a-114a0850107d",
   "name": "FIU 2nd Annual Blue and Gold (FIFC #1)",
   "url": "https://www.askfred.net/tournaments/a870ff0c-cba2-4de1-b11a-114a0850107d",
-  "register_url": "",
+  "register_url": "https://www.askfred.net/tournaments/a870ff0c-cba2-4de1-b11a-114a0850107d/preregister",
   "whos_coming_url": "https://www.askfred.net/tournaments/a870ff0c-cba2-4de1-b11a-114a0850107d/preregistrations",
-  "registration_open": false,
+  "registration_open": true,
   "start": "2026-11-14",
   "end": "2026-11-14",
   "venue": "FIU Wellness and Recreation Center: Miami, FL",
@@ -1290,7 +1290,7 @@
    {
     "name": "Junior Men's Foil",
     "when": "Nov 14 8:30AM",
-    "estimate": "B1 · up to 80 pts",
+    "estimate": "A1 · up to 80 pts",
     "weapon": "foil",
     "gender": "men",
     "age": "Junior",
@@ -1340,7 +1340,7 @@
    {
     "name": "Division II Men’s Foil",
     "when": "Nov 14 11:00AM",
-    "estimate": "C1 · up to 40 pts",
+    "estimate": "C2 · up to 40 pts",
     "weapon": "foil",
     "gender": "men",
     "age": "Senior",
@@ -1500,7 +1500,7 @@
    {
     "name": "Division IA Men’s Foil",
     "when": "Nov 15 8:00AM",
-    "estimate": "A1 · up to 100 pts",
+    "estimate": "A2 · up to 100 pts",
     "weapon": "foil",
     "gender": "men",
     "age": "Senior",
@@ -1610,7 +1610,7 @@
    {
     "name": "Division II Women’s Foil",
     "when": "Nov 15 12:45PM",
-    "estimate": "U · up to 40 pts",
+    "estimate": "E1 · up to 40 pts",
     "weapon": "foil",
     "gender": "women",
     "age": "Senior",
@@ -2360,7 +2360,7 @@
    {
     "name": "Cadet Men's Epee",
     "when": "Dec 12 8:00AM",
-    "estimate": "E1 · up to 60 pts",
+    "estimate": "A1 · up to 60 pts",
     "weapon": "epee",
     "gender": "men",
     "age": "Cadet",
@@ -2370,7 +2370,7 @@
    {
     "name": "Division IA Women’s Foil",
     "when": "Dec 12 8:00AM",
-    "estimate": "U · up to 100 pts",
+    "estimate": "E1 · up to 100 pts",
     "weapon": "foil",
     "gender": "women",
     "age": "Senior",
@@ -2610,7 +2610,7 @@
    {
     "name": "Junior Women's Foil",
     "when": "Dec 13 8:00AM",
-    "estimate": "U · up to 80 pts",
+    "estimate": "E1 · up to 80 pts",
     "weapon": "foil",
     "gender": "women",
     "age": "Junior",

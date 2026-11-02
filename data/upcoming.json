@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T16:47:54.302212+00:00",
+ "generated": "2026-11-02T20:20:13.089621+00:00",
  "askfred": [
   {
    "source": "askfred",
@@ -587,7 +587,7 @@
     {
      "name": "Cadet Men's Epee",
      "when": "Dec 12 8:00AM",
-     "estimate": "E1 · up to 60 pts",
+     "estimate": "A1 · up to 60 pts",
      "weapon": "epee",
      "gender": "men",
      "age": "Cadet",
@@ -597,7 +597,7 @@
     {
      "name": "Division IA Women’s Foil",
      "when": "Dec 12 8:00AM",
-     "estimate": "U · up to 100 pts",
+     "estimate": "E1 · up to 100 pts",
      "weapon": "foil",
      "gender": "women",
      "age": "Senior",
@@ -837,7 +837,7 @@
     {
      "name": "Junior Women's Foil",
      "when": "Dec 13 8:00AM",
-     "estimate": "U · up to 80 pts",
+     "estimate": "E1 · up to 80 pts",
      "weapon": "foil",
      "gender": "women",
      "age": "Junior",
@@ -2221,58 +2221,6 @@
   }
  ],
  "circuit": [
-  {
-   "source": "usaf-regional",
-   "name": "Portland Fall RYC",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "region": "Region 1",
-   "circuits": [
-    "RYC"
-   ],
-   "contested": [
-    "Y14",
-    "Y12",
-    "Y10"
-   ],
-   "other": "",
-   "city": "Tigard",
-   "state": "OR",
-   "notes": "",
-   "eligible_codes": [
-    "Y14"
-   ],
-   "own_region": false,
-   "notes_extra": [
-    "RYC points only count in your own region"
-   ],
-   "askfred": null
-  },
-  {
-   "source": "usaf-regional",
-   "name": "Ultimate Cup RJCC",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "region": "Region 3",
-   "circuits": [
-    "RJCC"
-   ],
-   "contested": [
-    "JNR",
-    "CDT"
-   ],
-   "other": "",
-   "city": "Hillsborough Township",
-   "state": "NJ",
-   "notes": "",
-   "eligible_codes": [
-    "JNR",
-    "CDT"
-   ],
-   "own_region": false,
-   "notes_extra": [],
-   "askfred": null
-  },
   {
    "source": "usaf-regional",
    "name": "GRAFA RYC\\RJCC\\ROC- Third Coast Cup",
