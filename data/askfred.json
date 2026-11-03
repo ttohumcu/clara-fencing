@@ -560,7 +560,7 @@
    {
     "name": "Senior Mixed Foil",
     "when": "Nov 7 10:00AM",
-    "estimate": "U",
+    "estimate": "E1 · up to 25 pts",
     "weapon": "foil",
     "gender": "mixed",
     "age": "Senior",
@@ -630,7 +630,7 @@
    {
     "name": "Unrated Senior Mixed Epee",
     "when": "Nov 8 11:00AM",
-    "estimate": "E1 · up to 25 pts",
+    "estimate": "U",
     "weapon": "epee",
     "gender": "mixed",
     "age": "Senior",
@@ -1054,9 +1054,9 @@
   "id": "a870ff0c-cba2-4de1-b11a-114a0850107d",
   "name": "FIU 2nd Annual Blue and Gold (FIFC #1)",
   "url": "https://www.askfred.net/tournaments/a870ff0c-cba2-4de1-b11a-114a0850107d",
-  "register_url": "https://www.askfred.net/tournaments/a870ff0c-cba2-4de1-b11a-114a0850107d/preregister",
+  "register_url": "",
   "whos_coming_url": "https://www.askfred.net/tournaments/a870ff0c-cba2-4de1-b11a-114a0850107d/preregistrations",
-  "registration_open": true,
+  "registration_open": false,
   "start": "2026-11-14",
   "end": "2026-11-14",
   "venue": "FIU Wellness and Recreation Center: Miami, FL",
@@ -1290,7 +1290,7 @@
    {
     "name": "Junior Men's Foil",
     "when": "Nov 14 8:30AM",
-    "estimate": "A1 · up to 80 pts",
+    "estimate": "A2 · up to 80 pts",
     "weapon": "foil",
     "gender": "men",
     "age": "Junior",
@@ -3655,7 +3655,7 @@
    {
     "name": "Y14 Men's Epee",
     "when": "Jan 31 12:00PM",
-    "estimate": "U",
+    "estimate": "NR",
     "weapon": "epee",
     "gender": "men",
     "age": "Y14",
