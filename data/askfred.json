@@ -1,236 +1,6 @@
 [
  {
   "source": "askfred",
-  "id": "32dd2c02-00f5-4478-807d-e0a848cabeac",
-  "name": "7th ANNUAL SWORD MASTER CUP \"Glow in the Dark Fencing\" 2026",
-  "url": "https://www.askfred.net/tournaments/32dd2c02-00f5-4478-807d-e0a848cabeac",
-  "register_url": "",
-  "whos_coming_url": "https://www.askfred.net/tournaments/32dd2c02-00f5-4478-807d-e0a848cabeac/preregistrations",
-  "registration_open": false,
-  "start": "2026-10-31",
-  "end": "2026-11-01",
-  "venue": "SWORD MASTERS CLUB, ORLANDO: Orlando, Florida",
-  "distance": 114,
-  "events": [
-   {
-    "name": "Cadet Mixed Epee",
-    "when": "Oct 31 1:00PM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Cadet",
-    "rating_limit": "Open",
-    "start": "2026-10-31 13:00"
-   },
-   {
-    "name": "Junior Mixed Epee",
-    "when": "Oct 31 3:00PM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Junior",
-    "rating_limit": "Open",
-    "start": "2026-10-31 15:00"
-   },
-   {
-    "name": "Senior Mixed Epee",
-    "when": "Oct 31 5:00PM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Open",
-    "start": "2026-10-31 17:00"
-   },
-   {
-    "name": "Vet Combined Men's Epee",
-    "when": "Nov 1 9:00AM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "men",
-    "age": "VetCombined",
-    "rating_limit": "Open",
-    "start": "2026-11-01 09:00"
-   },
-   {
-    "name": "Vet Combined Women's Epee",
-    "when": "Nov 1 9:00AM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "women",
-    "age": "VetCombined",
-    "rating_limit": "Open",
-    "start": "2026-11-01 09:00"
-   },
-   {
-    "name": "Mixed Epee",
-    "when": "Nov 1 9:00AM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "None",
-    "rating_limit": "Open",
-    "start": "2026-11-01 09:00"
-   },
-   {
-    "name": "Y8 Mixed Epee",
-    "when": "Nov 1 11:00AM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Y8",
-    "rating_limit": "Open",
-    "start": "2026-11-01 11:00"
-   },
-   {
-    "name": "Senior Mixed Saber",
-    "when": "Nov 1 11:00AM",
-    "estimate": "",
-    "weapon": "saber",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Open",
-    "start": "2026-11-01 11:00"
-   },
-   {
-    "name": "Y10 Mixed Epee",
-    "when": "Nov 1 1:00PM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Y10",
-    "rating_limit": "Open",
-    "start": "2026-11-01 13:00"
-   },
-   {
-    "name": "Y12 Mixed Epee",
-    "when": "Nov 1 3:00PM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Y12",
-    "rating_limit": "Open",
-    "start": "2026-11-01 15:00"
-   },
-   {
-    "name": "Y14 Mixed Epee",
-    "when": "Nov 1 5:00PM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Y14",
-    "rating_limit": "Open",
-    "start": "2026-11-01 17:00"
-   }
-  ]
- },
- {
-  "source": "askfred",
-  "id": "e7f86370-f6d2-4c4c-90b6-a72f6a8a38dc",
-  "name": "11th Annual Orange & Blue",
-  "url": "https://www.askfred.net/tournaments/e7f86370-f6d2-4c4c-90b6-a72f6a8a38dc",
-  "register_url": "",
-  "whos_coming_url": "https://www.askfred.net/tournaments/e7f86370-f6d2-4c4c-90b6-a72f6a8a38dc/preregistrations",
-  "registration_open": false,
-  "start": "2026-10-31",
-  "end": "2026-11-01",
-  "venue": "Southwest Recreation Center: Gainesville, FL",
-  "distance": 159,
-  "events": [
-   {
-    "name": "Senior Mixed Foil",
-    "when": "Oct 31 8:00AM",
-    "estimate": "B1 · up to 50 pts",
-    "weapon": "foil",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Open",
-    "start": "2026-10-31 08:00"
-   },
-   {
-    "name": "Senior Women's Foil",
-    "when": "Oct 31 10:30AM",
-    "estimate": "E1 · up to 25 pts",
-    "weapon": "foil",
-    "gender": "women",
-    "age": "Senior",
-    "rating_limit": "Open",
-    "start": "2026-10-31 10:30"
-   },
-   {
-    "name": "Senior Mixed Saber",
-    "when": "Oct 31 11:30AM",
-    "estimate": "B2 · up to 55 pts",
-    "weapon": "saber",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Open",
-    "start": "2026-10-31 11:30"
-   },
-   {
-    "name": "C & Under (Div 2) Senior Mixed Foil",
-    "when": "Oct 31 1:00PM",
-    "estimate": "C2 · up to 40 pts",
-    "weapon": "foil",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Div2",
-    "start": "2026-10-31 13:00"
-   },
-   {
-    "name": "C & Under (Div 2) Senior Mixed Saber",
-    "when": "Oct 31 3:30PM",
-    "estimate": "D1 · up to 30 pts",
-    "weapon": "saber",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Div2",
-    "start": "2026-10-31 15:30"
-   },
-   {
-    "name": "Senior Women's Saber",
-    "when": "Oct 31 4:30PM",
-    "estimate": "E1 · up to 25 pts",
-    "weapon": "saber",
-    "gender": "women",
-    "age": "Senior",
-    "rating_limit": "Open",
-    "start": "2026-10-31 16:30"
-   },
-   {
-    "name": "Senior Mixed Epee",
-    "when": "Nov 1 8:00AM",
-    "estimate": "A2 · up to 70 pts",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Open",
-    "start": "2026-11-01 08:00"
-   },
-   {
-    "name": "Senior Women's Epee",
-    "when": "Nov 1 11:00AM",
-    "estimate": "B1 · up to 50 pts",
-    "weapon": "epee",
-    "gender": "women",
-    "age": "Senior",
-    "rating_limit": "Open",
-    "start": "2026-11-01 11:00"
-   },
-   {
-    "name": "C & Under (Div 2) Senior Mixed Epee",
-    "when": "Nov 1 2:00PM",
-    "estimate": "C2 · up to 40 pts",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Div2",
-    "start": "2026-11-01 14:00"
-   }
-  ]
- },
- {
-  "source": "askfred",
   "id": "1aa108a2-d968-4cb9-a6bd-19587c54f41d",
   "name": "2027 Gold Coast Junior Olympics FOIL, SABER & EPEE QUALIFIER",
   "url": "https://www.askfred.net/tournaments/1aa108a2-d968-4cb9-a6bd-19587c54f41d",
@@ -390,7 +160,7 @@
    {
     "name": "Mixed Epee",
     "when": "Nov 7 11:00AM",
-    "estimate": "E1 · up to 25 pts",
+    "estimate": "A1 · up to 65 pts",
     "weapon": "epee",
     "gender": "mixed",
     "age": "None",
@@ -630,7 +400,7 @@
    {
     "name": "Unrated Senior Mixed Epee",
     "when": "Nov 8 11:00AM",
-    "estimate": "U",
+    "estimate": "E1 · up to 25 pts",
     "weapon": "epee",
     "gender": "mixed",
     "age": "Senior",
@@ -1300,7 +1070,7 @@
    {
     "name": "Division IA Women’s Foil",
     "when": "Nov 14 9:00AM",
-    "estimate": "E1 · up to 100 pts",
+    "estimate": "A1 · up to 100 pts",
     "weapon": "foil",
     "gender": "women",
     "age": "Senior",
@@ -1440,7 +1210,7 @@
    {
     "name": "Division III Women’s Saber",
     "when": "Nov 14 2:15PM",
-    "estimate": "U · up to 20 pts",
+    "estimate": "E1 · up to 20 pts",
     "weapon": "saber",
     "gender": "women",
     "age": "Senior",
@@ -1520,7 +1290,7 @@
    {
     "name": "Junior Women's Foil",
     "when": "Nov 15 8:45AM",
-    "estimate": "E1 · up to 80 pts",
+    "estimate": "A1 · up to 80 pts",
     "weapon": "foil",
     "gender": "women",
     "age": "Junior",
