@@ -4,9 +4,9 @@
   "id": "1aa108a2-d968-4cb9-a6bd-19587c54f41d",
   "name": "2027 Gold Coast Junior Olympics FOIL, SABER & EPEE QUALIFIER",
   "url": "https://www.askfred.net/tournaments/1aa108a2-d968-4cb9-a6bd-19587c54f41d",
-  "register_url": "https://www.askfred.net/tournaments/1aa108a2-d968-4cb9-a6bd-19587c54f41d/preregister",
+  "register_url": "",
   "whos_coming_url": "https://www.askfred.net/tournaments/1aa108a2-d968-4cb9-a6bd-19587c54f41d/preregistrations",
-  "registration_open": true,
+  "registration_open": false,
   "start": "2026-11-07",
   "end": "2026-11-07",
   "venue": "University Of Miami - Herbert Wellness Center: Coral Gables, FL",
@@ -338,16 +338,6 @@
     "start": "2026-11-07 10:00"
    },
    {
-    "name": "Unrated Senior Mixed Saber",
-    "when": "Nov 7 1:00PM",
-    "estimate": "U",
-    "weapon": "saber",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Unrated",
-    "start": "2026-11-07 13:00"
-   },
-   {
     "name": "Unrated Senior Mixed Foil",
     "when": "Nov 7 1:00PM",
     "estimate": "E1 · up to 25 pts",
@@ -360,7 +350,7 @@
    {
     "name": "Senior Mixed Saber",
     "when": "Nov 7 3:30PM",
-    "estimate": "U",
+    "estimate": "E1 · up to 25 pts",
     "weapon": "saber",
     "gender": "mixed",
     "age": "Senior",
@@ -499,9 +489,9 @@
   "id": "c76b7f57-506b-4be0-98bb-29a2df1beaf7",
   "name": "Gateway Florida Division 2026 JO Qualifiers",
   "url": "https://www.askfred.net/tournaments/c76b7f57-506b-4be0-98bb-29a2df1beaf7",
-  "register_url": "https://www.askfred.net/tournaments/c76b7f57-506b-4be0-98bb-29a2df1beaf7/preregister",
+  "register_url": "",
   "whos_coming_url": "https://www.askfred.net/tournaments/c76b7f57-506b-4be0-98bb-29a2df1beaf7/preregistrations",
-  "registration_open": true,
+  "registration_open": false,
   "start": "2026-11-08",
   "end": "2026-11-08",
   "venue": "Jacksonville Fencing Club: Jacksonville, FL",
@@ -824,9 +814,9 @@
   "id": "a870ff0c-cba2-4de1-b11a-114a0850107d",
   "name": "FIU 2nd Annual Blue and Gold (FIFC #1)",
   "url": "https://www.askfred.net/tournaments/a870ff0c-cba2-4de1-b11a-114a0850107d",
-  "register_url": "",
+  "register_url": "https://www.askfred.net/tournaments/a870ff0c-cba2-4de1-b11a-114a0850107d/preregister",
   "whos_coming_url": "https://www.askfred.net/tournaments/a870ff0c-cba2-4de1-b11a-114a0850107d/preregistrations",
-  "registration_open": false,
+  "registration_open": true,
   "start": "2026-11-14",
   "end": "2026-11-14",
   "venue": "FIU Wellness and Recreation Center: Miami, FL",
@@ -3906,6 +3896,131 @@
  },
  {
   "source": "askfred",
+  "id": "97a9eb82-a820-49c4-9134-571ec1c0ae7b",
+  "name": "8th Annual Connor Porter Memorial Tournament (3 Weapons)",
+  "url": "https://www.askfred.net/tournaments/97a9eb82-a820-49c4-9134-571ec1c0ae7b",
+  "register_url": "https://www.askfred.net/tournaments/97a9eb82-a820-49c4-9134-571ec1c0ae7b/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/97a9eb82-a820-49c4-9134-571ec1c0ae7b/preregistrations",
+  "registration_open": true,
+  "start": "2027-02-20",
+  "end": "2027-02-21",
+  "venue": "Chisholm Community Center: Deland, FL",
+  "distance": 138,
+  "events": [
+   {
+    "name": "Senior Mixed Foil",
+    "when": "Feb 20 9:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2027-02-20 09:00"
+   },
+   {
+    "name": "Y10 Mixed Foil",
+    "when": "Feb 20 9:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2027-02-20 09:00"
+   },
+   {
+    "name": "Y14 Mixed Foil",
+    "when": "Feb 20 9:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2027-02-20 09:00"
+   },
+   {
+    "name": "C & Under (Div 2) Senior Mixed Foil",
+    "when": "Feb 20 1:00PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2027-02-20 13:00"
+   },
+   {
+    "name": "Y12 Mixed Foil",
+    "when": "Feb 20 1:00PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2027-02-20 13:00"
+   },
+   {
+    "name": "Senior Mixed Saber",
+    "when": "Feb 21 9:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2027-02-21 09:00"
+   },
+   {
+    "name": "Senior Mixed Epee",
+    "when": "Feb 21 9:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2027-02-21 09:00"
+   },
+   {
+    "name": "Y12 Mixed Epee",
+    "when": "Feb 21 9:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2027-02-21 09:00"
+   },
+   {
+    "name": "Y14 Mixed Epee",
+    "when": "Feb 21 1:00PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2027-02-21 13:00"
+   },
+   {
+    "name": "C & Under (Div 2) Senior Mixed Epee",
+    "when": "Feb 21 1:00PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2027-02-21 13:00"
+   },
+   {
+    "name": "C & Under (Div 2) Senior Mixed Saber",
+    "when": "Feb 21 1:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2027-02-21 13:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
   "id": "321e801d-fc0b-48fb-958a-d916377d9df9",
   "name": "ALLE Winter Saber Cup'27 (Y-8 Mx, Y-10 Mx, Y-12 Mx, Y-14 Mx)",
   "url": "https://www.askfred.net/tournaments/321e801d-fc0b-48fb-958a-d916377d9df9",
@@ -4016,6 +4131,111 @@
  },
  {
   "source": "askfred",
+  "id": "f6c9cf7b-47de-47e1-ae49-a6177b95334e",
+  "name": "Deland Open 2027",
+  "url": "https://www.askfred.net/tournaments/f6c9cf7b-47de-47e1-ae49-a6177b95334e",
+  "register_url": "https://www.askfred.net/tournaments/f6c9cf7b-47de-47e1-ae49-a6177b95334e/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/f6c9cf7b-47de-47e1-ae49-a6177b95334e/preregistrations",
+  "registration_open": true,
+  "start": "2027-03-27",
+  "end": "2027-03-28",
+  "venue": "Chisholm Community Center: Deland, FL",
+  "distance": 138,
+  "events": [
+   {
+    "name": "Y10 Mixed Foil",
+    "when": "Mar 27 9:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Y10",
+    "rating_limit": "Open",
+    "start": "2027-03-27 09:00"
+   },
+   {
+    "name": "Y14 Mixed Foil",
+    "when": "Mar 27 9:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2027-03-27 09:00"
+   },
+   {
+    "name": "Senior Mixed Foil",
+    "when": "Mar 27 9:00AM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2027-03-27 09:00"
+   },
+   {
+    "name": "Y12 Mixed Foil",
+    "when": "Mar 27 1:00PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Y12",
+    "rating_limit": "Open",
+    "start": "2027-03-27 13:00"
+   },
+   {
+    "name": "C & Under (Div 2) Senior Mixed Foil",
+    "when": "Mar 27 1:00PM",
+    "estimate": "U",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2027-03-27 13:00"
+   },
+   {
+    "name": "Senior Mixed Epee",
+    "when": "Mar 28 9:00AM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2027-03-28 09:00"
+   },
+   {
+    "name": "Senior Mixed Saber",
+    "when": "Mar 28 9:00AM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": "2027-03-28 09:00"
+   },
+   {
+    "name": "C & Under (Div 2) Senior Mixed Epee",
+    "when": "Mar 28 1:00PM",
+    "estimate": "U",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2027-03-28 13:00"
+   },
+   {
+    "name": "C & Under (Div 2) Senior Mixed Saber",
+    "when": "Mar 28 1:00PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Div2",
+    "start": "2027-03-28 13:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
   "id": "a84429e4-4004-4619-beb3-fa6832a71f7a",
   "name": "Spring Fling",
   "url": "https://www.askfred.net/tournaments/a84429e4-4004-4619-beb3-fa6832a71f7a",
@@ -4070,7 +4290,7 @@
    {
     "name": "Mixed Foil",
     "when": "Apr 17 2:00PM",
-    "estimate": "U",
+    "estimate": "E1 · up to 25 pts",
     "weapon": "foil",
     "gender": "mixed",
     "age": "None",

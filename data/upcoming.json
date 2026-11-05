@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T17:58:28.864593+00:00",
+ "generated": "2026-11-05T17:59:28.444392+00:00",
  "askfred": [
   {
    "source": "askfred",
@@ -25,16 +25,6 @@
      "start": "2026-11-07 10:00"
     },
     {
-     "name": "Unrated Senior Mixed Saber",
-     "when": "Nov 7 1:00PM",
-     "estimate": "U",
-     "weapon": "saber",
-     "gender": "mixed",
-     "age": "Senior",
-     "rating_limit": "Unrated",
-     "start": "2026-11-07 13:00"
-    },
-    {
      "name": "Unrated Senior Mixed Foil",
      "when": "Nov 7 1:00PM",
      "estimate": "E1 · up to 25 pts",
@@ -47,7 +37,7 @@
     {
      "name": "Senior Mixed Saber",
      "when": "Nov 7 3:30PM",
-     "estimate": "U",
+     "estimate": "E1 · up to 25 pts",
      "weapon": "saber",
      "gender": "mixed",
      "age": "Senior",
