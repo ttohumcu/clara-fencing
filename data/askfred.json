@@ -170,7 +170,7 @@
    {
     "name": "Mixed Saber",
     "when": "Nov 7 2:00PM",
-    "estimate": "U",
+    "estimate": "E1 · up to 25 pts",
     "weapon": "saber",
     "gender": "mixed",
     "age": "None",
@@ -825,7 +825,7 @@
    {
     "name": "Mixed Epee",
     "when": "Nov 14 9:00AM",
-    "estimate": "E1 · up to 25 pts",
+    "estimate": "C1 · up to 35 pts",
     "weapon": "epee",
     "gender": "mixed",
     "age": "None",
@@ -845,7 +845,7 @@
    {
     "name": "Mixed Saber",
     "when": "Nov 14 1:00PM",
-    "estimate": "D1 · up to 30 pts",
+    "estimate": "C1 · up to 35 pts",
     "weapon": "saber",
     "gender": "mixed",
     "age": "None",
@@ -1090,7 +1090,7 @@
    {
     "name": "Vet Combined Men's Saber",
     "when": "Nov 14 10:30AM",
-    "estimate": "U",
+    "estimate": "E1",
     "weapon": "saber",
     "gender": "men",
     "age": "VetCombined",
