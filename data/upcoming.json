@@ -1,14 +1,14 @@
 {
- "generated": "2026-11-06T17:27:57.940858+00:00",
+ "generated": "2026-11-07T16:24:05.832621+00:00",
  "askfred": [
   {
    "source": "askfred",
    "id": "176695a2-e8db-4cae-bf71-4e8e6d364992",
    "name": "Masquerade Duel",
    "url": "https://www.askfred.net/tournaments/176695a2-e8db-4cae-bf71-4e8e6d364992",
-   "register_url": "https://www.askfred.net/tournaments/176695a2-e8db-4cae-bf71-4e8e6d364992/preregister",
+   "register_url": "",
    "whos_coming_url": "https://www.askfred.net/tournaments/176695a2-e8db-4cae-bf71-4e8e6d364992/preregistrations",
-   "registration_open": true,
+   "registration_open": false,
    "start": "2026-11-07",
    "end": "2026-11-08",
    "venue": "Stoccata Fencing Academy: Altamonte Springs, FL",
@@ -17,7 +17,7 @@
     {
      "name": "Senior Mixed Foil",
      "when": "Nov 7 10:00AM",
-     "estimate": "E1 · up to 25 pts",
+     "estimate": "D1 · up to 30 pts",
      "weapon": "foil",
      "gender": "mixed",
      "age": "Senior",
@@ -927,7 +927,7 @@
     {
      "name": "Y10 Women's Epee",
      "when": "Dec 13 1:00PM",
-     "estimate": "U",
+     "estimate": "NR",
      "weapon": "epee",
      "gender": "women",
      "age": "Y10",
