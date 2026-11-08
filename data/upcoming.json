@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T16:24:05.832621+00:00",
+ "generated": "2026-11-08T16:38:57.224754+00:00",
  "askfred": [
   {
    "source": "askfred",
@@ -837,7 +837,7 @@
     {
      "name": "Junior Men's Epee",
      "when": "Dec 13 8:00AM",
-     "estimate": "A1 · up to 80 pts",
+     "estimate": "A2 · up to 80 pts",
      "weapon": "epee",
      "gender": "men",
      "age": "Junior",
@@ -987,7 +987,7 @@
     {
      "name": "Division IA Men’s Saber",
      "when": "Dec 13 3:00PM",
-     "estimate": "U · up to 100 pts",
+     "estimate": "E1 · up to 100 pts",
      "weapon": "saber",
      "gender": "men",
      "age": "Senior",

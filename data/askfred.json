@@ -139,9 +139,9 @@
   "id": "91b813b5-6850-4f07-b833-b07bf28eafcd",
   "name": "FSU 3rd Annual Fall Face Off",
   "url": "https://www.askfred.net/tournaments/91b813b5-6850-4f07-b833-b07bf28eafcd",
-  "register_url": "https://www.askfred.net/tournaments/91b813b5-6850-4f07-b833-b07bf28eafcd/preregister",
+  "register_url": "",
   "whos_coming_url": "https://www.askfred.net/tournaments/91b813b5-6850-4f07-b833-b07bf28eafcd/preregistrations",
-  "registration_open": true,
+  "registration_open": false,
   "start": "2026-11-07",
   "end": "2026-11-07",
   "venue": "Leach Student Recreation Center : Tallahassee, FL",
@@ -635,7 +635,7 @@
    {
     "name": "Cadet Mixed Saber",
     "when": "Nov 8 9:00AM",
-    "estimate": "U",
+    "estimate": "E1",
     "weapon": "saber",
     "gender": "mixed",
     "age": "Cadet",
@@ -1030,7 +1030,7 @@
    {
     "name": "Junior Women's Epee",
     "when": "Nov 14 8:15AM",
-    "estimate": "E1 · up to 80 pts",
+    "estimate": "B1 · up to 80 pts",
     "weapon": "epee",
     "gender": "women",
     "age": "Junior",
@@ -2380,7 +2380,7 @@
    {
     "name": "Junior Men's Epee",
     "when": "Dec 13 8:00AM",
-    "estimate": "A1 · up to 80 pts",
+    "estimate": "A2 · up to 80 pts",
     "weapon": "epee",
     "gender": "men",
     "age": "Junior",
@@ -2530,7 +2530,7 @@
    {
     "name": "Division IA Men’s Saber",
     "when": "Dec 13 3:00PM",
-    "estimate": "U · up to 100 pts",
+    "estimate": "E1 · up to 100 pts",
     "weapon": "saber",
     "gender": "men",
     "age": "Senior",
