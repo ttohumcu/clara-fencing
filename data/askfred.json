@@ -453,6 +453,36 @@
     "start": ""
    },
    {
+    "name": "Unsanctioned Senior Mixed Saber",
+    "when": "Start Unknown",
+    "estimate": "",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Unsanctioned Senior Mixed Foil",
+    "when": "Start Unknown",
+    "estimate": "",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Unsanctioned Senior Mixed Epee",
+    "when": "Start Unknown",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
     "name": "Unsanctioned Mixed Epee Team",
     "when": "Nov 7 10:00AM",
     "estimate": "",
@@ -624,9 +654,9 @@
   "id": "8baead9f-13e2-401e-a644-7d94134db90c",
   "name": "ALLE Fall Saber Cup'26 (CDT- Mx, JNR- Mx, Senior Mx, E & Under senior Mx)",
   "url": "https://www.askfred.net/tournaments/8baead9f-13e2-401e-a644-7d94134db90c",
-  "register_url": "https://www.askfred.net/tournaments/8baead9f-13e2-401e-a644-7d94134db90c/preregister",
+  "register_url": "",
   "whos_coming_url": "https://www.askfred.net/tournaments/8baead9f-13e2-401e-a644-7d94134db90c/preregistrations",
-  "registration_open": true,
+  "registration_open": false,
   "start": "2026-11-08",
   "end": "2026-11-08",
   "venue": "Alle Fencing Club: Fort Lauderdale, FL",
@@ -814,9 +844,9 @@
   "id": "a870ff0c-cba2-4de1-b11a-114a0850107d",
   "name": "FIU 2nd Annual Blue and Gold (FIFC #1)",
   "url": "https://www.askfred.net/tournaments/a870ff0c-cba2-4de1-b11a-114a0850107d",
-  "register_url": "",
+  "register_url": "https://www.askfred.net/tournaments/a870ff0c-cba2-4de1-b11a-114a0850107d/preregister",
   "whos_coming_url": "https://www.askfred.net/tournaments/a870ff0c-cba2-4de1-b11a-114a0850107d/preregistrations",
-  "registration_open": false,
+  "registration_open": true,
   "start": "2026-11-14",
   "end": "2026-11-14",
   "venue": "FIU Wellness and Recreation Center: Miami, FL",
@@ -1920,7 +1950,7 @@
    {
     "name": "Y14 Men's Epee",
     "when": "Dec 11 10:00AM",
-    "estimate": "U",
+    "estimate": "NR",
     "weapon": "epee",
     "gender": "men",
     "age": "Y14",
@@ -2290,7 +2320,7 @@
    {
     "name": "Y14 Women's Foil",
     "when": "Dec 12 3:00PM",
-    "estimate": "U",
+    "estimate": "NR",
     "weapon": "foil",
     "gender": "women",
     "age": "Y14",
