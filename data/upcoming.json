@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T20:42:05.417315+00:00",
+ "generated": "2026-11-10T17:46:11.773849+00:00",
  "askfred": [
   {
    "source": "askfred",
@@ -607,7 +607,7 @@
     {
      "name": "Division IA Men’s Epee",
      "when": "Dec 12 1:00PM",
-     "estimate": "A1 · up to 100 pts",
+     "estimate": "A2 · up to 100 pts",
      "weapon": "epee",
      "gender": "men",
      "age": "Senior",
@@ -647,7 +647,7 @@
     {
      "name": "Y12 Men's Epee",
      "when": "Dec 12 3:00PM",
-     "estimate": "U",
+     "estimate": "NR",
      "weapon": "epee",
      "gender": "men",
      "age": "Y12",
@@ -827,7 +827,7 @@
     {
      "name": "Y12 Men's Foil",
      "when": "Dec 13 1:00PM",
-     "estimate": "U",
+     "estimate": "NR",
      "weapon": "foil",
      "gender": "men",
      "age": "Y12",
@@ -857,7 +857,7 @@
     {
      "name": "Division II Men’s Foil",
      "when": "Dec 13 2:00PM",
-     "estimate": "U · up to 40 pts",
+     "estimate": "E1 · up to 40 pts",
      "weapon": "foil",
      "gender": "men",
      "age": "Senior",

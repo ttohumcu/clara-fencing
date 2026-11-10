@@ -1,186 +1,6 @@
 [
  {
   "source": "askfred",
-  "id": "1aa108a2-d968-4cb9-a6bd-19587c54f41d",
-  "name": "2027 Gold Coast Junior Olympics FOIL, SABER & EPEE QUALIFIER",
-  "url": "https://www.askfred.net/tournaments/1aa108a2-d968-4cb9-a6bd-19587c54f41d",
-  "register_url": "",
-  "whos_coming_url": "https://www.askfred.net/tournaments/1aa108a2-d968-4cb9-a6bd-19587c54f41d/preregistrations",
-  "registration_open": false,
-  "start": "2026-11-07",
-  "end": "2026-11-07",
-  "venue": "University Of Miami - Herbert Wellness Center: Coral Gables, FL",
-  "distance": 179,
-  "events": [
-   {
-    "name": "Cadet Men's Foil",
-    "when": "Nov 7 9:00AM",
-    "estimate": "U",
-    "weapon": "foil",
-    "gender": "men",
-    "age": "Cadet",
-    "rating_limit": "Open",
-    "start": "2026-11-07 09:00"
-   },
-   {
-    "name": "Cadet Women's Saber",
-    "when": "Nov 7 9:00AM",
-    "estimate": "U",
-    "weapon": "saber",
-    "gender": "women",
-    "age": "Cadet",
-    "rating_limit": "Open",
-    "start": "2026-11-07 09:00"
-   },
-   {
-    "name": "Cadet Women's Epee",
-    "when": "Nov 7 9:00AM",
-    "estimate": "U",
-    "weapon": "epee",
-    "gender": "women",
-    "age": "Cadet",
-    "rating_limit": "Open",
-    "start": "2026-11-07 09:00"
-   },
-   {
-    "name": "Cadet Women's Foil",
-    "when": "Nov 7 9:00AM",
-    "estimate": "U",
-    "weapon": "foil",
-    "gender": "women",
-    "age": "Cadet",
-    "rating_limit": "Open",
-    "start": "2026-11-07 09:00"
-   },
-   {
-    "name": "Cadet Men's Saber",
-    "when": "Nov 7 9:00AM",
-    "estimate": "U",
-    "weapon": "saber",
-    "gender": "men",
-    "age": "Cadet",
-    "rating_limit": "Open",
-    "start": "2026-11-07 09:00"
-   },
-   {
-    "name": "Cadet Men's Epee",
-    "when": "Nov 7 9:00AM",
-    "estimate": "U",
-    "weapon": "epee",
-    "gender": "men",
-    "age": "Cadet",
-    "rating_limit": "Open",
-    "start": "2026-11-07 09:00"
-   },
-   {
-    "name": "Junior Men's Epee",
-    "when": "Nov 7 11:00AM",
-    "estimate": "U",
-    "weapon": "epee",
-    "gender": "men",
-    "age": "Junior",
-    "rating_limit": "Open",
-    "start": "2026-11-07 11:00"
-   },
-   {
-    "name": "Junior Men's Saber",
-    "when": "Nov 7 11:00AM",
-    "estimate": "U",
-    "weapon": "saber",
-    "gender": "men",
-    "age": "Junior",
-    "rating_limit": "Open",
-    "start": "2026-11-07 11:00"
-   },
-   {
-    "name": "Junior Women's Foil",
-    "when": "Nov 7 11:00AM",
-    "estimate": "U",
-    "weapon": "foil",
-    "gender": "women",
-    "age": "Junior",
-    "rating_limit": "Open",
-    "start": "2026-11-07 11:00"
-   },
-   {
-    "name": "Junior Men's Foil",
-    "when": "Nov 7 11:00AM",
-    "estimate": "U",
-    "weapon": "foil",
-    "gender": "men",
-    "age": "Junior",
-    "rating_limit": "Open",
-    "start": "2026-11-07 11:00"
-   },
-   {
-    "name": "Junior Women's Saber",
-    "when": "Nov 7 11:00AM",
-    "estimate": "U",
-    "weapon": "saber",
-    "gender": "women",
-    "age": "Junior",
-    "rating_limit": "Open",
-    "start": "2026-11-07 11:00"
-   },
-   {
-    "name": "Junior Women's Epee",
-    "when": "Nov 7 11:00AM",
-    "estimate": "U",
-    "weapon": "epee",
-    "gender": "women",
-    "age": "Junior",
-    "rating_limit": "Open",
-    "start": "2026-11-07 11:00"
-   }
-  ]
- },
- {
-  "source": "askfred",
-  "id": "91b813b5-6850-4f07-b833-b07bf28eafcd",
-  "name": "FSU 3rd Annual Fall Face Off",
-  "url": "https://www.askfred.net/tournaments/91b813b5-6850-4f07-b833-b07bf28eafcd",
-  "register_url": "",
-  "whos_coming_url": "https://www.askfred.net/tournaments/91b813b5-6850-4f07-b833-b07bf28eafcd/preregistrations",
-  "registration_open": false,
-  "start": "2026-11-07",
-  "end": "2026-11-07",
-  "venue": "Leach Student Recreation Center : Tallahassee, FL",
-  "distance": 240,
-  "events": [
-   {
-    "name": "Mixed Foil",
-    "when": "Nov 7 8:00AM",
-    "estimate": "U",
-    "weapon": "foil",
-    "gender": "mixed",
-    "age": "None",
-    "rating_limit": "Open",
-    "start": "2026-11-07 08:00"
-   },
-   {
-    "name": "Mixed Epee",
-    "when": "Nov 7 11:00AM",
-    "estimate": "A1 · up to 65 pts",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "None",
-    "rating_limit": "Open",
-    "start": "2026-11-07 11:00"
-   },
-   {
-    "name": "Mixed Saber",
-    "when": "Nov 7 2:00PM",
-    "estimate": "E1 · up to 25 pts",
-    "weapon": "saber",
-    "gender": "mixed",
-    "age": "None",
-    "rating_limit": "Open",
-    "start": "2026-11-07 14:00"
-   }
-  ]
- },
- {
-  "source": "askfred",
   "id": "7bb46e23-5dec-4994-8ea3-7fc7b22604bd",
   "name": "2026 Georgia Division JO Qualifier",
   "url": "https://www.askfred.net/tournaments/7bb46e23-5dec-4994-8ea3-7fc7b22604bd",
@@ -844,9 +664,9 @@
   "id": "a870ff0c-cba2-4de1-b11a-114a0850107d",
   "name": "FIU 2nd Annual Blue and Gold (FIFC #1)",
   "url": "https://www.askfred.net/tournaments/a870ff0c-cba2-4de1-b11a-114a0850107d",
-  "register_url": "https://www.askfred.net/tournaments/a870ff0c-cba2-4de1-b11a-114a0850107d/preregister",
+  "register_url": "",
   "whos_coming_url": "https://www.askfred.net/tournaments/a870ff0c-cba2-4de1-b11a-114a0850107d/preregistrations",
-  "registration_open": true,
+  "registration_open": false,
   "start": "2026-11-14",
   "end": "2026-11-14",
   "venue": "FIU Wellness and Recreation Center: Miami, FL",
@@ -2290,7 +2110,7 @@
    {
     "name": "Division IA Men’s Epee",
     "when": "Dec 12 1:00PM",
-    "estimate": "A1 · up to 100 pts",
+    "estimate": "A2 · up to 100 pts",
     "weapon": "epee",
     "gender": "men",
     "age": "Senior",
@@ -2330,7 +2150,7 @@
    {
     "name": "Y12 Men's Epee",
     "when": "Dec 12 3:00PM",
-    "estimate": "U",
+    "estimate": "NR",
     "weapon": "epee",
     "gender": "men",
     "age": "Y12",
@@ -2510,7 +2330,7 @@
    {
     "name": "Y12 Men's Foil",
     "when": "Dec 13 1:00PM",
-    "estimate": "U",
+    "estimate": "NR",
     "weapon": "foil",
     "gender": "men",
     "age": "Y12",
@@ -2540,7 +2360,7 @@
    {
     "name": "Division II Men’s Foil",
     "when": "Dec 13 2:00PM",
-    "estimate": "U · up to 40 pts",
+    "estimate": "E1 · up to 40 pts",
     "weapon": "foil",
     "gender": "men",
     "age": "Senior",
