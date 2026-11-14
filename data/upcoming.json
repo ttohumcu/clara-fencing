@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T17:42:30.727751+00:00",
+ "generated": "2026-11-14T16:35:17.723024+00:00",
  "askfred": [
   {
    "source": "askfred",
@@ -837,7 +837,7 @@
     {
      "name": "Cadet Women's Foil",
      "when": "Dec 13 1:00PM",
-     "estimate": "U · up to 60 pts",
+     "estimate": "E1 · up to 60 pts",
      "weapon": "foil",
      "gender": "women",
      "age": "Cadet",
@@ -1081,7 +1081,7 @@
     {
      "name": "Division II Men’s Epee",
      "when": "Jan 29 4:00PM",
-     "estimate": "U · up to 40 pts",
+     "estimate": "E1 · up to 40 pts",
      "weapon": "epee",
      "gender": "men",
      "age": "Senior",
