@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T16:35:17.723024+00:00",
+ "generated": "2026-11-15T17:04:39.508424+00:00",
  "askfred": [
   {
    "source": "askfred",
@@ -297,7 +297,7 @@
     {
      "name": "Vet Combined Men's Epee",
      "when": "Dec 11 10:00AM",
-     "estimate": "U",
+     "estimate": "E1",
      "weapon": "epee",
      "gender": "men",
      "age": "VetCombined",
@@ -327,7 +327,7 @@
     {
      "name": "Division IA Men’s Foil",
      "when": "Dec 11 10:00AM",
-     "estimate": "U · up to 100 pts",
+     "estimate": "E1 · up to 100 pts",
      "weapon": "foil",
      "gender": "men",
      "age": "Senior",
@@ -407,7 +407,7 @@
     {
      "name": "Division II Women’s Epee",
      "when": "Dec 11 2:30PM",
-     "estimate": "U · up to 40 pts",
+     "estimate": "E1 · up to 40 pts",
      "weapon": "epee",
      "gender": "women",
      "age": "Senior",
@@ -537,7 +537,7 @@
     {
      "name": "Y10 Men's Foil",
      "when": "Dec 12 11:00AM",
-     "estimate": "U",
+     "estimate": "NR",
      "weapon": "foil",
      "gender": "men",
      "age": "Y10",
