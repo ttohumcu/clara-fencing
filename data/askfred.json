@@ -223,36 +223,6 @@
   "distance": 491,
   "events": [
    {
-    "name": "Senior Men's Foil",
-    "when": "Start Unknown",
-    "estimate": "U · up to 100 pts",
-    "weapon": "foil",
-    "gender": "men",
-    "age": "Senior",
-    "rating_limit": "Open",
-    "start": ""
-   },
-   {
-    "name": "Senior Men's Epee",
-    "when": "Start Unknown",
-    "estimate": "U · up to 100 pts",
-    "weapon": "epee",
-    "gender": "men",
-    "age": "Senior",
-    "rating_limit": "Open",
-    "start": ""
-   },
-   {
-    "name": "Senior Men's Saber",
-    "when": "Start Unknown",
-    "estimate": "U · up to 100 pts",
-    "weapon": "saber",
-    "gender": "men",
-    "age": "Senior",
-    "rating_limit": "Open",
-    "start": ""
-   },
-   {
     "name": "Senior Women's Foil",
     "when": "Start Unknown",
     "estimate": "U · up to 100 pts",
@@ -338,6 +308,36 @@
     "estimate": "U · up to 100 pts",
     "weapon": "saber",
     "gender": "women",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Senior Men's Foil",
+    "when": "Start Unknown",
+    "estimate": "U · up to 100 pts",
+    "weapon": "foil",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Senior Men's Epee",
+    "when": "Start Unknown",
+    "estimate": "U · up to 100 pts",
+    "weapon": "epee",
+    "gender": "men",
+    "age": "Senior",
+    "rating_limit": "Open",
+    "start": ""
+   },
+   {
+    "name": "Senior Men's Saber",
+    "when": "Start Unknown",
+    "estimate": "U · up to 100 pts",
+    "weapon": "saber",
+    "gender": "men",
     "age": "Senior",
     "rating_limit": "Open",
     "start": ""
@@ -403,22 +403,22 @@
     "start": "2026-11-14 09:30"
    },
    {
-    "name": "Cadet Men's Saber",
-    "when": "Nov 14 10:30AM",
-    "estimate": "E1 · up to 60 pts",
-    "weapon": "saber",
-    "gender": "men",
-    "age": "Cadet",
-    "rating_limit": "Open",
-    "start": "2026-11-14 10:30"
-   },
-   {
     "name": "Vet Combined Men's Saber",
     "when": "Nov 14 10:30AM",
     "estimate": "E1",
     "weapon": "saber",
     "gender": "men",
     "age": "VetCombined",
+    "rating_limit": "Open",
+    "start": "2026-11-14 10:30"
+   },
+   {
+    "name": "Cadet Men's Saber",
+    "when": "Nov 14 10:30AM",
+    "estimate": "E1 · up to 60 pts",
+    "weapon": "saber",
+    "gender": "men",
+    "age": "Cadet",
     "rating_limit": "Open",
     "start": "2026-11-14 10:30"
    },
@@ -463,16 +463,6 @@
     "start": "2026-11-14 11:45"
    },
    {
-    "name": "Cadet Men's Epee",
-    "when": "Nov 14 12:30PM",
-    "estimate": "E1 · up to 60 pts",
-    "weapon": "epee",
-    "gender": "men",
-    "age": "Cadet",
-    "rating_limit": "Open",
-    "start": "2026-11-14 12:30"
-   },
-   {
     "name": "Vet Combined Men's Epee",
     "when": "Nov 14 12:30PM",
     "estimate": "E1",
@@ -483,14 +473,14 @@
     "start": "2026-11-14 12:30"
    },
    {
-    "name": "Cadet Women's Epee",
-    "when": "Nov 14 12:45PM",
+    "name": "Cadet Men's Epee",
+    "when": "Nov 14 12:30PM",
     "estimate": "E1 · up to 60 pts",
     "weapon": "epee",
-    "gender": "women",
+    "gender": "men",
     "age": "Cadet",
     "rating_limit": "Open",
-    "start": "2026-11-14 12:45"
+    "start": "2026-11-14 12:30"
    },
    {
     "name": "Division II Women’s Epee",
@@ -500,6 +490,16 @@
     "gender": "women",
     "age": "Senior",
     "rating_limit": "Div2",
+    "start": "2026-11-14 12:45"
+   },
+   {
+    "name": "Cadet Women's Epee",
+    "when": "Nov 14 12:45PM",
+    "estimate": "E1 · up to 60 pts",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "Cadet",
+    "rating_limit": "Open",
     "start": "2026-11-14 12:45"
    },
    {
@@ -563,20 +563,20 @@
     "start": "2026-11-14 15:45"
    },
    {
-    "name": "Junior Men's Epee",
+    "name": "Junior Men's Saber",
     "when": "Nov 15 8:00AM",
-    "estimate": "A1 · up to 80 pts",
-    "weapon": "epee",
+    "estimate": "E1 · up to 80 pts",
+    "weapon": "saber",
     "gender": "men",
     "age": "Junior",
     "rating_limit": "Open",
     "start": "2026-11-15 08:00"
    },
    {
-    "name": "Junior Men's Saber",
+    "name": "Junior Men's Epee",
     "when": "Nov 15 8:00AM",
-    "estimate": "E1 · up to 80 pts",
-    "weapon": "saber",
+    "estimate": "A1 · up to 80 pts",
+    "weapon": "epee",
     "gender": "men",
     "age": "Junior",
     "rating_limit": "Open",
@@ -683,16 +683,6 @@
     "start": "2026-11-15 12:30"
    },
    {
-    "name": "Vet Combined Women's Epee",
-    "when": "Nov 15 12:45PM",
-    "estimate": "E1",
-    "weapon": "epee",
-    "gender": "women",
-    "age": "VetCombined",
-    "rating_limit": "Open",
-    "start": "2026-11-15 12:45"
-   },
-   {
     "name": "Division II Women’s Foil",
     "when": "Nov 15 12:45PM",
     "estimate": "E1 · up to 40 pts",
@@ -700,6 +690,16 @@
     "gender": "women",
     "age": "Senior",
     "rating_limit": "Div2",
+    "start": "2026-11-15 12:45"
+   },
+   {
+    "name": "Vet Combined Women's Epee",
+    "when": "Nov 15 12:45PM",
+    "estimate": "E1",
+    "weapon": "epee",
+    "gender": "women",
+    "age": "VetCombined",
+    "rating_limit": "Open",
     "start": "2026-11-15 12:45"
    }
   ]
@@ -996,6 +996,41 @@
  },
  {
   "source": "askfred",
+  "id": "bb297d87-26bd-485e-8a92-2dd541398efe",
+  "name": "Santa Fe Fall Fight",
+  "url": "https://www.askfred.net/tournaments/bb297d87-26bd-485e-8a92-2dd541398efe",
+  "register_url": "https://www.askfred.net/tournaments/bb297d87-26bd-485e-8a92-2dd541398efe/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/bb297d87-26bd-485e-8a92-2dd541398efe/preregistrations",
+  "registration_open": true,
+  "start": "2026-11-30",
+  "end": "2026-11-30",
+  "venue": "Santa Fe College : Gainesville, FL",
+  "distance": 162,
+  "events": [
+   {
+    "name": "Unrated Senior Mixed Saber",
+    "when": "Nov 30 6:30PM",
+    "estimate": "U",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Unrated",
+    "start": "2026-11-30 18:30"
+   },
+   {
+    "name": "Unrated Senior Mixed Epee",
+    "when": "Nov 30 6:30PM",
+    "estimate": "E1 · up to 25 pts",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Unrated",
+    "start": "2026-11-30 18:30"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
   "id": "c798312e-e648-43a1-bd4c-1ba252796c63",
   "name": "USF 14th Annual Fall Tournament",
   "url": "https://www.askfred.net/tournaments/c798312e-e648-43a1-bd4c-1ba252796c63",
@@ -1050,7 +1085,7 @@
    {
     "name": "Div 1A Senior Mixed Saber",
     "when": "Dec 6 10:15AM",
-    "estimate": "U",
+    "estimate": "E1 · up to 25 pts",
     "weapon": "saber",
     "gender": "mixed",
     "age": "Senior",
@@ -1445,7 +1480,7 @@
    {
     "name": "Cadet Men's Epee",
     "when": "Dec 12 8:00AM",
-    "estimate": "A1 · up to 60 pts",
+    "estimate": "A2 · up to 60 pts",
     "weapon": "epee",
     "gender": "men",
     "age": "Cadet",
@@ -1715,7 +1750,7 @@
    {
     "name": "Junior Men's Foil",
     "when": "Dec 13 8:00AM",
-    "estimate": "E1 · up to 80 pts",
+    "estimate": "B1 · up to 80 pts",
     "weapon": "foil",
     "gender": "men",
     "age": "Junior",
