@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T19:09:54.299876+00:00",
+ "generated": "2026-11-18T18:49:39.447932+00:00",
  "askfred": [
   {
    "source": "askfred",
@@ -377,7 +377,7 @@
     {
      "name": "Y12 Women's Foil",
      "when": "Dec 11 2:00PM",
-     "estimate": "U",
+     "estimate": "NR",
      "weapon": "foil",
      "gender": "women",
      "age": "Y12",
@@ -497,7 +497,7 @@
     {
      "name": "Junior Men's Saber",
      "when": "Dec 12 9:00AM",
-     "estimate": "E1 · up to 80 pts",
+     "estimate": "B1 · up to 80 pts",
      "weapon": "saber",
      "gender": "men",
      "age": "Junior",
@@ -4838,8 +4838,7 @@
    "end": "2027-03-08",
    "categories": "Y14, Y12, Y10, Division II",
    "notes": [
-    "Atlantic City Convention Center",
-    "Hotel booking link coming soon"
+    "Atlantic City Convention Center"
    ],
    "url": "https://www.usafencing.org/2027-march-nac",
    "fits": [
