@@ -1,131 +1,6 @@
 [
  {
   "source": "askfred",
-  "id": "c9e3a262-b802-4ad7-915d-dd0aac29dfb4",
-  "name": "7th ANNUAL SWORD MASTER CUP \"The Golden Turkey\" 2026",
-  "url": "https://www.askfred.net/tournaments/c9e3a262-b802-4ad7-915d-dd0aac29dfb4",
-  "register_url": "https://www.askfred.net/tournaments/c9e3a262-b802-4ad7-915d-dd0aac29dfb4/preregister",
-  "whos_coming_url": "https://www.askfred.net/tournaments/c9e3a262-b802-4ad7-915d-dd0aac29dfb4/preregistrations",
-  "registration_open": true,
-  "start": "2026-11-21",
-  "end": "2026-11-22",
-  "venue": "SWORD MASTERS CLUB, ORLANDO: Orlando, Florida",
-  "distance": 114,
-  "events": [
-   {
-    "name": "Cadet Mixed Epee",
-    "when": "Nov 21 1:00PM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Cadet",
-    "rating_limit": "Open",
-    "start": "2026-11-21 13:00"
-   },
-   {
-    "name": "Junior Mixed Epee",
-    "when": "Nov 21 3:00PM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Junior",
-    "rating_limit": "Open",
-    "start": "2026-11-21 15:00"
-   },
-   {
-    "name": "Senior Mixed Epee",
-    "when": "Nov 21 5:00PM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Open",
-    "start": "2026-11-21 17:00"
-   },
-   {
-    "name": "Vet Combined Women's Epee",
-    "when": "Nov 22 9:00AM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "women",
-    "age": "VetCombined",
-    "rating_limit": "Open",
-    "start": "2026-11-22 09:00"
-   },
-   {
-    "name": "Mixed Epee",
-    "when": "Nov 22 9:00AM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "None",
-    "rating_limit": "Open",
-    "start": "2026-11-22 09:00"
-   },
-   {
-    "name": "Vet Combined Men's Epee",
-    "when": "Nov 22 9:00AM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "men",
-    "age": "VetCombined",
-    "rating_limit": "Open",
-    "start": "2026-11-22 09:00"
-   },
-   {
-    "name": "Senior Mixed Saber",
-    "when": "Nov 22 11:00AM",
-    "estimate": "",
-    "weapon": "saber",
-    "gender": "mixed",
-    "age": "Senior",
-    "rating_limit": "Open",
-    "start": "2026-11-22 11:00"
-   },
-   {
-    "name": "Y8 Mixed Epee",
-    "when": "Nov 22 11:00AM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Y8",
-    "rating_limit": "Open",
-    "start": "2026-11-22 11:00"
-   },
-   {
-    "name": "Y10 Mixed Epee",
-    "when": "Nov 22 1:00PM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Y10",
-    "rating_limit": "Open",
-    "start": "2026-11-22 13:00"
-   },
-   {
-    "name": "Y12 Mixed Epee",
-    "when": "Nov 22 3:00PM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Y12",
-    "rating_limit": "Open",
-    "start": "2026-11-22 15:00"
-   },
-   {
-    "name": "Y14 Mixed Epee",
-    "when": "Nov 22 5:00PM",
-    "estimate": "",
-    "weapon": "epee",
-    "gender": "mixed",
-    "age": "Y14",
-    "rating_limit": "Open",
-    "start": "2026-11-22 17:00"
-   }
-  ]
- },
- {
-  "source": "askfred",
   "id": "60fbc7c1-8f5f-4765-a3d3-79bc0d50eec8",
   "name": "Alpha Saber Challenge 2",
   "url": "https://www.askfred.net/tournaments/60fbc7c1-8f5f-4765-a3d3-79bc0d50eec8",
@@ -790,7 +665,7 @@
    {
     "name": "Y10 Women's Foil",
     "when": "Dec 12 11:00AM",
-    "estimate": "U",
+    "estimate": "NR",
     "weapon": "foil",
     "gender": "women",
     "age": "Y10",
@@ -970,7 +845,7 @@
    {
     "name": "Junior Women's Saber",
     "when": "Dec 13 8:00AM",
-    "estimate": "U · up to 80 pts",
+    "estimate": "E1 · up to 80 pts",
     "weapon": "saber",
     "gender": "women",
     "age": "Junior",
@@ -1815,7 +1690,7 @@
    {
     "name": "Division IA Men’s Epee",
     "when": "Jan 30 4:00PM",
-    "estimate": "E1 · up to 100 pts",
+    "estimate": "A1 · up to 100 pts",
     "weapon": "epee",
     "gender": "men",
     "age": "Senior",

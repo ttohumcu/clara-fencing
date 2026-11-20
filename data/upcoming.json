@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T18:58:25.770373+00:00",
+ "generated": "2026-11-20T18:35:30.369212+00:00",
  "askfred": [
   {
    "source": "askfred",
@@ -527,7 +527,7 @@
     {
      "name": "Y10 Women's Foil",
      "when": "Dec 12 11:00AM",
-     "estimate": "U",
+     "estimate": "NR",
      "weapon": "foil",
      "gender": "women",
      "age": "Y10",
@@ -707,7 +707,7 @@
     {
      "name": "Junior Women's Saber",
      "when": "Dec 13 8:00AM",
-     "estimate": "U · up to 80 pts",
+     "estimate": "E1 · up to 80 pts",
      "weapon": "saber",
      "gender": "women",
      "age": "Junior",
@@ -1291,7 +1291,7 @@
     {
      "name": "Division IA Men’s Epee",
      "when": "Jan 30 4:00PM",
-     "estimate": "E1 · up to 100 pts",
+     "estimate": "A1 · up to 100 pts",
      "weapon": "epee",
      "gender": "men",
      "age": "Senior",
