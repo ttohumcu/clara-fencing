@@ -625,7 +625,7 @@
    {
     "name": "Cadet Men's Foil",
     "when": "Dec 12 8:00AM",
-    "estimate": "C1 · up to 60 pts",
+    "estimate": "B1 · up to 60 pts",
     "weapon": "foil",
     "gender": "men",
     "age": "Cadet",
@@ -635,7 +635,7 @@
    {
     "name": "Junior Men's Saber",
     "when": "Dec 12 9:00AM",
-    "estimate": "B1 · up to 80 pts",
+    "estimate": "C1 · up to 80 pts",
     "weapon": "saber",
     "gender": "men",
     "age": "Junior",
@@ -855,7 +855,7 @@
    {
     "name": "Junior Women's Foil",
     "when": "Dec 13 8:00AM",
-    "estimate": "E1 · up to 80 pts",
+    "estimate": "U · up to 80 pts",
     "weapon": "foil",
     "gender": "women",
     "age": "Junior",
