@@ -495,7 +495,7 @@
    {
     "name": "Vet Combined Women's Foil",
     "when": "Dec 11 1:00PM",
-    "estimate": "U",
+    "estimate": "E1",
     "weapon": "foil",
     "gender": "women",
     "age": "VetCombined",
@@ -835,7 +835,7 @@
    {
     "name": "Division IA Women’s Epee",
     "when": "Dec 13 8:00AM",
-    "estimate": "E1 · up to 100 pts",
+    "estimate": "A1 · up to 100 pts",
     "weapon": "epee",
     "gender": "women",
     "age": "Senior",
@@ -855,7 +855,7 @@
    {
     "name": "Junior Women's Foil",
     "when": "Dec 13 8:00AM",
-    "estimate": "U · up to 80 pts",
+    "estimate": "E1 · up to 80 pts",
     "weapon": "foil",
     "gender": "women",
     "age": "Junior",
@@ -1520,7 +1520,7 @@
    {
     "name": "Junior Women's Epee",
     "when": "Jan 30 8:00AM",
-    "estimate": "U · up to 80 pts",
+    "estimate": "E1 · up to 80 pts",
     "weapon": "epee",
     "gender": "women",
     "age": "Junior",
@@ -2150,7 +2150,7 @@
    {
     "name": "Y14 Men's Saber",
     "when": "Feb 6 8:30AM",
-    "estimate": "NR",
+    "estimate": "U",
     "weapon": "saber",
     "gender": "men",
     "age": "Y14",
