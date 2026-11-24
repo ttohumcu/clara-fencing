@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T22:01:11.341354+00:00",
+ "generated": "2026-11-24T20:38:18.127368+00:00",
  "askfred": [
   {
    "source": "askfred",
@@ -265,9 +265,39 @@
      "start": "2026-12-11 10:00"
     },
     {
+     "name": "Division IA Men’s Foil",
+     "when": "Dec 11 10:00AM",
+     "estimate": "E1 · up to 100 pts",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Div1A",
+     "start": "2026-12-11 10:00"
+    },
+    {
+     "name": "Division II Men’s Saber",
+     "when": "Dec 11 10:00AM",
+     "estimate": "E1 · up to 40 pts",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Div2",
+     "start": "2026-12-11 10:00"
+    },
+    {
+     "name": "Division II Women’s Foil",
+     "when": "Dec 11 10:00AM",
+     "estimate": "E1 · up to 40 pts",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Div2",
+     "start": "2026-12-11 10:00"
+    },
+    {
      "name": "Y14 Men's Epee",
      "when": "Dec 11 10:00AM",
-     "estimate": "NR",
+     "estimate": "C1",
      "weapon": "epee",
      "gender": "men",
      "age": "Y14",
@@ -287,7 +317,7 @@
     {
      "name": "Junior Women's Epee",
      "when": "Dec 11 10:00AM",
-     "estimate": "E1 · up to 80 pts",
+     "estimate": "B1 · up to 80 pts",
      "weapon": "epee",
      "gender": "women",
      "age": "Junior",
@@ -297,41 +327,11 @@
     {
      "name": "Vet Combined Men's Epee",
      "when": "Dec 11 10:00AM",
-     "estimate": "E1",
+     "estimate": "B1",
      "weapon": "epee",
      "gender": "men",
      "age": "VetCombined",
      "rating_limit": "Open",
-     "start": "2026-12-11 10:00"
-    },
-    {
-     "name": "Division II Women’s Foil",
-     "when": "Dec 11 10:00AM",
-     "estimate": "E1 · up to 40 pts",
-     "weapon": "foil",
-     "gender": "women",
-     "age": "Senior",
-     "rating_limit": "Div2",
-     "start": "2026-12-11 10:00"
-    },
-    {
-     "name": "Division II Men’s Saber",
-     "when": "Dec 11 10:00AM",
-     "estimate": "E1 · up to 40 pts",
-     "weapon": "saber",
-     "gender": "men",
-     "age": "Senior",
-     "rating_limit": "Div2",
-     "start": "2026-12-11 10:00"
-    },
-    {
-     "name": "Division IA Men’s Foil",
-     "when": "Dec 11 10:00AM",
-     "estimate": "E1 · up to 100 pts",
-     "weapon": "foil",
-     "gender": "men",
-     "age": "Senior",
-     "rating_limit": "Div1A",
      "start": "2026-12-11 10:00"
     },
     {
@@ -343,16 +343,6 @@
      "age": "Senior",
      "rating_limit": "Open",
      "start": "2026-12-11 11:00"
-    },
-    {
-     "name": "Y8 Men's Epee",
-     "when": "Dec 11 1:00PM",
-     "estimate": "U",
-     "weapon": "epee",
-     "gender": "men",
-     "age": "Y8",
-     "rating_limit": "Open",
-     "start": "2026-12-11 13:00"
     },
     {
      "name": "Vet Combined Women's Foil",
@@ -375,14 +365,14 @@
      "start": "2026-12-11 13:00"
     },
     {
-     "name": "Y12 Women's Foil",
-     "when": "Dec 11 2:00PM",
-     "estimate": "NR",
-     "weapon": "foil",
-     "gender": "women",
-     "age": "Y12",
+     "name": "Y8 Men's Epee",
+     "when": "Dec 11 1:00PM",
+     "estimate": "U",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Y8",
      "rating_limit": "Open",
-     "start": "2026-12-11 14:00"
+     "start": "2026-12-11 13:00"
     },
     {
      "name": "Parafencing Senior Women's Saber",
@@ -391,6 +381,16 @@
      "weapon": "saber",
      "gender": "women",
      "age": "Senior",
+     "rating_limit": "Open",
+     "start": "2026-12-11 14:00"
+    },
+    {
+     "name": "Y12 Women's Foil",
+     "when": "Dec 11 2:00PM",
+     "estimate": "NR",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Y12",
      "rating_limit": "Open",
      "start": "2026-12-11 14:00"
     },
@@ -415,16 +415,6 @@
      "start": "2026-12-11 14:30"
     },
     {
-     "name": "Division II Men’s Epee",
-     "when": "Dec 11 2:30PM",
-     "estimate": "C1 · up to 40 pts",
-     "weapon": "epee",
-     "gender": "men",
-     "age": "Senior",
-     "rating_limit": "Div2",
-     "start": "2026-12-11 14:30"
-    },
-    {
      "name": "Y12 Women's Epee",
      "when": "Dec 11 2:30PM",
      "estimate": "NR",
@@ -432,6 +422,16 @@
      "gender": "women",
      "age": "Y12",
      "rating_limit": "Open",
+     "start": "2026-12-11 14:30"
+    },
+    {
+     "name": "Division II Men’s Epee",
+     "when": "Dec 11 2:30PM",
+     "estimate": "C1 · up to 40 pts",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Div2",
      "start": "2026-12-11 14:30"
     },
     {
@@ -455,29 +455,9 @@
      "start": "2026-12-11 16:00"
     },
     {
-     "name": "Y14 Women's Saber",
-     "when": "Dec 12 8:00AM",
-     "estimate": "U",
-     "weapon": "saber",
-     "gender": "women",
-     "age": "Y14",
-     "rating_limit": "Open",
-     "start": "2026-12-12 08:00"
-    },
-    {
-     "name": "Cadet Men's Epee",
-     "when": "Dec 12 8:00AM",
-     "estimate": "A2 · up to 60 pts",
-     "weapon": "epee",
-     "gender": "men",
-     "age": "Cadet",
-     "rating_limit": "Open",
-     "start": "2026-12-12 08:00"
-    },
-    {
      "name": "Division IA Women’s Foil",
      "when": "Dec 12 8:00AM",
-     "estimate": "E1 · up to 100 pts",
+     "estimate": "B1 · up to 100 pts",
      "weapon": "foil",
      "gender": "women",
      "age": "Senior",
@@ -495,12 +475,32 @@
      "start": "2026-12-12 08:00"
     },
     {
-     "name": "Junior Men's Saber",
-     "when": "Dec 12 9:00AM",
-     "estimate": "B1 · up to 80 pts",
-     "weapon": "saber",
+     "name": "Cadet Men's Epee",
+     "when": "Dec 12 8:00AM",
+     "estimate": "A2 · up to 60 pts",
+     "weapon": "epee",
      "gender": "men",
-     "age": "Junior",
+     "age": "Cadet",
+     "rating_limit": "Open",
+     "start": "2026-12-12 08:00"
+    },
+    {
+     "name": "Y14 Women's Saber",
+     "when": "Dec 12 8:00AM",
+     "estimate": "NR",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Y14",
+     "rating_limit": "Open",
+     "start": "2026-12-12 08:00"
+    },
+    {
+     "name": "Parafencing Senior Women's Foil",
+     "when": "Dec 12 9:00AM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Senior",
      "rating_limit": "Open",
      "start": "2026-12-12 09:00"
     },
@@ -515,24 +515,14 @@
      "start": "2026-12-12 09:00"
     },
     {
-     "name": "Parafencing Senior Women's Foil",
+     "name": "Junior Men's Saber",
      "when": "Dec 12 9:00AM",
-     "estimate": "U",
-     "weapon": "foil",
-     "gender": "women",
-     "age": "Senior",
+     "estimate": "B1 · up to 80 pts",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Junior",
      "rating_limit": "Open",
      "start": "2026-12-12 09:00"
-    },
-    {
-     "name": "Y10 Women's Foil",
-     "when": "Dec 12 11:00AM",
-     "estimate": "NR",
-     "weapon": "foil",
-     "gender": "women",
-     "age": "Y10",
-     "rating_limit": "Open",
-     "start": "2026-12-12 11:00"
     },
     {
      "name": "Y10 Men's Foil",
@@ -545,14 +535,14 @@
      "start": "2026-12-12 11:00"
     },
     {
-     "name": "Y10 Women's Saber",
-     "when": "Dec 12 12:00PM",
-     "estimate": "U",
-     "weapon": "saber",
+     "name": "Y10 Women's Foil",
+     "when": "Dec 12 11:00AM",
+     "estimate": "NR",
+     "weapon": "foil",
      "gender": "women",
      "age": "Y10",
      "rating_limit": "Open",
-     "start": "2026-12-12 12:00"
+     "start": "2026-12-12 11:00"
     },
     {
      "name": "Y10 Men's Saber",
@@ -560,6 +550,16 @@
      "estimate": "U",
      "weapon": "saber",
      "gender": "men",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2026-12-12 12:00"
+    },
+    {
+     "name": "Y10 Women's Saber",
+     "when": "Dec 12 12:00PM",
+     "estimate": "U",
+     "weapon": "saber",
+     "gender": "women",
      "age": "Y10",
      "rating_limit": "Open",
      "start": "2026-12-12 12:00"
@@ -595,6 +595,16 @@
      "start": "2026-12-12 12:30"
     },
     {
+     "name": "Parafencing Senior Men's Foil",
+     "when": "Dec 12 1:00PM",
+     "estimate": "U",
+     "weapon": "foil",
+     "gender": "men",
+     "age": "Senior",
+     "rating_limit": "Open",
+     "start": "2026-12-12 13:00"
+    },
+    {
      "name": "Y14 Men's Saber",
      "when": "Dec 12 1:00PM",
      "estimate": "NR",
@@ -615,16 +625,6 @@
      "start": "2026-12-12 13:00"
     },
     {
-     "name": "Parafencing Senior Men's Foil",
-     "when": "Dec 12 1:00PM",
-     "estimate": "U",
-     "weapon": "foil",
-     "gender": "men",
-     "age": "Senior",
-     "rating_limit": "Open",
-     "start": "2026-12-12 13:00"
-    },
-    {
      "name": "Division IA Women’s Saber",
      "when": "Dec 12 3:00PM",
      "estimate": "E1 · up to 100 pts",
@@ -632,6 +632,16 @@
      "gender": "women",
      "age": "Senior",
      "rating_limit": "Div1A",
+     "start": "2026-12-12 15:00"
+    },
+    {
+     "name": "Y12 Men's Epee",
+     "when": "Dec 12 3:00PM",
+     "estimate": "NR",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Y12",
+     "rating_limit": "Open",
      "start": "2026-12-12 15:00"
     },
     {
@@ -645,14 +655,14 @@
      "start": "2026-12-12 15:00"
     },
     {
-     "name": "Y12 Men's Epee",
-     "when": "Dec 12 3:00PM",
-     "estimate": "NR",
-     "weapon": "epee",
+     "name": "Division IA Team Men’s Saber",
+     "when": "Dec 12 4:00PM",
+     "estimate": "U · up to 100 pts",
+     "weapon": "saber",
      "gender": "men",
-     "age": "Y12",
-     "rating_limit": "Open",
-     "start": "2026-12-12 15:00"
+     "age": "Senior",
+     "rating_limit": "Div1",
+     "start": "2026-12-12 16:00"
     },
     {
      "name": "Division IA Team Men’s Foil",
@@ -675,56 +685,6 @@
      "start": "2026-12-12 16:00"
     },
     {
-     "name": "Division IA Team Men’s Saber",
-     "when": "Dec 12 4:00PM",
-     "estimate": "U · up to 100 pts",
-     "weapon": "saber",
-     "gender": "men",
-     "age": "Senior",
-     "rating_limit": "Div1",
-     "start": "2026-12-12 16:00"
-    },
-    {
-     "name": "Cadet Men's Saber",
-     "when": "Dec 13 8:00AM",
-     "estimate": "C1 · up to 60 pts",
-     "weapon": "saber",
-     "gender": "men",
-     "age": "Cadet",
-     "rating_limit": "Open",
-     "start": "2026-12-13 08:00"
-    },
-    {
-     "name": "Division IA Women’s Epee",
-     "when": "Dec 13 8:00AM",
-     "estimate": "A1 · up to 100 pts",
-     "weapon": "epee",
-     "gender": "women",
-     "age": "Senior",
-     "rating_limit": "Div1A",
-     "start": "2026-12-13 08:00"
-    },
-    {
-     "name": "Junior Women's Saber",
-     "when": "Dec 13 8:00AM",
-     "estimate": "E1 · up to 80 pts",
-     "weapon": "saber",
-     "gender": "women",
-     "age": "Junior",
-     "rating_limit": "Open",
-     "start": "2026-12-13 08:00"
-    },
-    {
-     "name": "Junior Women's Foil",
-     "when": "Dec 13 8:00AM",
-     "estimate": "E1 · up to 80 pts",
-     "weapon": "foil",
-     "gender": "women",
-     "age": "Junior",
-     "rating_limit": "Open",
-     "start": "2026-12-13 08:00"
-    },
-    {
      "name": "Junior Men's Epee",
      "when": "Dec 13 8:00AM",
      "estimate": "A2 · up to 80 pts",
@@ -741,6 +701,46 @@
      "weapon": "foil",
      "gender": "men",
      "age": "Junior",
+     "rating_limit": "Open",
+     "start": "2026-12-13 08:00"
+    },
+    {
+     "name": "Junior Women's Foil",
+     "when": "Dec 13 8:00AM",
+     "estimate": "B1 · up to 80 pts",
+     "weapon": "foil",
+     "gender": "women",
+     "age": "Junior",
+     "rating_limit": "Open",
+     "start": "2026-12-13 08:00"
+    },
+    {
+     "name": "Junior Women's Saber",
+     "when": "Dec 13 8:00AM",
+     "estimate": "E1 · up to 80 pts",
+     "weapon": "saber",
+     "gender": "women",
+     "age": "Junior",
+     "rating_limit": "Open",
+     "start": "2026-12-13 08:00"
+    },
+    {
+     "name": "Division IA Women’s Epee",
+     "when": "Dec 13 8:00AM",
+     "estimate": "A1 · up to 100 pts",
+     "weapon": "epee",
+     "gender": "women",
+     "age": "Senior",
+     "rating_limit": "Div1A",
+     "start": "2026-12-13 08:00"
+    },
+    {
+     "name": "Cadet Men's Saber",
+     "when": "Dec 13 8:00AM",
+     "estimate": "C1 · up to 60 pts",
+     "weapon": "saber",
+     "gender": "men",
+     "age": "Cadet",
      "rating_limit": "Open",
      "start": "2026-12-13 08:00"
     },
@@ -815,22 +815,22 @@
      "start": "2026-12-13 12:00"
     },
     {
+     "name": "Y10 Men's Epee",
+     "when": "Dec 13 1:00PM",
+     "estimate": "NR",
+     "weapon": "epee",
+     "gender": "men",
+     "age": "Y10",
+     "rating_limit": "Open",
+     "start": "2026-12-13 13:00"
+    },
+    {
      "name": "Y10 Women's Epee",
      "when": "Dec 13 1:00PM",
      "estimate": "NR",
      "weapon": "epee",
      "gender": "women",
      "age": "Y10",
-     "rating_limit": "Open",
-     "start": "2026-12-13 13:00"
-    },
-    {
-     "name": "Y12 Men's Foil",
-     "when": "Dec 13 1:00PM",
-     "estimate": "NR",
-     "weapon": "foil",
-     "gender": "men",
-     "age": "Y12",
      "rating_limit": "Open",
      "start": "2026-12-13 13:00"
     },
@@ -845,12 +845,12 @@
      "start": "2026-12-13 13:00"
     },
     {
-     "name": "Y10 Men's Epee",
+     "name": "Y12 Men's Foil",
      "when": "Dec 13 1:00PM",
      "estimate": "NR",
-     "weapon": "epee",
+     "weapon": "foil",
      "gender": "men",
-     "age": "Y10",
+     "age": "Y12",
      "rating_limit": "Open",
      "start": "2026-12-13 13:00"
     },
@@ -899,7 +899,7 @@
     {
      "name": "Y14 Women's Saber",
      "when": "Dec 12 8:00AM",
-     "estimate": "U",
+     "estimate": "NR",
      "weapon": "saber",
      "gender": "women",
      "age": "Y14",
@@ -4766,22 +4766,6 @@
   }
  ],
  "national": [
-  {
-   "source": "usaf",
-   "name": "November 2026 North American Cup",
-   "when": "Nov. 20–23, 2026",
-   "location": "Columbus, Ohio",
-   "start": "2026-11-20",
-   "end": "2026-11-23",
-   "categories": "Division I, Junior, Cadet",
-   "notes": [],
-   "url": "https://www.usafencing.org/2026-november-north-american-cup",
-   "fits": [
-    "Cadet",
-    "Junior",
-    "Division I (qualifying required)"
-   ]
-  },
   {
    "source": "usaf",
    "name": "December 2026 SJCC",
