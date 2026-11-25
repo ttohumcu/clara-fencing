@@ -35,7 +35,7 @@
    {
     "name": "Senior Mixed Saber",
     "when": "Nov 28 12:00PM",
-    "estimate": "U",
+    "estimate": "E1 · up to 25 pts",
     "weapon": "saber",
     "gender": "mixed",
     "age": "Senior",
@@ -190,7 +190,7 @@
    {
     "name": "C & Under (Div 2) Senior Mixed Epee",
     "when": "Dec 5 2:15PM",
-    "estimate": "E1 · up to 25 pts",
+    "estimate": "C1 · up to 35 pts",
     "weapon": "epee",
     "gender": "mixed",
     "age": "Senior",
@@ -405,7 +405,7 @@
    {
     "name": "Division IA Men’s Foil",
     "when": "Dec 11 10:00AM",
-    "estimate": "E1 · up to 100 pts",
+    "estimate": "A1 · up to 100 pts",
     "weapon": "foil",
     "gender": "men",
     "age": "Senior",
