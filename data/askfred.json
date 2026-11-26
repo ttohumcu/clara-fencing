@@ -865,7 +865,7 @@
    {
     "name": "Division IA Women’s Epee",
     "when": "Dec 13 8:00AM",
-    "estimate": "A1 · up to 100 pts",
+    "estimate": "A2 · up to 100 pts",
     "weapon": "epee",
     "gender": "women",
     "age": "Senior",
@@ -1256,6 +1256,71 @@
     "age": "Y14",
     "rating_limit": "Open",
     "start": "2026-12-20 17:00"
+   }
+  ]
+ },
+ {
+  "source": "askfred",
+  "id": "7cb92007-d762-4a0a-b2cd-30e9fbace1e8",
+  "name": "UFA Road to \"A\" Ranking Unrated Tournament",
+  "url": "https://www.askfred.net/tournaments/7cb92007-d762-4a0a-b2cd-30e9fbace1e8",
+  "register_url": "https://www.askfred.net/tournaments/7cb92007-d762-4a0a-b2cd-30e9fbace1e8/preregister",
+  "whos_coming_url": "https://www.askfred.net/tournaments/7cb92007-d762-4a0a-b2cd-30e9fbace1e8/preregistrations",
+  "registration_open": true,
+  "start": "2027-01-16",
+  "end": "2027-01-16",
+  "venue": "Unity Fencing Academy: Pensacola, FL",
+  "distance": 356,
+  "events": [
+   {
+    "name": "Unsanctioned Unrated Senior Mixed Foil",
+    "when": "Jan 16 9:30AM",
+    "estimate": "",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Unrated",
+    "start": "2027-01-16 09:30"
+   },
+   {
+    "name": "Unsanctioned Y14 Mixed Epee",
+    "when": "Jan 16 9:30AM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2027-01-16 09:30"
+   },
+   {
+    "name": "Unsanctioned Unrated Mixed Epee",
+    "when": "Jan 16 12:00PM",
+    "estimate": "",
+    "weapon": "epee",
+    "gender": "mixed",
+    "age": "None",
+    "rating_limit": "Unrated",
+    "start": "2027-01-16 12:00"
+   },
+   {
+    "name": "Unsanctioned Y14 Mixed Foil",
+    "when": "Jan 16 3:30PM",
+    "estimate": "",
+    "weapon": "foil",
+    "gender": "mixed",
+    "age": "Y14",
+    "rating_limit": "Open",
+    "start": "2027-01-16 15:30"
+   },
+   {
+    "name": "Unsanctioned Unrated Senior Mixed Saber",
+    "when": "Jan 16 3:30PM",
+    "estimate": "",
+    "weapon": "saber",
+    "gender": "mixed",
+    "age": "Senior",
+    "rating_limit": "Unrated",
+    "start": "2027-01-16 15:30"
    }
   ]
  },
